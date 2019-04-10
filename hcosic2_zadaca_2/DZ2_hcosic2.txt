@@ -1,0 +1,1157 @@
+Ulice kreirane!
+Korisnici kreirani!
+Spremnici kreirani i dodijeljeni korisnicima!
+Vozila kreirana!
+Podrucja kreirana!
+Bio spremnik 21 je pun
+Bio spremnik 143 je pun
+Bio spremnik 147 je pun
+Bio spremnik 149 je pun
+Bio spremnik 241 je pun
+Bio spremnik 242 je pun
+Bio spremnik 243 je pun
+Bio spremnik 244 je pun
+Bio spremnik 245 je pun
+Bio spremnik 246 je pun
+Bio spremnik 247 je pun
+Bio spremnik 248 je pun
+Bio spremnik 341 je pun
+Bio spremnik 343 je pun
+Bio spremnik 344 je pun
+Bio spremnik 347 je pun
+Bio spremnik 348 je pun
+Bio spremnik 349 je pun
+Bio spremnik 350 je pun
+Bio spremnik 352 je pun
+Bio spremnik 353 je pun
+Bio spremnik 510 je pun
+Bio spremnik 511 je pun
+Bio spremnik 512 je pun
+Bio spremnik 513 je pun
+Bio spremnik 514 je pun
+Bio spremnik 515 je pun
+Ishodista sustava: 
+p1   EZO Aglomeracija Varaždin  podpodrucja: p2,p3
+p6   Đurek  podpodrucja: u4,u5,u6
+_____________________
+|Smece po podrucjima|
+---------------------
+Oznaka podrucja      Naziv Podrucja            Ukupno stakla        Ukupno papir    Ukupno metal    Ukupno bio      Ukupno mjesano 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p1                   EZO Aglomeracija Varaždin 1402.8999kg          2135.75kg       559.58kg        4179.38kg       7093.01kg      
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p2                   Varaždin grad             1003.36kg            1845.3699kg     438.43kg        3449.83kg       5209.6597kg    
+
+p3                   Varaždin okolica          399.53998kg          290.38kg        121.15kg        729.55005kg     1883.3499kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p2                   Varaždin grad             1003.36kg            1845.3699kg     438.43kg        3449.83kg       5209.6597kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p4                   Centar                    605.59kg             1003.29kg       227.11kg        1855.35kg       3137.4697kg    
+
+p5                   Banfica                   397.76996kg          842.0799kg      211.31999kg     1594.4801kg     2072.19kg      
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p3                   Varaždin okolica          399.53998kg          290.38kg        121.15kg        729.55005kg     1883.3499kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p7                   Hrašcica                  163.73kg             103.09999kg     57.89kg         273.26kg        782.6699kg     
+
+p8                   Jalkovec                  235.81kg             187.28003kg     63.260002kg     456.29kg        1100.6799kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p4                   Centar                    605.59kg             1003.29kg       227.11kg        1855.35kg       3137.4697kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+u1                   Pavlinska                 109.75kg             160.03kg        29.779999kg     346.13kg        382.27kg       
+
+u2                   Alojzija Stepinca         66.7kg               29.71kg         27.060001kg     88.48kg         285.96002kg    
+
+u3                   Petra Krešimira IV        429.14kg             813.55kg        170.27kg        1420.74kg       2469.2397kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p5                   Banfica                   397.76996kg          842.0799kg      211.31999kg     1594.4801kg     2072.19kg      
+
+-----------------------------------------------------------------------------------------------------------------------------------
+u7                   Ruđera Boškovića          348.76996kg          805.8499kg      192.18999kg     1545.7701kg     1888.38kg      
+
+u8                   Dravska                   49.0kg               36.23kg         19.130001kg     48.709995kg     183.81kg       
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p6                   Đurek                     1085.92kg            2573.7598kg     567.12kg        4529.1504kg     5471.36kg      
+
+-----------------------------------------------------------------------------------------------------------------------------------
+u4                   Zrinskih i Frankopana     406.93002kg          1086.53kg       218.29001kg     1893.1799kg     2076.3kg       
+
+u5                   Krešimira Filića          552.12kg             1401.0599kg     296.94998kg     2390.98kg       2962.4995kg    
+
+u6                   Tina Ujevića              126.869995kg         86.17kg         51.879997kg     244.99004kg     432.56kg       
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p7                   Hrašcica                  163.73kg             103.09999kg     57.89kg         273.26kg        782.6699kg     
+
+-----------------------------------------------------------------------------------------------------------------------------------
+u11                  Varaždinska               163.73kg             103.09999kg     57.89kg         273.26kg        782.6699kg     
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p8                   Jalkovec                  235.81kg             187.28003kg     63.260002kg     456.29kg        1100.6799kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+u12                  Braće Radića              235.81kg             187.28003kg     63.260002kg     456.29kg        1100.6799kg    
+
+Korisnici:
+|Id: 1 |Ulica: 1 |Kategorija: mali |Staklo: 5.31kg |Papir: 4.24kg |Metal: 0.95kg |Bio: 6.46kg |Mješano: 20.21kg
+|Id: 2 |Ulica: 1 |Kategorija: mali |Staklo: 2.65kg |Papir: 2.98kg |Metal: 0.62kg |Bio: 6.38kg |Mješano: 24.1kg
+|Id: 3 |Ulica: 1 |Kategorija: mali |Staklo: 2.8kg |Papir: 1.64kg |Metal: 1.34kg |Bio: 6.52kg |Mješano: 29.59kg
+|Id: 4 |Ulica: 1 |Kategorija: mali |Staklo: 6.89kg |Papir: 4.46kg |Metal: 0.36kg |Bio: 9.47kg |Mješano: 7.75kg
+|Id: 5 |Ulica: 1 |Kategorija: mali |Staklo: 2.43kg |Papir: 1.91kg |Metal: 0.65kg |Bio: 4.31kg |Mješano: 6.96kg
+|Id: 6 |Ulica: 1 |Kategorija: mali |Staklo: 5.14kg |Papir: 0.6kg |Metal: 0.3kg |Bio: 5.92kg |Mješano: 3.25kg
+|Id: 7 |Ulica: 1 |Kategorija: mali |Staklo: 6.78kg |Papir: 3.03kg |Metal: 0.58kg |Bio: 3.28kg |Mješano: 19.88kg
+|Id: 8 |Ulica: 1 |Kategorija: srednji |Staklo: 8.57kg |Papir: 7.93kg |Metal: 1.06kg |Bio: 41.05kg |Mješano: 98.14kg
+|Id: 9 |Ulica: 1 |Kategorija: srednji |Staklo: 19.85kg |Papir: 11.26kg |Metal: 2.95kg |Bio: 44.71kg |Mješano: 79.7kg
+|Id: 10 |Ulica: 1 |Kategorija: veliki |Staklo: 49.33kg |Papir: 121.98kg |Metal: 20.97kg |Bio: 218.03kg |Mješano: 92.69kg
+|Id: 11 |Ulica: 2 |Kategorija: mali |Staklo: 5.99kg |Papir: 2.35kg |Metal: 1.72kg |Bio: 7.53kg |Mješano: 27.28kg
+|Id: 12 |Ulica: 2 |Kategorija: mali |Staklo: 6.9kg |Papir: 1.1kg |Metal: 1.77kg |Bio: 1.75kg |Mješano: 8.02kg
+|Id: 13 |Ulica: 2 |Kategorija: mali |Staklo: 6.87kg |Papir: 1.88kg |Metal: 2.25kg |Bio: 7.04kg |Mješano: 22.31kg
+|Id: 14 |Ulica: 2 |Kategorija: mali |Staklo: 1.1kg |Papir: 1.14kg |Metal: 1.27kg |Bio: 5.17kg |Mješano: 10.4kg
+|Id: 15 |Ulica: 2 |Kategorija: mali |Staklo: 0.73kg |Papir: 3.5kg |Metal: 0.49kg |Bio: 7.21kg |Mješano: 12.41kg
+|Id: 16 |Ulica: 2 |Kategorija: mali |Staklo: 5.84kg |Papir: 2.02kg |Metal: 1.94kg |Bio: 8.73kg |Mješano: 28.17kg
+|Id: 17 |Ulica: 2 |Kategorija: mali |Staklo: 6.82kg |Papir: 3.85kg |Metal: 2.64kg |Bio: 5.8kg |Mješano: 19.54kg
+|Id: 18 |Ulica: 2 |Kategorija: mali |Staklo: 0.98kg |Papir: 1.31kg |Metal: 1.14kg |Bio: 2.96kg |Mješano: 8.49kg
+|Id: 19 |Ulica: 2 |Kategorija: mali |Staklo: 6.08kg |Papir: 0.87kg |Metal: 0.33kg |Bio: 4.73kg |Mješano: 21.69kg
+|Id: 20 |Ulica: 2 |Kategorija: mali |Staklo: 2.29kg |Papir: 3.97kg |Metal: 2.86kg |Bio: 7.41kg |Mješano: 21.63kg
+|Id: 21 |Ulica: 2 |Kategorija: mali |Staklo: 2.03kg |Papir: 0.72kg |Metal: 2.41kg |Bio: 4.56kg |Mješano: 28.52kg
+|Id: 22 |Ulica: 2 |Kategorija: mali |Staklo: 5.54kg |Papir: 0.56kg |Metal: 1.97kg |Bio: 4.55kg |Mješano: 19.51kg
+|Id: 23 |Ulica: 2 |Kategorija: mali |Staklo: 6.08kg |Papir: 0.61kg |Metal: 2.42kg |Bio: 9.37kg |Mješano: 29.82kg
+|Id: 24 |Ulica: 2 |Kategorija: mali |Staklo: 2.69kg |Papir: 4.47kg |Metal: 1.59kg |Bio: 2.53kg |Mješano: 6.88kg
+|Id: 25 |Ulica: 2 |Kategorija: mali |Staklo: 6.76kg |Papir: 1.36kg |Metal: 2.26kg |Bio: 9.14kg |Mješano: 21.29kg
+|Id: 26 |Ulica: 3 |Kategorija: mali |Staklo: 2.51kg |Papir: 4.12kg |Metal: 2.07kg |Bio: 4.97kg |Mješano: 11.66kg
+|Id: 27 |Ulica: 3 |Kategorija: mali |Staklo: 3.61kg |Papir: 0.93kg |Metal: 2.6kg |Bio: 5.24kg |Mješano: 16.55kg
+|Id: 28 |Ulica: 3 |Kategorija: mali |Staklo: 5.19kg |Papir: 4.96kg |Metal: 1.83kg |Bio: 9.72kg |Mješano: 18.27kg
+|Id: 29 |Ulica: 3 |Kategorija: mali |Staklo: 2.92kg |Papir: 2.19kg |Metal: 0.43kg |Bio: 8.09kg |Mješano: 4.93kg
+|Id: 30 |Ulica: 3 |Kategorija: mali |Staklo: 0.72kg |Papir: 0.63kg |Metal: 0.6kg |Bio: 5.35kg |Mješano: 3.23kg
+|Id: 31 |Ulica: 3 |Kategorija: mali |Staklo: 6.82kg |Papir: 2.67kg |Metal: 2.97kg |Bio: 4.15kg |Mješano: 23.72kg
+|Id: 32 |Ulica: 3 |Kategorija: mali |Staklo: 5.23kg |Papir: 2.76kg |Metal: 2.03kg |Bio: 3.3kg |Mješano: 12.11kg
+|Id: 33 |Ulica: 3 |Kategorija: mali |Staklo: 2.65kg |Papir: 3.84kg |Metal: 2.59kg |Bio: 7.54kg |Mješano: 4.41kg
+|Id: 34 |Ulica: 3 |Kategorija: mali |Staklo: 1.89kg |Papir: 0.55kg |Metal: 0.83kg |Bio: 4.18kg |Mješano: 25.14kg
+|Id: 35 |Ulica: 3 |Kategorija: mali |Staklo: 1.25kg |Papir: 4.67kg |Metal: 2.6kg |Bio: 8.52kg |Mješano: 3.1kg
+|Id: 36 |Ulica: 3 |Kategorija: mali |Staklo: 5.36kg |Papir: 1.89kg |Metal: 2.23kg |Bio: 5.78kg |Mješano: 11.17kg
+|Id: 37 |Ulica: 3 |Kategorija: mali |Staklo: 6.49kg |Papir: 1.91kg |Metal: 1.05kg |Bio: 9.45kg |Mješano: 26.61kg
+|Id: 38 |Ulica: 3 |Kategorija: mali |Staklo: 5.55kg |Papir: 3.24kg |Metal: 1.78kg |Bio: 9.18kg |Mješano: 7.01kg
+|Id: 39 |Ulica: 3 |Kategorija: mali |Staklo: 0.98kg |Papir: 4.9kg |Metal: 2.05kg |Bio: 3.88kg |Mješano: 16.41kg
+|Id: 40 |Ulica: 3 |Kategorija: mali |Staklo: 2.01kg |Papir: 2.78kg |Metal: 1.63kg |Bio: 5.69kg |Mješano: 8.41kg
+|Id: 41 |Ulica: 3 |Kategorija: mali |Staklo: 3.01kg |Papir: 2.2kg |Metal: 1.59kg |Bio: 5.97kg |Mješano: 22.01kg
+|Id: 42 |Ulica: 3 |Kategorija: mali |Staklo: 2.06kg |Papir: 1.95kg |Metal: 1.04kg |Bio: 1.1kg |Mješano: 28.83kg
+|Id: 43 |Ulica: 3 |Kategorija: mali |Staklo: 5.12kg |Papir: 3.93kg |Metal: 2.31kg |Bio: 7.66kg |Mješano: 19.4kg
+|Id: 44 |Ulica: 3 |Kategorija: mali |Staklo: 3.73kg |Papir: 1.56kg |Metal: 1.84kg |Bio: 4.5kg |Mješano: 5.57kg
+|Id: 45 |Ulica: 3 |Kategorija: srednji |Staklo: 18.58kg |Papir: 7.02kg |Metal: 1.67kg |Bio: 33.24kg |Mješano: 20.31kg
+|Id: 46 |Ulica: 3 |Kategorija: srednji |Staklo: 13.5kg |Papir: 6.18kg |Metal: 1.23kg |Bio: 45.71kg |Mješano: 80.38kg
+|Id: 47 |Ulica: 3 |Kategorija: srednji |Staklo: 8.76kg |Papir: 5.65kg |Metal: 2.72kg |Bio: 24.89kg |Mješano: 75.3kg
+|Id: 48 |Ulica: 3 |Kategorija: srednji |Staklo: 10.54kg |Papir: 11.17kg |Metal: 2.41kg |Bio: 16.8kg |Mješano: 73.74kg
+|Id: 49 |Ulica: 3 |Kategorija: srednji |Staklo: 9.55kg |Papir: 11.89kg |Metal: 4.39kg |Bio: 45.78kg |Mješano: 87.06kg
+|Id: 50 |Ulica: 3 |Kategorija: srednji |Staklo: 13.28kg |Papir: 3.04kg |Metal: 3.04kg |Bio: 11.64kg |Mješano: 44.96kg
+|Id: 51 |Ulica: 3 |Kategorija: srednji |Staklo: 14.37kg |Papir: 9.48kg |Metal: 3.45kg |Bio: 48.92kg |Mješano: 21.6kg
+|Id: 52 |Ulica: 3 |Kategorija: srednji |Staklo: 13.82kg |Papir: 7.96kg |Metal: 1.11kg |Bio: 45.12kg |Mješano: 75.12kg
+|Id: 53 |Ulica: 3 |Kategorija: srednji |Staklo: 14.83kg |Papir: 10.56kg |Metal: 2.2kg |Bio: 42.71kg |Mješano: 97.6kg
+|Id: 54 |Ulica: 3 |Kategorija: srednji |Staklo: 15.86kg |Papir: 6.83kg |Metal: 3.53kg |Bio: 26.53kg |Mješano: 45.19kg
+|Id: 55 |Ulica: 3 |Kategorija: srednji |Staklo: 16.65kg |Papir: 12.3kg |Metal: 1.76kg |Bio: 26.43kg |Mješano: 29.8kg
+|Id: 56 |Ulica: 3 |Kategorija: veliki |Staklo: 47.46kg |Papir: 119.9kg |Metal: 13.78kg |Bio: 238.28kg |Mješano: 228.32kg
+|Id: 57 |Ulica: 3 |Kategorija: veliki |Staklo: 25.89kg |Papir: 106.85kg |Metal: 20.12kg |Bio: 78.87kg |Mješano: 127.59kg
+|Id: 58 |Ulica: 3 |Kategorija: veliki |Staklo: 33.82kg |Papir: 56.96kg |Metal: 15.37kg |Bio: 194.69kg |Mješano: 257.47kg
+|Id: 59 |Ulica: 3 |Kategorija: veliki |Staklo: 28.27kg |Papir: 130.93kg |Metal: 21.44kg |Bio: 83.95kg |Mješano: 287.53kg
+|Id: 60 |Ulica: 3 |Kategorija: veliki |Staklo: 23.98kg |Papir: 101.09kg |Metal: 9.92kg |Bio: 112.48kg |Mješano: 220.39kg
+|Id: 61 |Ulica: 3 |Kategorija: veliki |Staklo: 26.68kg |Papir: 99.49kg |Metal: 14.26kg |Bio: 109.13kg |Mješano: 244.46kg
+|Id: 62 |Ulica: 3 |Kategorija: veliki |Staklo: 26.2kg |Papir: 54.57kg |Metal: 13.8kg |Bio: 121.3kg |Mješano: 183.88kg
+|Id: 63 |Ulica: 4 |Kategorija: mali |Staklo: 1.89kg |Papir: 2.53kg |Metal: 1.1kg |Bio: 1.69kg |Mješano: 23.48kg
+|Id: 64 |Ulica: 4 |Kategorija: mali |Staklo: 1.52kg |Papir: 0.71kg |Metal: 2.21kg |Bio: 1.77kg |Mješano: 25.08kg
+|Id: 65 |Ulica: 4 |Kategorija: mali |Staklo: 6.32kg |Papir: 3.68kg |Metal: 1.74kg |Bio: 9.47kg |Mješano: 5.31kg
+|Id: 66 |Ulica: 4 |Kategorija: mali |Staklo: 5.34kg |Papir: 2.89kg |Metal: 2.26kg |Bio: 1.66kg |Mješano: 7.74kg
+|Id: 67 |Ulica: 4 |Kategorija: mali |Staklo: 1.81kg |Papir: 4.85kg |Metal: 2.69kg |Bio: 8.87kg |Mješano: 12.46kg
+|Id: 68 |Ulica: 4 |Kategorija: mali |Staklo: 6.56kg |Papir: 4.94kg |Metal: 0.32kg |Bio: 6.18kg |Mješano: 4.1kg
+|Id: 69 |Ulica: 4 |Kategorija: mali |Staklo: 4.51kg |Papir: 3.15kg |Metal: 1.04kg |Bio: 3.15kg |Mješano: 16.86kg
+|Id: 70 |Ulica: 4 |Kategorija: mali |Staklo: 2.98kg |Papir: 4.75kg |Metal: 1.97kg |Bio: 2.96kg |Mješano: 12.52kg
+|Id: 71 |Ulica: 4 |Kategorija: mali |Staklo: 6.43kg |Papir: 2.21kg |Metal: 0.35kg |Bio: 7.75kg |Mješano: 10.4kg
+|Id: 72 |Ulica: 4 |Kategorija: mali |Staklo: 4.79kg |Papir: 3.51kg |Metal: 2.86kg |Bio: 3.59kg |Mješano: 26.76kg
+|Id: 73 |Ulica: 4 |Kategorija: mali |Staklo: 1.1kg |Papir: 2.11kg |Metal: 0.91kg |Bio: 9.3kg |Mješano: 6.78kg
+|Id: 74 |Ulica: 4 |Kategorija: srednji |Staklo: 17.59kg |Papir: 10.24kg |Metal: 3.71kg |Bio: 39.11kg |Mješano: 63.46kg
+|Id: 75 |Ulica: 4 |Kategorija: srednji |Staklo: 8.86kg |Papir: 8.65kg |Metal: 3.5kg |Bio: 14.86kg |Mješano: 22.86kg
+|Id: 76 |Ulica: 4 |Kategorija: srednji |Staklo: 7.62kg |Papir: 8.73kg |Metal: 2.1kg |Bio: 11.57kg |Mješano: 76.85kg
+|Id: 77 |Ulica: 4 |Kategorija: srednji |Staklo: 18.69kg |Papir: 8.21kg |Metal: 1.44kg |Bio: 42.77kg |Mješano: 66.73kg
+|Id: 78 |Ulica: 4 |Kategorija: srednji |Staklo: 13.67kg |Papir: 13.01kg |Metal: 3.69kg |Bio: 24.18kg |Mješano: 56.01kg
+|Id: 79 |Ulica: 4 |Kategorija: srednji |Staklo: 11.29kg |Papir: 7.13kg |Metal: 3.92kg |Bio: 20.78kg |Mješano: 64.7kg
+|Id: 80 |Ulica: 4 |Kategorija: srednji |Staklo: 15.92kg |Papir: 14.39kg |Metal: 1.82kg |Bio: 10.86kg |Mješano: 31.96kg
+|Id: 81 |Ulica: 4 |Kategorija: srednji |Staklo: 15.29kg |Papir: 14.04kg |Metal: 1.85kg |Bio: 37.51kg |Mješano: 42.25kg
+|Id: 82 |Ulica: 4 |Kategorija: veliki |Staklo: 47.08kg |Papir: 94.26kg |Metal: 9.74kg |Bio: 110.44kg |Mješano: 130.98kg
+|Id: 83 |Ulica: 4 |Kategorija: veliki |Staklo: 23.33kg |Papir: 105.48kg |Metal: 25.87kg |Bio: 243.87kg |Mješano: 121.69kg
+|Id: 84 |Ulica: 4 |Kategorija: veliki |Staklo: 26.61kg |Papir: 141.26kg |Metal: 11.9kg |Bio: 146.52kg |Mješano: 110.43kg
+|Id: 85 |Ulica: 4 |Kategorija: veliki |Staklo: 16.73kg |Papir: 131.07kg |Metal: 24.65kg |Bio: 192.24kg |Mješano: 151.67kg
+|Id: 86 |Ulica: 4 |Kategorija: veliki |Staklo: 30.01kg |Papir: 70.7kg |Metal: 19.08kg |Bio: 151.75kg |Mješano: 264.21kg
+|Id: 87 |Ulica: 4 |Kategorija: veliki |Staklo: 21.8kg |Papir: 101.65kg |Metal: 21.64kg |Bio: 177.27kg |Mješano: 273.58kg
+|Id: 88 |Ulica: 4 |Kategorija: veliki |Staklo: 35.91kg |Papir: 58.68kg |Metal: 16.86kg |Bio: 196.97kg |Mješano: 90.34kg
+|Id: 89 |Ulica: 4 |Kategorija: veliki |Staklo: 35.86kg |Papir: 117.4kg |Metal: 29.5kg |Bio: 199.91kg |Mješano: 121.9kg
+|Id: 90 |Ulica: 4 |Kategorija: veliki |Staklo: 17.42kg |Papir: 146.3kg |Metal: 19.57kg |Bio: 216.18kg |Mješano: 235.19kg
+|Id: 91 |Ulica: 5 |Kategorija: mali |Staklo: 6.12kg |Papir: 4.1kg |Metal: 2.88kg |Bio: 7.49kg |Mješano: 17.79kg
+|Id: 92 |Ulica: 5 |Kategorija: mali |Staklo: 2.85kg |Papir: 3.51kg |Metal: 0.47kg |Bio: 8.08kg |Mješano: 12.43kg
+|Id: 93 |Ulica: 5 |Kategorija: mali |Staklo: 2.58kg |Papir: 2.84kg |Metal: 2.47kg |Bio: 9.61kg |Mješano: 10.71kg
+|Id: 94 |Ulica: 5 |Kategorija: mali |Staklo: 5.07kg |Papir: 2.14kg |Metal: 0.63kg |Bio: 9.83kg |Mješano: 16.64kg
+|Id: 95 |Ulica: 5 |Kategorija: mali |Staklo: 0.71kg |Papir: 4.56kg |Metal: 1.95kg |Bio: 2.5kg |Mješano: 8.61kg
+|Id: 96 |Ulica: 5 |Kategorija: mali |Staklo: 2.9kg |Papir: 3.18kg |Metal: 2.18kg |Bio: 2.21kg |Mješano: 3.88kg
+|Id: 97 |Ulica: 5 |Kategorija: mali |Staklo: 2.19kg |Papir: 1.67kg |Metal: 0.53kg |Bio: 5.18kg |Mješano: 25.57kg
+|Id: 98 |Ulica: 5 |Kategorija: mali |Staklo: 3.26kg |Papir: 1.5kg |Metal: 0.8kg |Bio: 7.8kg |Mješano: 10.92kg
+|Id: 99 |Ulica: 5 |Kategorija: mali |Staklo: 3.77kg |Papir: 3.09kg |Metal: 1.34kg |Bio: 2.52kg |Mješano: 11.38kg
+|Id: 100 |Ulica: 5 |Kategorija: mali |Staklo: 3.04kg |Papir: 4.56kg |Metal: 0.93kg |Bio: 8.4kg |Mješano: 17.54kg
+|Id: 101 |Ulica: 5 |Kategorija: mali |Staklo: 4.44kg |Papir: 2.1kg |Metal: 2.7kg |Bio: 3.79kg |Mješano: 10.46kg
+|Id: 102 |Ulica: 5 |Kategorija: mali |Staklo: 5.98kg |Papir: 2.93kg |Metal: 2.11kg |Bio: 5.08kg |Mješano: 5.94kg
+|Id: 103 |Ulica: 5 |Kategorija: mali |Staklo: 1.59kg |Papir: 4.71kg |Metal: 1.53kg |Bio: 8.88kg |Mješano: 4.23kg
+|Id: 104 |Ulica: 5 |Kategorija: srednji |Staklo: 17.63kg |Papir: 7.41kg |Metal: 2.58kg |Bio: 24.3kg |Mješano: 50.26kg
+|Id: 105 |Ulica: 5 |Kategorija: srednji |Staklo: 16.45kg |Papir: 9.32kg |Metal: 3.52kg |Bio: 10.16kg |Mješano: 43.73kg
+|Id: 106 |Ulica: 5 |Kategorija: srednji |Staklo: 4.55kg |Papir: 11.99kg |Metal: 4.15kg |Bio: 44.19kg |Mješano: 41.7kg
+|Id: 107 |Ulica: 5 |Kategorija: srednji |Staklo: 13.52kg |Papir: 11.66kg |Metal: 4.01kg |Bio: 26.78kg |Mješano: 35.18kg
+|Id: 108 |Ulica: 5 |Kategorija: srednji |Staklo: 8.65kg |Papir: 4.78kg |Metal: 1.98kg |Bio: 24.87kg |Mješano: 30.02kg
+|Id: 109 |Ulica: 5 |Kategorija: srednji |Staklo: 18.43kg |Papir: 4.78kg |Metal: 3.57kg |Bio: 23.5kg |Mješano: 67.04kg
+|Id: 110 |Ulica: 5 |Kategorija: veliki |Staklo: 44.31kg |Papir: 118.37kg |Metal: 26.74kg |Bio: 217.47kg |Mješano: 144.82kg
+|Id: 111 |Ulica: 5 |Kategorija: veliki |Staklo: 34.7kg |Papir: 110.12kg |Metal: 13.92kg |Bio: 160.88kg |Mješano: 276.86kg
+|Id: 112 |Ulica: 5 |Kategorija: veliki |Staklo: 29.54kg |Papir: 93.2kg |Metal: 26.94kg |Bio: 105.29kg |Mješano: 262.22kg
+|Id: 113 |Ulica: 5 |Kategorija: veliki |Staklo: 31.94kg |Papir: 50.22kg |Metal: 25.37kg |Bio: 120.73kg |Mješano: 227.98kg
+|Id: 114 |Ulica: 5 |Kategorija: veliki |Staklo: 44.4kg |Papir: 81.46kg |Metal: 18.9kg |Bio: 204.71kg |Mješano: 132.39kg
+|Id: 115 |Ulica: 5 |Kategorija: veliki |Staklo: 45.67kg |Papir: 105.78kg |Metal: 15.15kg |Bio: 202.26kg |Mješano: 296.46kg
+|Id: 116 |Ulica: 5 |Kategorija: veliki |Staklo: 15.56kg |Papir: 132.1kg |Metal: 24.9kg |Bio: 209.95kg |Mješano: 251.08kg
+|Id: 117 |Ulica: 5 |Kategorija: veliki |Staklo: 27.73kg |Papir: 134.97kg |Metal: 12.28kg |Bio: 115.2kg |Mješano: 147.15kg
+|Id: 118 |Ulica: 5 |Kategorija: veliki |Staklo: 21.08kg |Papir: 71.48kg |Metal: 27.81kg |Bio: 75.25kg |Mješano: 163.75kg
+|Id: 119 |Ulica: 5 |Kategorija: veliki |Staklo: 24.4kg |Papir: 126.28kg |Metal: 14.07kg |Bio: 214.89kg |Mješano: 114.89kg
+|Id: 120 |Ulica: 5 |Kategorija: veliki |Staklo: 37.69kg |Papir: 127.66kg |Metal: 20.5kg |Bio: 243.49kg |Mješano: 94.14kg
+|Id: 121 |Ulica: 5 |Kategorija: veliki |Staklo: 22.34kg |Papir: 110.4kg |Metal: 12.47kg |Bio: 83.15kg |Mješano: 228.49kg
+|Id: 122 |Ulica: 5 |Kategorija: veliki |Staklo: 49.03kg |Papir: 48.19kg |Metal: 17.57kg |Bio: 202.54kg |Mješano: 198.24kg
+|Id: 123 |Ulica: 6 |Kategorija: mali |Staklo: 3.7kg |Papir: 0.55kg |Metal: 0.79kg |Bio: 2.31kg |Mješano: 22.25kg
+|Id: 124 |Ulica: 6 |Kategorija: mali |Staklo: 6.07kg |Papir: 2.21kg |Metal: 0.98kg |Bio: 3.01kg |Mješano: 8.9kg
+|Id: 125 |Ulica: 6 |Kategorija: mali |Staklo: 1.92kg |Papir: 1.14kg |Metal: 1.85kg |Bio: 8.3kg |Mješano: 17.71kg
+|Id: 126 |Ulica: 6 |Kategorija: mali |Staklo: 2.69kg |Papir: 3.93kg |Metal: 1.75kg |Bio: 3.08kg |Mješano: 16.97kg
+|Id: 127 |Ulica: 6 |Kategorija: mali |Staklo: 6.82kg |Papir: 2.96kg |Metal: 1.55kg |Bio: 4.31kg |Mješano: 14.16kg
+|Id: 128 |Ulica: 6 |Kategorija: mali |Staklo: 1.62kg |Papir: 3.3kg |Metal: 0.89kg |Bio: 3.24kg |Mješano: 13.15kg
+|Id: 129 |Ulica: 6 |Kategorija: mali |Staklo: 5.53kg |Papir: 4.61kg |Metal: 1.3kg |Bio: 5.76kg |Mješano: 26.63kg
+|Id: 130 |Ulica: 6 |Kategorija: mali |Staklo: 1.36kg |Papir: 3.44kg |Metal: 1.88kg |Bio: 5.48kg |Mješano: 12.45kg
+|Id: 131 |Ulica: 6 |Kategorija: mali |Staklo: 3.33kg |Papir: 2.4kg |Metal: 2.1kg |Bio: 8.6kg |Mješano: 3.42kg
+|Id: 132 |Ulica: 6 |Kategorija: mali |Staklo: 4.2kg |Papir: 1.24kg |Metal: 1.97kg |Bio: 7.69kg |Mješano: 15.33kg
+|Id: 133 |Ulica: 6 |Kategorija: mali |Staklo: 6.55kg |Papir: 4.64kg |Metal: 1.35kg |Bio: 7.04kg |Mješano: 13.1kg
+|Id: 134 |Ulica: 6 |Kategorija: mali |Staklo: 1.54kg |Papir: 0.83kg |Metal: 2.84kg |Bio: 2.12kg |Mješano: 11.27kg
+|Id: 135 |Ulica: 6 |Kategorija: mali |Staklo: 4.04kg |Papir: 4.18kg |Metal: 2.81kg |Bio: 5.48kg |Mješano: 3.46kg
+|Id: 136 |Ulica: 6 |Kategorija: mali |Staklo: 1.77kg |Papir: 1.98kg |Metal: 2.5kg |Bio: 6.24kg |Mješano: 7.6kg
+|Id: 137 |Ulica: 6 |Kategorija: mali |Staklo: 2.97kg |Papir: 2.19kg |Metal: 0.41kg |Bio: 9.77kg |Mješano: 23.86kg
+|Id: 138 |Ulica: 6 |Kategorija: mali |Staklo: 3.26kg |Papir: 0.63kg |Metal: 2.35kg |Bio: 5.71kg |Mješano: 7.02kg
+|Id: 139 |Ulica: 6 |Kategorija: mali |Staklo: 3.14kg |Papir: 3.36kg |Metal: 2.11kg |Bio: 9.09kg |Mješano: 19.53kg
+|Id: 140 |Ulica: 6 |Kategorija: mali |Staklo: 2.44kg |Papir: 1.59kg |Metal: 2.03kg |Bio: 4.55kg |Mješano: 10.68kg
+|Id: 141 |Ulica: 6 |Kategorija: mali |Staklo: 6.97kg |Papir: 1.91kg |Metal: 1.09kg |Bio: 6.15kg |Mješano: 6.68kg
+|Id: 142 |Ulica: 6 |Kategorija: mali |Staklo: 5.13kg |Papir: 2.47kg |Metal: 1.68kg |Bio: 6.33kg |Mješano: 7.66kg
+|Id: 143 |Ulica: 6 |Kategorija: mali |Staklo: 1.27kg |Papir: 2.04kg |Metal: 2.67kg |Bio: 2.82kg |Mješano: 16.42kg
+|Id: 144 |Ulica: 6 |Kategorija: mali |Staklo: 4.78kg |Papir: 2.89kg |Metal: 2.3kg |Bio: 7.32kg |Mješano: 9.84kg
+|Id: 145 |Ulica: 6 |Kategorija: mali |Staklo: 4.43kg |Papir: 3.38kg |Metal: 2.83kg |Bio: 2.11kg |Mješano: 13.07kg
+|Id: 146 |Ulica: 6 |Kategorija: mali |Staklo: 1.46kg |Papir: 0.76kg |Metal: 0.61kg |Bio: 2.59kg |Mješano: 7.3kg
+|Id: 147 |Ulica: 6 |Kategorija: srednji |Staklo: 10.6kg |Papir: 7.62kg |Metal: 3.6kg |Bio: 33.43kg |Mješano: 76.93kg
+|Id: 148 |Ulica: 6 |Kategorija: srednji |Staklo: 15.37kg |Papir: 14.31kg |Metal: 1.75kg |Bio: 47.97kg |Mješano: 24.93kg
+|Id: 149 |Ulica: 6 |Kategorija: srednji |Staklo: 13.91kg |Papir: 5.61kg |Metal: 3.89kg |Bio: 34.49kg |Mješano: 22.24kg
+|Id: 150 |Ulica: 7 |Kategorija: mali |Staklo: 2.96kg |Papir: 1.19kg |Metal: 1.6kg |Bio: 1.83kg |Mješano: 10.25kg
+|Id: 151 |Ulica: 7 |Kategorija: mali |Staklo: 6.62kg |Papir: 3.44kg |Metal: 2.33kg |Bio: 6.65kg |Mješano: 8.08kg
+|Id: 152 |Ulica: 7 |Kategorija: mali |Staklo: 1.83kg |Papir: 4.8kg |Metal: 0.74kg |Bio: 1.36kg |Mješano: 21.62kg
+|Id: 153 |Ulica: 7 |Kategorija: mali |Staklo: 2.02kg |Papir: 3.51kg |Metal: 2.01kg |Bio: 7.4kg |Mješano: 24.15kg
+|Id: 154 |Ulica: 7 |Kategorija: mali |Staklo: 1.58kg |Papir: 2.13kg |Metal: 2.89kg |Bio: 2.34kg |Mješano: 24.15kg
+|Id: 155 |Ulica: 7 |Kategorija: mali |Staklo: 4.38kg |Papir: 4.99kg |Metal: 2.55kg |Bio: 9.3kg |Mješano: 21.13kg
+|Id: 156 |Ulica: 7 |Kategorija: mali |Staklo: 5.04kg |Papir: 2.31kg |Metal: 1.69kg |Bio: 4.63kg |Mješano: 13.38kg
+|Id: 157 |Ulica: 7 |Kategorija: mali |Staklo: 4.33kg |Papir: 3.62kg |Metal: 0.9kg |Bio: 5.26kg |Mješano: 27.87kg
+|Id: 158 |Ulica: 7 |Kategorija: mali |Staklo: 1.38kg |Papir: 1.82kg |Metal: 2.43kg |Bio: 8.48kg |Mješano: 25.08kg
+|Id: 159 |Ulica: 7 |Kategorija: mali |Staklo: 1.23kg |Papir: 3.65kg |Metal: 2.38kg |Bio: 7.66kg |Mješano: 17.74kg
+|Id: 160 |Ulica: 7 |Kategorija: mali |Staklo: 4.82kg |Papir: 2.87kg |Metal: 1.55kg |Bio: 6.34kg |Mješano: 14.98kg
+|Id: 161 |Ulica: 7 |Kategorija: mali |Staklo: 2.35kg |Papir: 1.33kg |Metal: 1.93kg |Bio: 8.79kg |Mješano: 5.3kg
+|Id: 162 |Ulica: 7 |Kategorija: mali |Staklo: 2.52kg |Papir: 4.35kg |Metal: 1.08kg |Bio: 8.33kg |Mješano: 8.97kg
+|Id: 163 |Ulica: 7 |Kategorija: mali |Staklo: 2.54kg |Papir: 2.66kg |Metal: 1.5kg |Bio: 8.39kg |Mješano: 22.99kg
+|Id: 164 |Ulica: 7 |Kategorija: srednji |Staklo: 5.07kg |Papir: 14.52kg |Metal: 3.35kg |Bio: 29.6kg |Mješano: 87.33kg
+|Id: 165 |Ulica: 7 |Kategorija: srednji |Staklo: 15.65kg |Papir: 3.78kg |Metal: 2.77kg |Bio: 40.98kg |Mješano: 53.86kg
+|Id: 166 |Ulica: 7 |Kategorija: srednji |Staklo: 16.6kg |Papir: 5.81kg |Metal: 3.74kg |Bio: 39.74kg |Mješano: 24.14kg
+|Id: 167 |Ulica: 7 |Kategorija: srednji |Staklo: 15.02kg |Papir: 12.96kg |Metal: 1.41kg |Bio: 23.47kg |Mješano: 80.49kg
+|Id: 168 |Ulica: 7 |Kategorija: srednji |Staklo: 18.02kg |Papir: 8.45kg |Metal: 4.35kg |Bio: 48.92kg |Mješano: 50.6kg
+|Id: 169 |Ulica: 7 |Kategorija: srednji |Staklo: 8.89kg |Papir: 7.15kg |Metal: 1.88kg |Bio: 38.68kg |Mješano: 86.79kg
+|Id: 170 |Ulica: 7 |Kategorija: veliki |Staklo: 30.15kg |Papir: 115.93kg |Metal: 21.98kg |Bio: 182.1kg |Mješano: 188.29kg
+|Id: 171 |Ulica: 7 |Kategorija: veliki |Staklo: 15.61kg |Papir: 64.52kg |Metal: 21.71kg |Bio: 199.79kg |Mješano: 265.04kg
+|Id: 172 |Ulica: 7 |Kategorija: veliki |Staklo: 44.99kg |Papir: 73.92kg |Metal: 15.6kg |Bio: 124.76kg |Mješano: 94.97kg
+|Id: 173 |Ulica: 7 |Kategorija: veliki |Staklo: 34.33kg |Papir: 67.03kg |Metal: 16.95kg |Bio: 213.33kg |Mješano: 130.15kg
+|Id: 174 |Ulica: 7 |Kategorija: veliki |Staklo: 29.75kg |Papir: 147.52kg |Metal: 15.87kg |Bio: 144.42kg |Mješano: 91.2kg
+|Id: 175 |Ulica: 7 |Kategorija: veliki |Staklo: 17.77kg |Papir: 83.37kg |Metal: 10.08kg |Bio: 201.07kg |Mješano: 132.13kg
+|Id: 176 |Ulica: 7 |Kategorija: veliki |Staklo: 21.93kg |Papir: 86.28kg |Metal: 22.75kg |Bio: 90.89kg |Mješano: 233.8kg
+|Id: 177 |Ulica: 7 |Kategorija: veliki |Staklo: 31.39kg |Papir: 71.94kg |Metal: 24.17kg |Bio: 81.26kg |Mješano: 123.9kg
+|Id: 178 |Ulica: 8 |Kategorija: mali |Staklo: 1.77kg |Papir: 4.87kg |Metal: 2.4kg |Bio: 5.74kg |Mješano: 18.99kg
+|Id: 179 |Ulica: 8 |Kategorija: mali |Staklo: 3.99kg |Papir: 1.68kg |Metal: 1.8kg |Bio: 6.72kg |Mješano: 9.67kg
+|Id: 180 |Ulica: 8 |Kategorija: mali |Staklo: 2.29kg |Papir: 2.46kg |Metal: 2.81kg |Bio: 1.25kg |Mješano: 19.98kg
+|Id: 181 |Ulica: 8 |Kategorija: mali |Staklo: 5.41kg |Papir: 4.66kg |Metal: 0.73kg |Bio: 6.86kg |Mješano: 21.81kg
+|Id: 182 |Ulica: 8 |Kategorija: mali |Staklo: 3.79kg |Papir: 1.35kg |Metal: 2.34kg |Bio: 1.39kg |Mješano: 12.81kg
+|Id: 183 |Ulica: 8 |Kategorija: mali |Staklo: 6.78kg |Papir: 4.05kg |Metal: 1.59kg |Bio: 2.2kg |Mješano: 9.65kg
+|Id: 184 |Ulica: 8 |Kategorija: mali |Staklo: 3.5kg |Papir: 4.38kg |Metal: 1.14kg |Bio: 5.49kg |Mješano: 21.65kg
+|Id: 185 |Ulica: 8 |Kategorija: mali |Staklo: 2.63kg |Papir: 0.78kg |Metal: 1.68kg |Bio: 3.81kg |Mješano: 10.9kg
+|Id: 186 |Ulica: 8 |Kategorija: mali |Staklo: 6.71kg |Papir: 3.12kg |Metal: 1.12kg |Bio: 6.24kg |Mješano: 15.17kg
+|Id: 187 |Ulica: 8 |Kategorija: mali |Staklo: 1.09kg |Papir: 0.96kg |Metal: 0.86kg |Bio: 2.71kg |Mješano: 18.89kg
+|Id: 188 |Ulica: 8 |Kategorija: mali |Staklo: 4.98kg |Papir: 4.91kg |Metal: 1.02kg |Bio: 3.32kg |Mješano: 5.64kg
+|Id: 189 |Ulica: 8 |Kategorija: mali |Staklo: 6.06kg |Papir: 3.01kg |Metal: 1.64kg |Bio: 2.98kg |Mješano: 18.65kg
+|Id: 190 |Ulica: 9 |Kategorija: mali |Staklo: 6.69kg |Papir: 0.75kg |Metal: 2.44kg |Bio: 6.31kg |Mješano: 17.47kg
+|Id: 191 |Ulica: 9 |Kategorija: mali |Staklo: 6.85kg |Papir: 3.46kg |Metal: 0.78kg |Bio: 5.56kg |Mješano: 16.67kg
+|Id: 192 |Ulica: 9 |Kategorija: mali |Staklo: 6.14kg |Papir: 3.59kg |Metal: 2.45kg |Bio: 9.74kg |Mješano: 21.32kg
+|Id: 193 |Ulica: 9 |Kategorija: mali |Staklo: 2.27kg |Papir: 2.64kg |Metal: 2.48kg |Bio: 5.45kg |Mješano: 11.48kg
+|Id: 194 |Ulica: 9 |Kategorija: mali |Staklo: 3.36kg |Papir: 2.4kg |Metal: 1.52kg |Bio: 2.57kg |Mješano: 8.18kg
+|Id: 195 |Ulica: 9 |Kategorija: mali |Staklo: 2.5kg |Papir: 0.51kg |Metal: 2.08kg |Bio: 9.27kg |Mješano: 12.32kg
+|Id: 196 |Ulica: 9 |Kategorija: mali |Staklo: 3.9kg |Papir: 3.27kg |Metal: 0.46kg |Bio: 5.15kg |Mješano: 23.57kg
+|Id: 197 |Ulica: 9 |Kategorija: mali |Staklo: 4.32kg |Papir: 0.73kg |Metal: 1.17kg |Bio: 4.75kg |Mješano: 15.9kg
+|Id: 198 |Ulica: 9 |Kategorija: mali |Staklo: 2.14kg |Papir: 2.16kg |Metal: 2.91kg |Bio: 6.53kg |Mješano: 16.69kg
+|Id: 199 |Ulica: 9 |Kategorija: mali |Staklo: 1.1kg |Papir: 1.31kg |Metal: 0.38kg |Bio: 3.44kg |Mješano: 27.65kg
+|Id: 200 |Ulica: 9 |Kategorija: mali |Staklo: 3.68kg |Papir: 1.59kg |Metal: 0.68kg |Bio: 8.2kg |Mješano: 19.8kg
+|Id: 201 |Ulica: 9 |Kategorija: mali |Staklo: 6.27kg |Papir: 4.37kg |Metal: 1.05kg |Bio: 1.71kg |Mješano: 25.88kg
+|Id: 202 |Ulica: 9 |Kategorija: mali |Staklo: 6.65kg |Papir: 1.31kg |Metal: 2.07kg |Bio: 2.17kg |Mješano: 26.83kg
+|Id: 203 |Ulica: 9 |Kategorija: mali |Staklo: 5.13kg |Papir: 3.22kg |Metal: 0.66kg |Bio: 6.42kg |Mješano: 15.11kg
+|Id: 204 |Ulica: 9 |Kategorija: mali |Staklo: 6.44kg |Papir: 2.69kg |Metal: 2.47kg |Bio: 5.24kg |Mješano: 13.57kg
+|Id: 205 |Ulica: 9 |Kategorija: mali |Staklo: 1.27kg |Papir: 1.67kg |Metal: 1.2kg |Bio: 7.66kg |Mješano: 23.83kg
+|Id: 206 |Ulica: 9 |Kategorija: mali |Staklo: 1.59kg |Papir: 1.34kg |Metal: 0.38kg |Bio: 8.17kg |Mješano: 8.26kg
+|Id: 207 |Ulica: 9 |Kategorija: mali |Staklo: 4.99kg |Papir: 2.31kg |Metal: 0.56kg |Bio: 8.93kg |Mješano: 20.87kg
+|Id: 208 |Ulica: 9 |Kategorija: mali |Staklo: 1.42kg |Papir: 1.19kg |Metal: 2.85kg |Bio: 6.34kg |Mješano: 27.24kg
+|Id: 209 |Ulica: 9 |Kategorija: mali |Staklo: 1.23kg |Papir: 1.89kg |Metal: 2.17kg |Bio: 4.27kg |Mješano: 22.95kg
+|Id: 210 |Ulica: 9 |Kategorija: mali |Staklo: 3.71kg |Papir: 1.27kg |Metal: 0.52kg |Bio: 1.06kg |Mješano: 22.64kg
+|Id: 211 |Ulica: 9 |Kategorija: mali |Staklo: 4.47kg |Papir: 3.47kg |Metal: 1.89kg |Bio: 5.55kg |Mješano: 3.74kg
+|Id: 212 |Ulica: 9 |Kategorija: mali |Staklo: 6.7kg |Papir: 4.28kg |Metal: 2.52kg |Bio: 1.66kg |Mješano: 22.48kg
+|Id: 213 |Ulica: 9 |Kategorija: mali |Staklo: 5.94kg |Papir: 2.68kg |Metal: 0.92kg |Bio: 3.3kg |Mješano: 18.02kg
+|Id: 214 |Ulica: 9 |Kategorija: srednji |Staklo: 10.84kg |Papir: 6.22kg |Metal: 4.35kg |Bio: 27.03kg |Mješano: 97.28kg
+|Id: 215 |Ulica: 9 |Kategorija: srednji |Staklo: 9.16kg |Papir: 6.69kg |Metal: 1.33kg |Bio: 13.51kg |Mješano: 53.8kg
+|Id: 216 |Ulica: 9 |Kategorija: srednji |Staklo: 17.1kg |Papir: 8.08kg |Metal: 2.99kg |Bio: 24.97kg |Mješano: 60.5kg
+|Id: 217 |Ulica: 9 |Kategorija: srednji |Staklo: 6.64kg |Papir: 9.85kg |Metal: 4.13kg |Bio: 35.54kg |Mješano: 33.98kg
+|Id: 218 |Ulica: 9 |Kategorija: srednji |Staklo: 13.43kg |Papir: 5.88kg |Metal: 3.6kg |Bio: 30.73kg |Mješano: 40.23kg
+|Id: 219 |Ulica: 9 |Kategorija: srednji |Staklo: 7.8kg |Papir: 12.28kg |Metal: 4.88kg |Bio: 12.03kg |Mješano: 54.41kg
+|Id: 220 |Ulica: 10 |Kategorija: mali |Staklo: 6.81kg |Papir: 2.9kg |Metal: 1.36kg |Bio: 8.53kg |Mješano: 15.89kg
+|Id: 221 |Ulica: 10 |Kategorija: mali |Staklo: 1.29kg |Papir: 2.35kg |Metal: 0.65kg |Bio: 6.38kg |Mješano: 19.23kg
+|Id: 222 |Ulica: 10 |Kategorija: mali |Staklo: 2.65kg |Papir: 0.58kg |Metal: 0.62kg |Bio: 4.62kg |Mješano: 22.18kg
+|Id: 223 |Ulica: 10 |Kategorija: mali |Staklo: 3.31kg |Papir: 1.63kg |Metal: 1.73kg |Bio: 6.24kg |Mješano: 13.91kg
+|Id: 224 |Ulica: 10 |Kategorija: mali |Staklo: 2.83kg |Papir: 3.85kg |Metal: 1.41kg |Bio: 5.66kg |Mješano: 21.03kg
+|Id: 225 |Ulica: 10 |Kategorija: mali |Staklo: 5.6kg |Papir: 3.1kg |Metal: 1.51kg |Bio: 9.25kg |Mješano: 5.86kg
+|Id: 226 |Ulica: 10 |Kategorija: mali |Staklo: 0.78kg |Papir: 2.17kg |Metal: 1.01kg |Bio: 5.42kg |Mješano: 15.22kg
+|Id: 227 |Ulica: 10 |Kategorija: mali |Staklo: 6.03kg |Papir: 1.33kg |Metal: 1.78kg |Bio: 8.24kg |Mješano: 26.63kg
+|Id: 228 |Ulica: 10 |Kategorija: mali |Staklo: 3.75kg |Papir: 3.25kg |Metal: 2.4kg |Bio: 6.37kg |Mješano: 7.31kg
+|Id: 229 |Ulica: 10 |Kategorija: mali |Staklo: 5.16kg |Papir: 4.17kg |Metal: 1.17kg |Bio: 6.42kg |Mješano: 20.61kg
+|Id: 230 |Ulica: 10 |Kategorija: mali |Staklo: 4.02kg |Papir: 4.44kg |Metal: 2.72kg |Bio: 7.8kg |Mješano: 21.33kg
+|Id: 231 |Ulica: 10 |Kategorija: mali |Staklo: 1.34kg |Papir: 4.65kg |Metal: 0.56kg |Bio: 1.69kg |Mješano: 11.29kg
+|Id: 232 |Ulica: 10 |Kategorija: mali |Staklo: 2.09kg |Papir: 3.08kg |Metal: 1.91kg |Bio: 4.42kg |Mješano: 4.43kg
+|Id: 233 |Ulica: 10 |Kategorija: mali |Staklo: 5.19kg |Papir: 1.18kg |Metal: 0.59kg |Bio: 6.35kg |Mješano: 5.04kg
+|Id: 234 |Ulica: 10 |Kategorija: mali |Staklo: 6.96kg |Papir: 4.16kg |Metal: 1.41kg |Bio: 6.3kg |Mješano: 15.96kg
+|Id: 235 |Ulica: 10 |Kategorija: mali |Staklo: 4.58kg |Papir: 4.44kg |Metal: 1.56kg |Bio: 8.5kg |Mješano: 11.24kg
+|Id: 236 |Ulica: 10 |Kategorija: mali |Staklo: 1.08kg |Papir: 0.58kg |Metal: 0.31kg |Bio: 1.67kg |Mješano: 19.16kg
+|Id: 237 |Ulica: 10 |Kategorija: mali |Staklo: 4.16kg |Papir: 3.56kg |Metal: 2.66kg |Bio: 9.09kg |Mješano: 28.46kg
+|Id: 238 |Ulica: 10 |Kategorija: mali |Staklo: 0.9kg |Papir: 1.35kg |Metal: 2.42kg |Bio: 1.62kg |Mješano: 25.4kg
+|Id: 239 |Ulica: 10 |Kategorija: mali |Staklo: 1.89kg |Papir: 2.23kg |Metal: 0.63kg |Bio: 7.6kg |Mješano: 27.64kg
+|Id: 240 |Ulica: 10 |Kategorija: mali |Staklo: 3.37kg |Papir: 2.53kg |Metal: 2.52kg |Bio: 9.13kg |Mješano: 10.34kg
+|Id: 241 |Ulica: 10 |Kategorija: mali |Staklo: 5.37kg |Papir: 3.66kg |Metal: 0.53kg |Bio: 5.13kg |Mješano: 10.85kg
+|Id: 242 |Ulica: 10 |Kategorija: mali |Staklo: 4.26kg |Papir: 0.68kg |Metal: 1.06kg |Bio: 7.64kg |Mješano: 5.27kg
+|Id: 243 |Ulica: 10 |Kategorija: mali |Staklo: 1.25kg |Papir: 3.09kg |Metal: 1.12kg |Bio: 2.65kg |Mješano: 22.82kg
+|Id: 244 |Ulica: 10 |Kategorija: mali |Staklo: 2.07kg |Papir: 3.96kg |Metal: 2.9kg |Bio: 4.34kg |Mješano: 5.64kg
+|Id: 245 |Ulica: 10 |Kategorija: srednji |Staklo: 13.16kg |Papir: 8.8kg |Metal: 2.65kg |Bio: 44.74kg |Mješano: 44.46kg
+|Id: 246 |Ulica: 10 |Kategorija: srednji |Staklo: 8.06kg |Papir: 13.16kg |Metal: 1.24kg |Bio: 22.83kg |Mješano: 60.59kg
+|Id: 247 |Ulica: 10 |Kategorija: srednji |Staklo: 4.59kg |Papir: 12.91kg |Metal: 1.32kg |Bio: 25.17kg |Mješano: 50.32kg
+|Id: 248 |Ulica: 10 |Kategorija: srednji |Staklo: 17.54kg |Papir: 10.29kg |Metal: 2.19kg |Bio: 26.08kg |Mješano: 67.31kg
+|Id: 249 |Ulica: 10 |Kategorija: srednji |Staklo: 15.69kg |Papir: 7.25kg |Metal: 2.16kg |Bio: 44.07kg |Mješano: 87.33kg
+|Id: 250 |Ulica: 10 |Kategorija: srednji |Staklo: 10.67kg |Papir: 10.12kg |Metal: 2.71kg |Bio: 22.49kg |Mješano: 80.07kg
+|Id: 251 |Ulica: 10 |Kategorija: srednji |Staklo: 14.25kg |Papir: 6.71kg |Metal: 1.77kg |Bio: 17.32kg |Mješano: 69.6kg
+|Id: 252 |Ulica: 10 |Kategorija: srednji |Staklo: 18.21kg |Papir: 14.86kg |Metal: 1.74kg |Bio: 19.54kg |Mješano: 78.03kg
+|Id: 253 |Ulica: 10 |Kategorija: srednji |Staklo: 13.24kg |Papir: 12.86kg |Metal: 4.73kg |Bio: 28.56kg |Mješano: 28.72kg
+|Id: 254 |Ulica: 10 |Kategorija: srednji |Staklo: 13.84kg |Papir: 12.41kg |Metal: 2.65kg |Bio: 15.3kg |Mješano: 98.42kg
+|Id: 255 |Ulica: 10 |Kategorija: srednji |Staklo: 19.82kg |Papir: 8.99kg |Metal: 3.56kg |Bio: 39.13kg |Mješano: 43.09kg
+(Ciklus: 1) Pokupljen je spremnik 1 u ulici 1, popunjenost vozila staklarko 1 je 64.0/4000kg
+(Ciklus: 2) Pokupljen je spremnik 5 u ulici 1, popunjenost vozila papirko 1   je 23.28/3000kg
+(Ciklus: 3) Pokupljen je spremnik 22 u ulici 1, popunjenost vozila mješanko 1  je 39.76/4000kg
+(Ciklus: 4) Pokupljen je spremnik 23 u ulici 1, popunjenost vozila mješanko 3  je 6.5/3000kg
+(Ciklus: 5) Pokupljen je spremnik 2 u ulici 1, popunjenost vozila staklarko 1 je 103.7/4000kg
+(Ciklus: 6) Pokupljen je spremnik 6 u ulici 1, popunjenost vozila papirko 1   je 37.72/3000kg
+(Ciklus: 7) Pokupljen je spremnik 24 u ulici 1, popunjenost vozila mješanko 1  je 53.679996/4000kg
+(Ciklus: 8) Pokupljen je spremnik 25 u ulici 1, popunjenost vozila mješanko 3  je 22.0/3000kg
+(Ciklus: 9) Pokupljen je spremnik 3 u ulici 1, popunjenost vozila staklarko 1 je 120.84/4000kg
+(Ciklus: 10) Pokupljen je spremnik 7 u ulici 1, popunjenost vozila papirko 1   je 76.100006/3000kg
+(Ciklus: 11) Pokupljen je spremnik 26 u ulici 1, popunjenost vozila mješanko 1  je 112.86/4000kg
+(Ciklus: 12) Pokupljen je spremnik 27 u ulici 1, popunjenost vozila mješanko 3  je 70.2/3000kg
+(Ciklus: 13) Pokupljen je spremnik 4 u ulici 1, popunjenost vozila staklarko 1 je 219.5/4000kg
+(Ciklus: 14) Pokupljen je spremnik 8 u ulici 1, popunjenost vozila papirko 1   je 320.06003/3000kg
+(Ciklus: 15) Pokupljen je spremnik 28 u ulici 1, popunjenost vozila mješanko 1  je 153.28/4000kg
+(Ciklus: 16) Pokupljen je spremnik 29 u ulici 1, popunjenost vozila mješanko 3  je 425.88/3000kg
+(Ciklus: 17) Pokupljen je spremnik 31 u ulici 2, popunjenost vozila staklarko 1 je 309.71997/4000kg
+(Ciklus: 18) Pokupljen je spremnik 33 u ulici 2, popunjenost vozila papirko 1   je 335.50003/3000kg
+(Ciklus: 19) Pokupljen je spremnik 30 u ulici 1, popunjenost vozila mješanko 1  je 338.66/4000kg
+(Ciklus: 20) Pokupljen je spremnik 53 u ulici 2, popunjenost vozila mješanko 3  je 468.46002/3000kg
+(Ciklus: 21) Pokupljen je spremnik 32 u ulici 2, popunjenost vozila staklarko 1 je 352.89996/4000kg
+(Ciklus: 22) Pokupljen je spremnik 34 u ulici 2, popunjenost vozila papirko 1   je 359.54/3000kg
+(Ciklus: 23) Pokupljen je spremnik 54 u ulici 2, popunjenost vozila mješanko 1  je 352.42/4000kg
+(Ciklus: 24) Pokupljen je spremnik 55 u ulici 2, popunjenost vozila mješanko 3  je 528.10004/3000kg
+(Ciklus: 25) Pokupljen je spremnik 68 u ulici 3, popunjenost vozila staklarko 1 je 424.01996/4000kg
+(Ciklus: 26) Pokupljen je spremnik 35 u ulici 2, popunjenost vozila papirko 1   je 379.48/3000kg
+(Ciklus: 27) Pokupljen je spremnik 56 u ulici 2, popunjenost vozila mješanko 1  je 391.44003/4000kg
+(Ciklus: 28) Pokupljen je spremnik 57 u ulici 2, popunjenost vozila mješanko 3  je 585.1401/3000kg
+(Ciklus: 29) Pokupljen je spremnik 69 u ulici 3, popunjenost vozila staklarko 1 je 487.09998/4000kg
+(Ciklus: 30) Pokupljen je spremnik 88 u ulici 3, popunjenost vozila papirko 1   je 404.32004/3000kg
+(Ciklus: 31) Pokupljen je spremnik 58 u ulici 2, popunjenost vozila mješanko 1  je 434.70004/4000kg
+(Ciklus: 32) Pokupljen je spremnik 59 u ulici 2, popunjenost vozila mješanko 3  je 628.5201/3000kg
+(Ciklus: 33) Pokupljen je spremnik 70 u ulici 3, popunjenost vozila staklarko 1 je 520.39996/4000kg
+(Ciklus: 34) Pokupljen je spremnik 89 u ulici 3, popunjenost vozila papirko 1   je 437.54004/3000kg
+(Ciklus: 35) Pokupljen je spremnik 60 u ulici 2, popunjenost vozila mješanko 1  je 451.68002/4000kg
+(Ciklus: 36) Pokupljen je spremnik 61 u ulici 2, popunjenost vozila mješanko 3  je 667.60004/3000kg
+(Ciklus: 37) Pokupljen je spremnik 71 u ulici 3, popunjenost vozila staklarko 1 je 552.11993/4000kg
+(Ciklus: 38) Pokupljen je spremnik 90 u ulici 3, popunjenost vozila papirko 1   je 458.44006/3000kg
+(Ciklus: 39) Pokupljen je spremnik 62 u ulici 2, popunjenost vozila mješanko 1  je 508.02005/4000kg
+(Ciklus: 40) Pokupljen je spremnik 63 u ulici 2, popunjenost vozila mješanko 3  je 692.42/3000kg
+(Ciklus: 41) Pokupljen je spremnik 72 u ulici 3, popunjenost vozila staklarko 1 je 581.77997/4000kg
+(Ciklus: 42) Pokupljen je spremnik 91 u ulici 3, popunjenost vozila papirko 1   je 482.8401/3000kg
+(Ciklus: 43) Pokupljen je spremnik 64 u ulici 2, popunjenost vozila mješanko 1  je 528.82007/4000kg
+(Ciklus: 44) Pokupljen je spremnik 65 u ulici 2, popunjenost vozila mješanko 3  je 737.04/3000kg
+(Ciklus: 45) Pokupljen je spremnik 73 u ulici 3, popunjenost vozila staklarko 1 je 609.42/4000kg
+(Ciklus: 46) Pokupljen je spremnik 92 u ulici 3, popunjenost vozila papirko 1   je 521.1001/3000kg
+(Ciklus: 47) Pokupljen je spremnik 66 u ulici 2, popunjenost vozila mješanko 1  je 544.8601/4000kg
+(Ciklus: 48) Pokupljen je spremnik 67 u ulici 2, popunjenost vozila mješanko 3  je 791.60004/3000kg
+(Ciklus: 49) Pokupljen je spremnik 74 u ulici 3, popunjenost vozila staklarko 1 je 638.16/4000kg
+(Ciklus: 50) Pokupljen je spremnik 93 u ulici 3, popunjenost vozila papirko 1   je 558.14014/3000kg
+(Ciklus: 51) Pokupljen je spremnik 150 u ulici 3, popunjenost vozila mješanko 1  je 556.0001/4000kg
+(Ciklus: 52) Pokupljen je spremnik 151 u ulici 3, popunjenost vozila mješanko 3  je 830.4001/3000kg
+(Ciklus: 53) Pokupljen je spremnik 75 u ulici 3, popunjenost vozila staklarko 1 je 664.72003/4000kg
+(Ciklus: 54) Pokupljen je spremnik 94 u ulici 3, popunjenost vozila papirko 1   je 583.1802/3000kg
+(Ciklus: 55) Pokupljen je spremnik 152 u ulici 3, popunjenost vozila mješanko 1  je 613.66016/4000kg
+(Ciklus: 56) Pokupljen je spremnik 153 u ulici 3, popunjenost vozila mješanko 3  je 874.4201/3000kg
+(Ciklus: 57) Pokupljen je spremnik 76 u ulici 3, popunjenost vozila staklarko 1 je 683.82/4000kg
+(Ciklus: 58) Pokupljen je spremnik 95 u ulici 3, popunjenost vozila papirko 1   je 629.3002/3000kg
+(Ciklus: 59) Pokupljen je spremnik 154 u ulici 3, popunjenost vozila mješanko 1  je 630.4801/4000kg
+(Ciklus: 60) Pokupljen je spremnik 155 u ulici 3, popunjenost vozila mješanko 3  je 907.24005/3000kg
+(Ciklus: 61) Pokupljen je spremnik 77 u ulici 3, popunjenost vozila staklarko 1 je 704.89996/4000kg
+(Ciklus: 62) Pokupljen je spremnik 96 u ulici 3, popunjenost vozila papirko 1   je 652.9602/3000kg
+(Ciklus: 63) Pokupljen je spremnik 156 u ulici 3, popunjenost vozila mješanko 1  je 644.5001/4000kg
+(Ciklus: 64) Pokupljen je spremnik 157 u ulici 3, popunjenost vozila mješanko 3  je 960.46/3000kg
+(Ciklus: 65) Pokupljen je spremnik 78 u ulici 3, popunjenost vozila staklarko 1 je 722.42/4000kg
+(Ciklus: 66) Pokupljen je spremnik 97 u ulici 3, popunjenost vozila papirko 1   je 667.00024/3000kg
+(Ciklus: 67) Pokupljen je spremnik 158 u ulici 3, popunjenost vozila mješanko 1  je 666.8401/4000kg
+(Ciklus: 68) Pokupljen je spremnik 159 u ulici 3, popunjenost vozila mješanko 3  je 966.66/3000kg
+(Ciklus: 69) Pokupljen je spremnik 79 u ulici 3, popunjenost vozila staklarko 1 je 749.42/4000kg
+(Ciklus: 70) Pokupljen je spremnik 98 u ulici 3, popunjenost vozila papirko 1   je 776.14026/3000kg
+(Ciklus: 71) Pokupljen je spremnik 160 u ulici 3, popunjenost vozila mješanko 1  je 717.1201/4000kg
+(Ciklus: 72) Pokupljen je spremnik 161 u ulici 3, popunjenost vozila mješanko 3  je 975.4799/3000kg
+(Ciklus: 73) Pokupljen je spremnik 80 u ulici 3, popunjenost vozila staklarko 1 je 786.58/4000kg
+(Ciklus: 74) Pokupljen je spremnik 99 u ulici 3, popunjenost vozila papirko 1   je 975.12024/3000kg
+(Ciklus: 75) Pokupljen je spremnik 162 u ulici 3, popunjenost vozila mješanko 1  je 741.3401/4000kg
+(Ciklus: 76) Pokupljen je spremnik 163 u ulici 3, popunjenost vozila mješanko 3  je 1022.91986/3000kg
+(Ciklus: 77) Pokupljen je spremnik 81 u ulici 3, popunjenost vozila staklarko 1 je 838.98004/4000kg
+(Ciklus: 78) Pokupljen je spremnik 100 u ulici 3, popunjenost vozila papirko 1   je 1177.3002/3000kg
+(Ciklus: 79) Pokupljen je spremnik 164 u ulici 3, popunjenost vozila mješanko 1  je 747.80005/4000kg
+(Ciklus: 80) Pokupljen je spremnik 165 u ulici 3, popunjenost vozila mješanko 3  je 1032.7799/3000kg
+(Ciklus: 81) Pokupljen je spremnik 82 u ulici 3, popunjenost vozila staklarko 1 je 892.34/4000kg
+(Ciklus: 82) Pokupljen je spremnik 101 u ulici 3, popunjenost vozila papirko 1   je 1439.1602/3000kg
+(Ciklus: 83) Pokupljen je spremnik 166 u ulici 3, popunjenost vozila mješanko 1  je 784.3401/4000kg
+(Ciklus: 84) Pokupljen je spremnik 167 u ulici 3, popunjenost vozila mješanko 3  je 1065.88/3000kg
+(Ciklus: 85) Pokupljen je spremnik 83 u ulici 3, popunjenost vozila staklarko 1 je 940.3/4000kg
+(Ciklus: 86) Pokupljen je spremnik 102 u ulici 3, popunjenost vozila papirko 1   je 1553.0801/3000kg
+(Ciklus: 87) Pokupljen je spremnik 168 u ulici 3, popunjenost vozila mješanko 1  je 807.66003/4000kg
+(Ciklus: 88) Pokupljen je spremnik 169 u ulici 3, popunjenost vozila mješanko 3  je 1411.0599/3000kg
+(Ciklus: 89) Pokupljen je spremnik 84 u ulici 3, popunjenost vozila staklarko 1 je 996.84/4000kg
+(Ciklus: 90) Pokupljen je spremnik 103 u ulici 3, popunjenost vozila papirko 1   je 1766.78/3000kg
+(Ciklus: 91) Pokupljen je spremnik 170 u ulici 3, popunjenost vozila mješanko 1  je 1091.02/4000kg
+(Ciklus: 92) Pokupljen je spremnik 171 u ulici 3, popunjenost vozila mješanko 3  je 1883.2599/3000kg
+(Ciklus: 93) Pokupljen je spremnik 85 u ulici 3, popunjenost vozila staklarko 1 je 1064.48/4000kg
+(Ciklus: 94) Pokupljen je spremnik 104 u ulici 3, popunjenost vozila papirko 1   je 2006.5801/3000kg
+(Ciklus: 95) Pokupljen je spremnik 172 u ulici 3, popunjenost vozila mješanko 1  je 1292.3999/4000kg
+(Ciklus: 96) Pokupljen je spremnik 173 u ulici 3, popunjenost vozila mješanko 3  je 2251.02/3000kg
+(Ciklus: 97) Pokupljen je spremnik 86 u ulici 3, popunjenost vozila staklarko 1 je 1116.26/4000kg
+(Ciklus: 98) Pokupljen je spremnik 199 u ulici 4, popunjenost vozila papirko 1   je 2038.04/3000kg
+(Ciklus: 99) Pokupljen je spremnik 174 u ulici 3, popunjenost vozila mješanko 1  je 1781.3198/4000kg
+(Ciklus: 100) Pokupljen je spremnik 175 u ulici 3, popunjenost vozila mješanko 3  je 2691.7998/3000kg
+Vozilo mješanko 1  je u kvaru
+Vozila               Stanje                    Vrsta otpada         Popunjenost vozila
+
+staklarko 1          prikuplja otpad           staklo               1116.26/4000kg 
+papirko 1            prikuplja otpad           papir                2038.04/3000kg 
+mješanko 3           prikuplja otpad           mjesano              2691.7998/3000kg
+(Ciklus: 101) Pokupljen je spremnik 87 u ulici 3, popunjenost vozila staklarko 1 je 1211.1799/4000kg
+(Ciklus: 102) Pokupljen je spremnik 200 u ulici 4, popunjenost vozila papirko 1   je 2072.1802/3000kg
+(Ciklus: 103) Pokupljen je spremnik 176 u ulici 3, popunjenost vozila mješanko 3  je 3000.0/3000kg
+Vozilo mješanko 3  je puno i ide na zbrinjavanje otpada
+(Ciklus: 104) Pokupljen je spremnik 176 u ulici 3, popunjenost vozila mješanko 2  je 533.7197/5000kg
+(Ciklus: 105) Pokupljen je spremnik 180 u ulici 4, popunjenost vozila staklarko 1 je 1293.8999/4000kg
+(Ciklus: 106) Pokupljen je spremnik 201 u ulici 4, popunjenost vozila papirko 1   je 2077.2402/3000kg
+(Ciklus: 107) Pokupljen je spremnik 177 u ulici 3, popunjenost vozila mješanko 3  je 514.94/3000kg
+(Ciklus: 108) Pokupljen je spremnik 178 u ulici 3, popunjenost vozila mješanko 2  je 788.89966/5000kg
+(Ciklus: 109) Pokupljen je spremnik 181 u ulici 4, popunjenost vozila staklarko 1 je 1297.6799/4000kg
+(Ciklus: 110) Pokupljen je spremnik 202 u ulici 4, popunjenost vozila papirko 1   je 2134.1/3000kg
+(Ciklus: 111) Pokupljen je spremnik 179 u ulici 3, popunjenost vozila mješanko 3  je 971.58/3000kg
+(Ciklus: 112) Pokupljen je spremnik 250 u ulici 4, popunjenost vozila mješanko 2  je 802.4597/5000kg
+(Ciklus: 113) Pokupljen je spremnik 182 u ulici 4, popunjenost vozila staklarko 1 je 1328.26/4000kg
+(Ciklus: 114) Pokupljen je spremnik 203 u ulici 4, popunjenost vozila papirko 1   je 2174.38/3000kg
+(Ciklus: 115) Pokupljen je spremnik 251 u ulici 4, popunjenost vozila mješanko 3  je 1025.1/3000kg
+(Ciklus: 116) Pokupljen je spremnik 252 u ulici 4, popunjenost vozila mješanko 2  je 823.25977/5000kg
+(Ciklus: 117) Pokupljen je spremnik 183 u ulici 4, popunjenost vozila staklarko 1 je 1360.1001/4000kg
+(Ciklus: 118) Pokupljen je spremnik 204 u ulici 4, popunjenost vozila papirko 1   je 2208.2598/3000kg
+(Ciklus: 119) Pokupljen je spremnik 253 u ulici 4, popunjenost vozila mješanko 3  je 1050.14/3000kg
+(Ciklus: 120) Pokupljen je spremnik 254 u ulici 4, popunjenost vozila mješanko 2  je 856.97974/5000kg
+(Ciklus: 121) Pokupljen je spremnik 184 u ulici 4, popunjenost vozila staklarko 1 je 1382.6802/4000kg
+(Ciklus: 122) Pokupljen je spremnik 205 u ulici 4, popunjenost vozila papirko 1   je 2246.0396/3000kg
+(Ciklus: 123) Pokupljen je spremnik 255 u ulici 4, popunjenost vozila mješanko 3  je 1058.34/3000kg
+(Ciklus: 124) Pokupljen je spremnik 256 u ulici 4, popunjenost vozila mješanko 2  je 881.8998/5000kg
+(Ciklus: 125) Pokupljen je spremnik 185 u ulici 4, popunjenost vozila staklarko 1 je 1410.0203/4000kg
+(Ciklus: 126) Pokupljen je spremnik 206 u ulici 4, popunjenost vozila papirko 1   je 2538.6396/3000kg
+(Ciklus: 127) Pokupljen je spremnik 257 u ulici 4, popunjenost vozila mješanko 3  je 1073.82/3000kg
+(Ciklus: 128) Pokupljen je spremnik 258 u ulici 4, popunjenost vozila mješanko 2  je 892.5198/5000kg
+(Ciklus: 129) Pokupljen je spremnik 186 u ulici 4, popunjenost vozila staklarko 1 je 1447.4001/4000kg
+(Ciklus: 130) Pokupljen je spremnik 207 u ulici 4, popunjenost vozila papirko 1   je 2773.4395/3000kg
+(Ciklus: 131) Pokupljen je spremnik 259 u ulici 4, popunjenost vozila mješanko 3  je 1123.9799/3000kg
+(Ciklus: 132) Pokupljen je spremnik 260 u ulici 4, popunjenost vozila mješanko 2  je 939.47974/5000kg
+(Ciklus: 133) Pokupljen je spremnik 187 u ulici 4, popunjenost vozila staklarko 1 je 1462.6401/4000kg
+(Ciklus: 134) Pokupljen je spremnik 208 u ulici 4, popunjenost vozila papirko 1   je 2890.7993/3000kg
+(Ciklus: 135) Pokupljen je spremnik 261 u ulici 4, popunjenost vozila mješanko 3  je 1401.7999/3000kg
+(Ciklus: 136) Pokupljen je spremnik 262 u ulici 4, popunjenost vozila mješanko 2  je 1338.6597/5000kg
+(Ciklus: 137) Pokupljen je spremnik 188 u ulici 4, popunjenost vozila staklarko 1 je 1480.3601/4000kg
+(Ciklus: 138) Pokupljen je spremnik 209 u ulici 4, popunjenost vozila papirko 1   je 3000.0/3000kg
+Vozilo papirko 1   je puno i ide na zbrinjavanje otpada
+(Ciklus: 139) Pokupljen je spremnik 263 u ulici 4, popunjenost vozila mješanko 3  je 1574.4398/3000kg
+(Ciklus: 140) Pokupljen je spremnik 264 u ulici 4, popunjenost vozila mješanko 2  je 1809.0396/5000kg
+(Ciklus: 141) Pokupljen je spremnik 189 u ulici 4, popunjenost vozila staklarko 1 je 1515.54/4000kg
+(Ciklus: 142) Pokupljen je spremnik 209 u ulici 4, popunjenost vozila papirko 1   je 188.19824/3000kg
+(Ciklus: 143) Pokupljen je spremnik 265 u ulici 4, popunjenost vozila mješanko 3  je 1818.2399/3000kg
+(Ciklus: 144) Pokupljen je spremnik 266 u ulici 4, popunjenost vozila mješanko 2  je 1989.7195/5000kg
+(Ciklus: 145) Pokupljen je spremnik 190 u ulici 4, popunjenost vozila staklarko 1 je 1550.3801/4000kg
+(Ciklus: 146) Pokupljen je spremnik 210 u ulici 4, popunjenost vozila papirko 1   je 329.59827/3000kg
+(Ciklus: 147) Pokupljen je spremnik 267 u ulici 4, popunjenost vozila mješanko 3  je 2365.4/3000kg
+(Ciklus: 148) Pokupljen je spremnik 268 u ulici 4, popunjenost vozila mješanko 2  je 2518.1394/5000kg
+(Ciklus: 149) Pokupljen je spremnik 191 u ulici 4, popunjenost vozila staklarko 1 je 1622.1001/4000kg
+(Ciklus: 150) Pokupljen je spremnik 211 u ulici 4, popunjenost vozila papirko 1   je 591.7383/3000kg
+(Ciklus: 151) Pokupljen je spremnik 269 u ulici 4, popunjenost vozila mješanko 3  je 2668.7397/3000kg
+(Ciklus: 152) Pokupljen je spremnik 270 u ulici 4, popunjenost vozila mješanko 2  je 2738.9993/5000kg
+(Ciklus: 153) Pokupljen je spremnik 192 u ulici 4, popunjenost vozila staklarko 1 je 1693.9202/4000kg
+(Ciklus: 154) Pokupljen je spremnik 212 u ulici 4, popunjenost vozila papirko 1   je 874.2583/3000kg
+(Ciklus: 155) Pokupljen je spremnik 271 u ulici 4, popunjenost vozila mješanko 3  je 2912.1196/3000kg
+(Ciklus: 156) Pokupljen je spremnik 272 u ulici 4, popunjenost vozila mješanko 2  je 3000.9592/5000kg
+(Ciklus: 157) Pokupljen je spremnik 193 u ulici 4, popunjenost vozila staklarko 1 je 1737.5203/4000kg
+(Ciklus: 158) Pokupljen je spremnik 213 u ulici 4, popunjenost vozila papirko 1   je 1085.2183/3000kg
+(Ciklus: 159) Pokupljen je spremnik 354 u ulici 5, popunjenost vozila mješanko 3  je 2920.5796/3000kg
+(Ciklus: 160) Pokupljen je spremnik 355 u ulici 5, popunjenost vozila mješanko 2  je 3012.839/5000kg
+(Ciklus: 161) Pokupljen je spremnik 194 u ulici 4, popunjenost vozila staklarko 1 je 1797.5403/4000kg
+(Ciklus: 162) Pokupljen je spremnik 214 u ulici 4, popunjenost vozila papirko 1   je 1273.7383/3000kg
+(Ciklus: 163) Pokupljen je spremnik 356 u ulici 5, popunjenost vozila mješanko 3  je 2941.4995/3000kg
+(Ciklus: 164) Pokupljen je spremnik 357 u ulici 5, popunjenost vozila mješanko 2  je 3047.9192/5000kg
+(Ciklus: 165) Pokupljen je spremnik 195 u ulici 4, popunjenost vozila staklarko 1 je 1831.0002/4000kg
+(Ciklus: 166) Pokupljen je spremnik 294 u ulici 5, popunjenost vozila papirko 1   je 1308.5183/3000kg
+(Ciklus: 167) Pokupljen je spremnik 358 u ulici 5, popunjenost vozila mješanko 3  je 2964.2593/3000kg
+(Ciklus: 168) Pokupljen je spremnik 359 u ulici 5, popunjenost vozila mješanko 2  je 3069.759/5000kg
+(Ciklus: 169) Pokupljen je spremnik 196 u ulici 4, popunjenost vozila staklarko 1 je 1884.2202/4000kg
+(Ciklus: 170) Pokupljen je spremnik 295 u ulici 5, popunjenost vozila papirko 1   je 1334.6184/3000kg
+(Ciklus: 171) Pokupljen je spremnik 360 u ulici 5, popunjenost vozila mješanko 3  je 3000.0/3000kg
+Vozilo mješanko 3  je puno i ide na zbrinjavanje otpada
+(Ciklus: 172) Pokupljen je spremnik 360 u ulici 5, popunjenost vozila mješanko 2  je 3100.5579/5000kg
+(Ciklus: 173) Pokupljen je spremnik 197 u ulici 4, popunjenost vozila staklarko 1 je 1930.8801/4000kg
+(Ciklus: 174) Pokupljen je spremnik 296 u ulici 5, popunjenost vozila papirko 1   je 1355.5183/3000kg
+(Ciklus: 175) Pokupljen je spremnik 361 u ulici 5, popunjenost vozila mješanko 3  je 7.76/3000kg
+(Ciklus: 176) Pokupljen je spremnik 362 u ulici 5, popunjenost vozila mješanko 2  je 3117.778/5000kg
+(Ciklus: 177) Pokupljen je spremnik 198 u ulici 4, popunjenost vozila staklarko 1 je 2025.04/4000kg
+(Ciklus: 178) Pokupljen je spremnik 297 u ulici 5, popunjenost vozila papirko 1   je 1374.6384/3000kg
+(Ciklus: 179) Pokupljen je spremnik 363 u ulici 5, popunjenost vozila mješanko 3  je 41.04/3000kg
+(Ciklus: 180) Pokupljen je spremnik 364 u ulici 5, popunjenost vozila mješanko 2  je 3139.198/5000kg
+(Ciklus: 181) Pokupljen je spremnik 273 u ulici 5, popunjenost vozila staklarko 1 je 2090.94/4000kg
+(Ciklus: 182) Pokupljen je spremnik 298 u ulici 5, popunjenost vozila papirko 1   je 1421.9385/3000kg
+(Ciklus: 183) Pokupljen je spremnik 365 u ulici 5, popunjenost vozila mješanko 3  je 65.9/3000kg
+(Ciklus: 184) Pokupljen je spremnik 366 u ulici 5, popunjenost vozila mješanko 2  je 3174.778/5000kg
+(Ciklus: 185) Pokupljen je spremnik 274 u ulici 5, popunjenost vozila staklarko 1 je 2114.04/4000kg
+(Ciklus: 186) Pokupljen je spremnik 299 u ulici 5, popunjenost vozila papirko 1   je 1455.3984/3000kg
+(Ciklus: 187) Pokupljen je spremnik 367 u ulici 5, popunjenost vozila mješanko 3  je 330.37997/3000kg
+(Ciklus: 188) Pokupljen je spremnik 368 u ulici 5, popunjenost vozila mješanko 2  je 3446.158/5000kg
+(Ciklus: 189) Pokupljen je spremnik 275 u ulici 5, popunjenost vozila staklarko 1 je 2150.9/4000kg
+(Ciklus: 190) Pokupljen je spremnik 300 u ulici 5, popunjenost vozila papirko 1   je 1551.7783/3000kg
+(Ciklus: 191) Pokupljen je spremnik 369 u ulici 5, popunjenost vozila mješanko 3  je 726.86/3000kg
+(Ciklus: 192) Pokupljen je spremnik 370 u ulici 5, popunjenost vozila mješanko 2  je 3903.138/5000kg
+(Ciklus: 193) Pokupljen je spremnik 276 u ulici 5, popunjenost vozila staklarko 1 je 2168.1997/4000kg
+(Ciklus: 194) Pokupljen je spremnik 301 u ulici 5, popunjenost vozila papirko 1   je 1772.5784/3000kg
+(Ciklus: 195) Pokupljen je spremnik 371 u ulici 5, popunjenost vozila mješanko 3  je 915.14/3000kg
+(Ciklus: 196) Pokupljen je spremnik 372 u ulici 5, popunjenost vozila mješanko 2  je 4132.918/5000kg
+(Ciklus: 197) Pokupljen je spremnik 277 u ulici 5, popunjenost vozila staklarko 1 je 2195.2397/4000kg
+(Ciklus: 198) Pokupljen je spremnik 302 u ulici 5, popunjenost vozila papirko 1   je 2027.8984/3000kg
+(Ciklus: 199) Pokupljen je spremnik 373 u ulici 5, popunjenost vozila mješanko 3  je 1242.64/3000kg
+(Ciklus: 200) Pokupljen je spremnik 374 u ulici 5, popunjenost vozila mješanko 2  je 4427.218/5000kg
+(Ciklus: 201) Pokupljen je spremnik 278 u ulici 5, popunjenost vozila staklarko 1 je 2204.3398/4000kg
+(Ciklus: 202) Pokupljen je spremnik 303 u ulici 5, popunjenost vozila papirko 1   je 2280.4585/3000kg
+(Ciklus: 203) Pokupljen je spremnik 375 u ulici 5, popunjenost vozila mješanko 3  je 1744.7999/3000kg
+(Ciklus: 204) Pokupljen je spremnik 376 u ulici 5, popunjenost vozila mješanko 2  je 5000.0/5000kg
+Vozilo mješanko 2  je puno i ide na zbrinjavanje otpada
+(Ciklus: 205) Pokupljen je spremnik 279 u ulici 5, popunjenost vozila staklarko 1 je 2237.2397/4000kg
+(Ciklus: 206) Pokupljen je spremnik 304 u ulici 5, popunjenost vozila papirko 1   je 2423.4185/3000kg
+(Ciklus: 207) Pokupljen je spremnik 376 u ulici 5, popunjenost vozila mješanko 3  je 1785.0753/3000kg
+(Ciklus: 208) Pokupljen je spremnik 377 u ulici 5, popunjenost vozila mješanko 2  je 264.78/5000kg
+(Ciklus: 209) Pokupljen je spremnik 280 u ulici 5, popunjenost vozila staklarko 1 je 2272.4995/4000kg
+(Ciklus: 210) Pokupljen je spremnik 305 u ulici 5, popunjenost vozila papirko 1   je 2693.3584/3000kg
+(Ciklus: 211) Pokupljen je spremnik 378 u ulici 5, popunjenost vozila mješanko 3  je 2241.0354/3000kg
+(Ciklus: 212) Pokupljen je spremnik 379 u ulici 5, popunjenost vozila mješanko 2  je 789.22/5000kg
+(Ciklus: 213) Pokupljen je spremnik 281 u ulici 5, popunjenost vozila staklarko 1 je 2370.5596/4000kg
+(Ciklus: 214) Pokupljen je spremnik 306 u ulici 5, popunjenost vozila papirko 1   je 2957.5586/3000kg
+(Ciklus: 215) Pokupljen je spremnik 380 u ulici 5, popunjenost vozila mješanko 3  je 2794.7554/3000kg
+(Ciklus: 216) Pokupljen je spremnik 381 u ulici 5, popunjenost vozila mješanko 2  je 1078.86/5000kg
+(Ciklus: 217) Pokupljen je spremnik 282 u ulici 5, popunjenost vozila staklarko 1 je 2415.2397/4000kg
+(Ciklus: 218) Pokupljen je spremnik 307 u ulici 5, popunjenost vozila papirko 1   je 3000.0/3000kg
+Vozilo papirko 1   je puno i ide na zbrinjavanje otpada
+(Ciklus: 219) Pokupljen je spremnik 426 u ulici 6, popunjenost vozila mješanko 3  je 2809.3555/3000kg
+(Ciklus: 220) Pokupljen je spremnik 427 u ulici 6, popunjenost vozila mješanko 2  je 1104.9999/5000kg
+(Ciklus: 221) Pokupljen je spremnik 283 u ulici 5, popunjenost vozila staklarko 1 je 2490.6196/4000kg
+(Ciklus: 222) Pokupljen je spremnik 307 u ulici 5, popunjenost vozila papirko 1   je 338.2373/3000kg
+(Ciklus: 223) Pokupljen je spremnik 428 u ulici 6, popunjenost vozila mješanko 3  je 2829.0356/3000kg
+(Ciklus: 224) Pokupljen je spremnik 429 u ulici 6, popunjenost vozila mješanko 2  je 1137.84/5000kg
+(Ciklus: 225) Pokupljen je spremnik 284 u ulici 5, popunjenost vozila staklarko 1 je 2539.4194/4000kg
+(Ciklus: 226) Pokupljen je spremnik 308 u ulici 5, popunjenost vozila papirko 1   je 501.1573/3000kg
+(Ciklus: 227) Pokupljen je spremnik 430 u ulici 6, popunjenost vozila mješanko 3  je 2844.3555/3000kg
+(Ciklus: 228) Pokupljen je spremnik 431 u ulici 6, popunjenost vozila mješanko 2  je 1151.2001/5000kg
+(Ciklus: 229) Pokupljen je spremnik 285 u ulici 5, popunjenost vozila staklarko 1 je 2581.5796/4000kg
+(Ciklus: 230) Pokupljen je spremnik 309 u ulici 5, popunjenost vozila papirko 1   je 601.5973/3000kg
+(Ciklus: 231) Pokupljen je spremnik 432 u ulici 6, popunjenost vozila mješanko 3  je 2865.7153/3000kg
+(Ciklus: 232) Pokupljen je spremnik 433 u ulici 6, popunjenost vozila mješanko 2  je 1190.2601/5000kg
+(Ciklus: 233) Pokupljen je spremnik 286 u ulici 5, popunjenost vozila staklarko 1 je 2637.0396/4000kg
+(Ciklus: 234) Pokupljen je spremnik 310 u ulici 5, popunjenost vozila papirko 1   je 787.9973/3000kg
+(Ciklus: 235) Pokupljen je spremnik 434 u ulici 6, popunjenost vozila mješanko 3  je 2879.7554/3000kg
+(Ciklus: 236) Pokupljen je spremnik 435 u ulici 6, popunjenost vozila mješanko 2  je 1237.9801/5000kg
+(Ciklus: 237) Pokupljen je spremnik 287 u ulici 5, popunjenost vozila staklarko 1 je 2668.1597/4000kg
+(Ciklus: 238) Pokupljen je spremnik 311 u ulici 5, popunjenost vozila papirko 1   je 1008.2373/3000kg
+(Ciklus: 239) Pokupljen je spremnik 436 u ulici 6, popunjenost vozila mješanko 3  je 2894.9556/3000kg
+(Ciklus: 240) Pokupljen je spremnik 437 u ulici 6, popunjenost vozila mješanko 2  je 1244.9/5000kg
+(Ciklus: 241) Pokupljen je spremnik 288 u ulici 5, popunjenost vozila staklarko 1 je 2759.4995/4000kg
+(Ciklus: 242) Pokupljen je spremnik 312 u ulici 5, popunjenost vozila papirko 1   je 1244.9773/3000kg
+(Ciklus: 243) Pokupljen je spremnik 438 u ulici 6, popunjenost vozila mješanko 3  je 2917.4956/3000kg
+(Ciklus: 244) Pokupljen je spremnik 439 u ulici 6, popunjenost vozila mješanko 2  je 1271.1/5000kg
+(Ciklus: 245) Pokupljen je spremnik 289 u ulici 5, popunjenost vozila staklarko 1 je 2848.2993/4000kg
+(Ciklus: 246) Pokupljen je spremnik 388 u ulici 6, popunjenost vozila papirko 1   je 1268.0574/3000kg
+(Ciklus: 247) Pokupljen je spremnik 440 u ulici 6, popunjenost vozila mješanko 3  je 2948.1558/3000kg
+(Ciklus: 248) Pokupljen je spremnik 441 u ulici 6, popunjenost vozila mješanko 2  je 1277.9401/5000kg
+(Ciklus: 249) Pokupljen je spremnik 290 u ulici 5, popunjenost vozila staklarko 1 je 2912.1792/4000kg
+(Ciklus: 250) Pokupljen je spremnik 389 u ulici 6, popunjenost vozila papirko 1   je 1287.4175/3000kg
+(Ciklus: 251) Pokupljen je spremnik 442 u ulici 6, popunjenost vozila mješanko 3  je 2973.0557/3000kg
+(Ciklus: 252) Pokupljen je spremnik 443 u ulici 6, popunjenost vozila mješanko 2  je 1331.2001/5000kg
+(Ciklus: 253) Pokupljen je spremnik 291 u ulici 5, popunjenost vozila staklarko 1 je 2971.2593/4000kg
+(Ciklus: 254) Pokupljen je spremnik 390 u ulici 6, popunjenost vozila papirko 1   je 1313.1575/3000kg
+(Ciklus: 255) Pokupljen je spremnik 444 u ulici 6, popunjenost vozila mješanko 3  je 2999.3555/3000kg
+(Ciklus: 256) Pokupljen je spremnik 445 u ulici 6, popunjenost vozila mješanko 2  je 1359.5201/5000kg
+(Ciklus: 257) Pokupljen je spremnik 292 u ulici 5, popunjenost vozila staklarko 1 je 3040.6592/4000kg
+(Ciklus: 258) Pokupljen je spremnik 391 u ulici 6, popunjenost vozila papirko 1   je 1346.5774/3000kg
+(Ciklus: 259) Pokupljen je spremnik 446 u ulici 6, popunjenost vozila mješanko 3  je 3000.0/3000kg
+Vozilo mješanko 3  je puno i ide na zbrinjavanje otpada
+(Ciklus: 260) Pokupljen je spremnik 446 u ulici 6, popunjenost vozila mješanko 2  je 1426.111/5000kg
+(Ciklus: 261) Pokupljen je spremnik 293 u ulici 5, popunjenost vozila staklarko 1 je 3129.2793/4000kg
+(Ciklus: 262) Pokupljen je spremnik 392 u ulici 6, popunjenost vozila papirko 1   je 1362.2373/3000kg
+(Ciklus: 263) Pokupljen je spremnik 447 u ulici 6, popunjenost vozila mješanko 3  je 35.42/3000kg
+(Ciklus: 264) Pokupljen je spremnik 448 u ulici 6, popunjenost vozila mješanko 2  je 1443.911/5000kg
+(Ciklus: 265) Pokupljen je spremnik 382 u ulici 6, popunjenost vozila staklarko 1 je 3200.9795/4000kg
+(Ciklus: 266) Pokupljen je spremnik 393 u ulici 6, popunjenost vozila papirko 1   je 1402.0774/3000kg
+(Ciklus: 267) Pokupljen je spremnik 449 u ulici 6, popunjenost vozila mješanko 3  je 79.92/3000kg
+(Ciklus: 268) Pokupljen je spremnik 450 u ulici 6, popunjenost vozila mješanko 2  je 1692.111/5000kg
+(Ciklus: 269) Pokupljen je spremnik 383 u ulici 6, popunjenost vozila staklarko 1 je 3274.4995/4000kg
+(Ciklus: 270) Pokupljen je spremnik 394 u ulici 6, popunjenost vozila papirko 1   je 1417.3174/3000kg
+(Ciklus: 271) Pokupljen je spremnik 516 u ulici 7, popunjenost vozila mješanko 3  je 125.899994/3000kg
+(Ciklus: 272) Pokupljen je spremnik 517 u ulici 7, popunjenost vozila mješanko 2  je 1710.0509/5000kg
+(Ciklus: 273) Pokupljen je spremnik 384 u ulici 6, popunjenost vozila staklarko 1 je 3303.2593/4000kg
+(Ciklus: 274) Pokupljen je spremnik 467 u ulici 7, popunjenost vozila papirko 1   je 1447.0374/3000kg
+(Ciklus: 275) Pokupljen je spremnik 518 u ulici 7, popunjenost vozila mješanko 3  je 136.5/3000kg
+(Ciklus: 276) Pokupljen je spremnik 519 u ulici 7, popunjenost vozila mješanko 2  je 1740.0109/5000kg
+(Ciklus: 277) Pokupljen je spremnik 385 u ulici 6, popunjenost vozila staklarko 1 je 3331.079/4000kg
+(Ciklus: 278) Pokupljen je spremnik 468 u ulici 7, popunjenost vozila papirko 1   je 1476.7773/3000kg
+(Ciklus: 279) Pokupljen je spremnik 520 u ulici 7, popunjenost vozila mješanko 3  je 171.98001/3000kg
+(Ciklus: 280) Pokupljen je spremnik 521 u ulici 7, popunjenost vozila mješanko 2  je 1790.1708/5000kg
+(Ciklus: 281) Pokupljen je spremnik 386 u ulici 6, popunjenost vozila staklarko 1 je 3361.8193/4000kg
+(Ciklus: 282) Pokupljen je spremnik 469 u ulici 7, popunjenost vozila papirko 1   je 1502.6572/3000kg
+(Ciklus: 283) Pokupljen je spremnik 522 u ulici 7, popunjenost vozila mješanko 3  je 227.72/3000kg
+(Ciklus: 284) Pokupljen je spremnik 523 u ulici 7, popunjenost vozila mješanko 2  je 1816.9308/5000kg
+(Ciklus: 285) Pokupljen je spremnik 387 u ulici 6, popunjenost vozila staklarko 1 je 3383.0195/4000kg
+(Ciklus: 286) Pokupljen je spremnik 470 u ulici 7, popunjenost vozila papirko 1   je 1533.8572/3000kg
+(Ciklus: 287) Pokupljen je spremnik 524 u ulici 7, popunjenost vozila mješanko 3  je 269.98/3000kg
+(Ciklus: 288) Pokupljen je spremnik 525 u ulici 7, popunjenost vozila mješanko 2  je 1865.2308/5000kg
+(Ciklus: 289) Pokupljen je spremnik 451 u ulici 7, popunjenost vozila staklarko 1 je 3443.3594/4000kg
+(Ciklus: 290) Pokupljen je spremnik 471 u ulici 7, popunjenost vozila papirko 1   je 1571.3972/3000kg
+(Ciklus: 291) Pokupljen je spremnik 526 u ulici 7, popunjenost vozila mješanko 3  je 318.28/3000kg
+(Ciklus: 292) Pokupljen je spremnik 527 u ulici 7, popunjenost vozila mješanko 2  je 1908.4708/5000kg
+(Ciklus: 293) Pokupljen je spremnik 452 u ulici 7, popunjenost vozila staklarko 1 je 3470.2192/4000kg
+(Ciklus: 294) Pokupljen je spremnik 472 u ulici 7, popunjenost vozila papirko 1   je 1607.9973/3000kg
+(Ciklus: 295) Pokupljen je spremnik 528 u ulici 7, popunjenost vozila mješanko 3  je 334.43997/3000kg
+(Ciklus: 296) Pokupljen je spremnik 529 u ulici 7, popunjenost vozila mješanko 2  je 1928.9708/5000kg
+(Ciklus: 297) Pokupljen je spremnik 453 u ulici 7, popunjenost vozila staklarko 1 je 3487.999/4000kg
+(Ciklus: 298) Pokupljen je spremnik 473 u ulici 7, popunjenost vozila papirko 1   je 1751.8772/3000kg
+(Ciklus: 299) Pokupljen je spremnik 530 u ulici 7, popunjenost vozila mješanko 3  je 770.19995/3000kg
+(Ciklus: 300) Pokupljen je spremnik 531 u ulici 7, popunjenost vozila mješanko 2  je 2259.6309/5000kg
+(Ciklus: 301) Pokupljen je spremnik 454 u ulici 7, popunjenost vozila staklarko 1 je 3524.039/4000kg
+(Ciklus: 302) Pokupljen je spremnik 474 u ulici 7, popunjenost vozila papirko 1   je 1924.4373/3000kg
+(Ciklus: 303) Pokupljen je spremnik 532 u ulici 7, popunjenost vozila mješanko 3  je 1018.0/3000kg
+(Ciklus: 304) Pokupljen je spremnik 533 u ulici 7, popunjenost vozila mješanko 2  je 2727.231/5000kg
+(Ciklus: 305) Pokupljen je spremnik 455 u ulici 7, popunjenost vozila staklarko 1 je 3554.079/4000kg
+(Ciklus: 306) Pokupljen je spremnik 475 u ulici 7, popunjenost vozila papirko 1   je 2091.1772/3000kg
+(Ciklus: 307) Pokupljen je spremnik 534 u ulici 7, popunjenost vozila mješanko 3  je 1282.26/3000kg
+(Ciklus: 308) Pokupljen je spremnik 535 u ulici 7, popunjenost vozila mješanko 2  je 2909.6309/5000kg
+(Ciklus: 309) Pokupljen je spremnik 456 u ulici 7, popunjenost vozila staklarko 1 je 3587.2793/4000kg
+(Ciklus: 310) Pokupljen je spremnik 476 u ulici 7, popunjenost vozila papirko 1   je 2386.2173/3000kg
+(Ciklus: 311) Pokupljen je spremnik 536 u ulici 7, popunjenost vozila mješanko 3  je 1542.56/3000kg
+(Ciklus: 312) Pokupljen je spremnik 537 u ulici 7, popunjenost vozila mješanko 2  je 3099.5708/5000kg
+(Ciklus: 313) Pokupljen je spremnik 457 u ulici 7, popunjenost vozila staklarko 1 je 3618.579/4000kg
+(Ciklus: 314) Pokupljen je spremnik 477 u ulici 7, popunjenost vozila papirko 1   je 2520.2773/3000kg
+(Ciklus: 315) Pokupljen je spremnik 538 u ulici 7, popunjenost vozila mješanko 3  je 2072.6401/3000kg
+(Ciklus: 316) Pokupljen je spremnik 539 u ulici 7, popunjenost vozila mješanko 2  je 3476.151/5000kg
+(Ciklus: 317) Pokupljen je spremnik 458 u ulici 7, popunjenost vozila staklarko 1 je 3628.7192/4000kg
+(Ciklus: 318) Pokupljen je spremnik 478 u ulici 7, popunjenost vozila papirko 1   je 2668.1172/3000kg
+(Ciklus: 319) Pokupljen je spremnik 559 u ulici 8, popunjenost vozila mješanko 3  je 2109.94/3000kg
+(Ciklus: 320) Pokupljen je spremnik 560 u ulici 8, popunjenost vozila mješanko 2  je 3487.4307/5000kg
+(Ciklus: 321) Pokupljen je spremnik 459 u ulici 7, popunjenost vozila staklarko 1 je 3691.499/4000kg
+(Ciklus: 322) Pokupljen je spremnik 479 u ulici 7, popunjenost vozila papirko 1   je 2797.1572/3000kg
+(Ciklus: 323) Pokupljen je spremnik 561 u ulici 8, popunjenost vozila mješanko 3  je 2147.7197/3000kg
+(Ciklus: 324) Pokupljen je spremnik 562 u ulici 8, popunjenost vozila mješanko 2  je 3517.7705/5000kg
+(Ciklus: 325) Pokupljen je spremnik 460 u ulici 7, popunjenost vozila staklarko 1 je 3735.359/4000kg
+(Ciklus: 326) Pokupljen je spremnik 480 u ulici 7, popunjenost vozila papirko 1   je 3000.0/3000kg
+Vozilo papirko 1   je puno i ide na zbrinjavanje otpada
+(Ciklus: 327) Pokupljen je spremnik 563 u ulici 8, popunjenost vozila mješanko 3  je 2169.5195/3000kg
+(Ciklus: 328) Pokupljen je spremnik 564 u ulici 8, popunjenost vozila mješanko 2  je 3561.0703/5000kg
+(Ciklus: 329) Pokupljen je spremnik 461 u ulici 7, popunjenost vozila staklarko 1 je 3770.899/4000kg
+(Ciklus: 330) Pokupljen je spremnik 480 u ulici 7, popunjenost vozila papirko 1   je 58.03418/3000kg
+(Ciklus: 331) Pokupljen je spremnik 565 u ulici 8, popunjenost vozila mješanko 3  je 2188.8193/3000kg
+(Ciklus: 332) Pokupljen je spremnik 566 u ulici 8, popunjenost vozila mješanko 2  je 3586.6904/5000kg
+(Ciklus: 333) Pokupljen je spremnik 462 u ulici 7, popunjenost vozila staklarko 1 je 3830.399/4000kg
+(Ciklus: 334) Pokupljen je spremnik 542 u ulici 8, popunjenost vozila papirko 1   je 83.59418/3000kg
+(Ciklus: 335) Pokupljen je spremnik 567 u ulici 8, popunjenost vozila mješanko 3  je 2232.4395/3000kg
+(Ciklus: 336) Pokupljen je spremnik 568 u ulici 8, popunjenost vozila mješanko 2  je 3626.6504/5000kg
+(Ciklus: 337) Pokupljen je spremnik 463 u ulici 7, popunjenost vozila staklarko 1 je 3899.059/4000kg
+(Ciklus: 338) Pokupljen je spremnik 543 u ulici 8, popunjenost vozila papirko 1   je 117.39418/3000kg
+(Ciklus: 339) Pokupljen je spremnik 569 u ulici 8, popunjenost vozila mješanko 3  je 2251.7793/3000kg
+(Ciklus: 340) Pokupljen je spremnik 570 u ulici 8, popunjenost vozila mješanko 2  je 3664.6304/5000kg
+(Ciklus: 341) Pokupljen je spremnik 464 u ulici 7, popunjenost vozila staklarko 1 je 3989.039/4000kg
+(Ciklus: 342) Pokupljen je spremnik 544 u ulici 8, popunjenost vozila papirko 1   je 130.49419/3000kg
+(Ciklus: 343) Pokupljen je spremnik 623 u ulici 9, popunjenost vozila mješanko 3  je 2287.8193/3000kg
+(Ciklus: 344) Pokupljen je spremnik 624 u ulici 9, popunjenost vozila mješanko 2  je 3709.5903/5000kg
+(Ciklus: 345) Pokupljen je spremnik 465 u ulici 7, popunjenost vozila staklarko 1 je 4000.0/4000kg
+Vozilo staklarko 1 je puno i ide na zbrinjavanje otpada
+(Ciklus: 346) Pokupljen je spremnik 580 u ulici 9, popunjenost vozila papirko 1   je 157.67418/3000kg
+(Ciklus: 347) Pokupljen je spremnik 625 u ulici 9, popunjenost vozila mješanko 3  je 2295.2993/3000kg
+(Ciklus: 348) Pokupljen je spremnik 626 u ulici 9, popunjenost vozila mješanko 2  je 3754.87/5000kg
+(Ciklus: 349) Pokupljen je spremnik 465 u ulici 7, popunjenost vozila staklarko 1 je 40.518555/4000kg
+(Ciklus: 350) Pokupljen je spremnik 581 u ulici 9, popunjenost vozila papirko 1   je 176.07417/3000kg
+(Ciklus: 351) Pokupljen je spremnik 627 u ulici 9, popunjenost vozila mješanko 3  je 2341.1992/3000kg
+(Ciklus: 352) Pokupljen je spremnik 628 u ulici 9, popunjenost vozila mješanko 2  je 3809.35/5000kg
+(Ciklus: 353) Pokupljen je spremnik 466 u ulici 7, popunjenost vozila staklarko 1 je 100.81856/4000kg
+(Ciklus: 354) Pokupljen je spremnik 582 u ulici 9, popunjenost vozila papirko 1   je 199.67418/3000kg
+(Ciklus: 355) Pokupljen je spremnik 629 u ulici 9, popunjenost vozila mješanko 3  je 2382.9395/3000kg
+(Ciklus: 356) Pokupljen je spremnik 630 u ulici 9, popunjenost vozila mješanko 2  je 3825.87/5000kg
+(Ciklus: 357) Pokupljen je spremnik 540 u ulici 8, popunjenost vozila staklarko 1 je 187.29857/4000kg
+(Ciklus: 358) Pokupljen je spremnik 583 u ulici 9, popunjenost vozila papirko 1   je 217.81418/3000kg
+(Ciklus: 359) Pokupljen je spremnik 631 u ulici 9, popunjenost vozila mješanko 3  je 2430.5996/3000kg
+(Ciklus: 360) Pokupljen je spremnik 632 u ulici 9, popunjenost vozila mješanko 2  je 3853.0103/5000kg
+(Ciklus: 361) Pokupljen je spremnik 541 u ulici 8, popunjenost vozila staklarko 1 je 198.81856/4000kg
+(Ciklus: 362) Pokupljen je spremnik 584 u ulici 9, popunjenost vozila papirko 1   je 238.69418/3000kg
+(Ciklus: 363) Pokupljen je spremnik 633 u ulici 9, popunjenost vozila mješanko 3  je 2460.8198/3000kg
+(Ciklus: 364) Pokupljen je spremnik 634 u ulici 9, popunjenost vozila mješanko 2  je 3906.6704/5000kg
+(Ciklus: 365) Pokupljen je spremnik 571 u ulici 9, popunjenost vozila staklarko 1 je 274.33856/4000kg
+(Ciklus: 366) Pokupljen je spremnik 585 u ulici 9, popunjenost vozila papirko 1   je 275.0142/3000kg
+(Ciklus: 367) Pokupljen je spremnik 635 u ulici 9, popunjenost vozila mješanko 3  je 2512.5796/3000kg
+(Ciklus: 368) Pokupljen je spremnik 636 u ulici 9, popunjenost vozila mješanko 2  je 3946.2705/5000kg
+(Ciklus: 369) Pokupljen je spremnik 572 u ulici 9, popunjenost vozila staklarko 1 je 352.43854/4000kg
+(Ciklus: 370) Pokupljen je spremnik 586 u ulici 9, popunjenost vozila papirko 1   je 310.87418/3000kg
+(Ciklus: 371) Pokupljen je spremnik 637 u ulici 9, popunjenost vozila mješanko 3  je 2567.8794/3000kg
+(Ciklus: 372) Pokupljen je spremnik 638 u ulici 9, popunjenost vozila mješanko 2  je 3979.6504/5000kg
+(Ciklus: 373) Pokupljen je spremnik 573 u ulici 9, popunjenost vozila staklarko 1 je 396.33856/4000kg
+(Ciklus: 374) Pokupljen je spremnik 587 u ulici 9, popunjenost vozila papirko 1   je 336.69418/3000kg
+(Ciklus: 375) Pokupljen je spremnik 639 u ulici 9, popunjenost vozila mješanko 3  je 2599.6792/3000kg
+(Ciklus: 376) Pokupljen je spremnik 640 u ulici 9, popunjenost vozila mješanko 2  je 4026.7905/5000kg
+(Ciklus: 377) Pokupljen je spremnik 574 u ulici 9, popunjenost vozila staklarko 1 je 411.93854/4000kg
+(Ciklus: 378) Pokupljen je spremnik 663 u ulici 10, popunjenost vozila papirko 1   je 364.5342/3000kg
+(Ciklus: 379) Pokupljen je spremnik 641 u ulici 9, popunjenost vozila mješanko 3  je 2624.3193/3000kg
+(Ciklus: 380) Pokupljen je spremnik 642 u ulici 9, popunjenost vozila mješanko 2  je 4043.1504/5000kg
+(Ciklus: 381) Pokupljen je spremnik 575 u ulici 9, popunjenost vozila staklarko 1 je 438.79852/4000kg
+(Ciklus: 382) Pokupljen je spremnik 664 u ulici 10, popunjenost vozila papirko 1   je 388.85422/3000kg
+(Ciklus: 383) Pokupljen je spremnik 643 u ulici 9, popunjenost vozila mješanko 3  je 2647.2793/3000kg
+(Ciklus: 384) Pokupljen je spremnik 644 u ulici 9, popunjenost vozila mješanko 2  je 4085.7905/5000kg
+(Ciklus: 385) Pokupljen je spremnik 576 u ulici 9, popunjenost vozila staklarko 1 je 452.07855/4000kg
+(Ciklus: 386) Pokupljen je spremnik 665 u ulici 10, popunjenost vozila papirko 1   je 423.87424/3000kg
+(Ciklus: 387) Pokupljen je spremnik 645 u ulici 9, popunjenost vozila mješanko 3  je 2680.6191/3000kg
+(Ciklus: 388) Pokupljen je spremnik 646 u ulici 9, popunjenost vozila mješanko 2  je 4120.731/5000kg
+(Ciklus: 389) Pokupljen je spremnik 577 u ulici 9, popunjenost vozila staklarko 1 je 486.27856/4000kg
+(Ciklus: 390) Pokupljen je spremnik 666 u ulici 10, popunjenost vozila papirko 1   je 451.9142/3000kg
+(Ciklus: 391) Pokupljen je spremnik 647 u ulici 9, popunjenost vozila mješanko 3  je 2937.8594/3000kg
+(Ciklus: 392) Pokupljen je spremnik 648 u ulici 9, popunjenost vozila mješanko 2  je 4543.891/5000kg
+(Ciklus: 393) Pokupljen je spremnik 578 u ulici 9, popunjenost vozila staklarko 1 je 504.59857/4000kg
+(Ciklus: 394) Pokupljen je spremnik 667 u ulici 10, popunjenost vozila papirko 1   je 474.5342/3000kg
+(Ciklus: 395) Pokupljen je spremnik 716 u ulici 10, popunjenost vozila mješanko 3  je 2949.1392/3000kg
+(Ciklus: 396) Pokupljen je spremnik 717 u ulici 10, popunjenost vozila mješanko 2  je 4589.531/5000kg
+(Ciklus: 397) Pokupljen je spremnik 579 u ulici 9, popunjenost vozila staklarko 1 je 526.2786/4000kg
+(Ciklus: 398) Pokupljen je spremnik 668 u ulici 10, popunjenost vozila papirko 1   je 517.3342/3000kg
+(Ciklus: 399) Pokupljen je spremnik 718 u ulici 10, popunjenost vozila mješanko 3  je 2959.6792/3000kg
+(Ciklus: 400) Pokupljen je spremnik 719 u ulici 10, popunjenost vozila mješanko 2  je 4611.231/5000kg
+(Ciklus: 401) Pokupljen je spremnik 649 u ulici 10, popunjenost vozila staklarko 1 je 584.1386/4000kg
+(Ciklus: 402) Pokupljen je spremnik 669 u ulici 10, popunjenost vozila papirko 1   je 572.7742/3000kg
+(Ciklus: 403) Pokupljen je spremnik 720 u ulici 10, popunjenost vozila mješanko 3  je 2980.3594/3000kg
+(Ciklus: 404) Pokupljen je spremnik 721 u ulici 10, popunjenost vozila mješanko 2  je 4666.511/5000kg
+(Ciklus: 405) Pokupljen je spremnik 650 u ulici 10, popunjenost vozila staklarko 1 je 665.9786/4000kg
+(Ciklus: 406) Pokupljen je spremnik 670 u ulici 10, popunjenost vozila papirko 1   je 606.4342/3000kg
+(Ciklus: 407) Pokupljen je spremnik 722 u ulici 10, popunjenost vozila mješanko 3  je 3000.0/3000kg
+Vozilo mješanko 3  je puno i ide na zbrinjavanje otpada
+(Ciklus: 408) Pokupljen je spremnik 722 u ulici 10, popunjenost vozila mješanko 2  je 4728.8296/5000kg
+(Ciklus: 409) Pokupljen je spremnik 651 u ulici 10, popunjenost vozila staklarko 1 je 699.7586/4000kg
+(Ciklus: 410) Pokupljen je spremnik 671 u ulici 10, popunjenost vozila papirko 1   je 641.51416/3000kg
+(Ciklus: 411) Pokupljen je spremnik 723 u ulici 10, popunjenost vozila mješanko 3  je 56.92/3000kg
+(Ciklus: 412) Pokupljen je spremnik 724 u ulici 10, popunjenost vozila mješanko 2  je 4767.15/5000kg
+(Ciklus: 413) Pokupljen je spremnik 652 u ulici 10, popunjenost vozila staklarko 1 je 739.3986/4000kg
+(Ciklus: 414) Pokupljen je spremnik 672 u ulici 10, popunjenost vozila papirko 1   je 693.6542/3000kg
+(Ciklus: 415) Pokupljen je spremnik 725 u ulici 10, popunjenost vozila mješanko 3  je 79.399994/3000kg
+(Ciklus: 416) Pokupljen je spremnik 726 u ulici 10, popunjenost vozila mješanko 2  je 4799.07/5000kg
+(Ciklus: 417) Pokupljen je spremnik 653 u ulici 10, popunjenost vozila staklarko 1 je 767.0787/4000kg
+(Ciklus: 418) Pokupljen je spremnik 673 u ulici 10, popunjenost vozila papirko 1   je 711.25415/3000kg
+(Ciklus: 419) Pokupljen je spremnik 727 u ulici 10, popunjenost vozila mješanko 3  je 89.479996/3000kg
+(Ciklus: 420) Pokupljen je spremnik 728 u ulici 10, popunjenost vozila mješanko 2  je 4807.93/5000kg
+(Ciklus: 421) Pokupljen je spremnik 654 u ulici 10, popunjenost vozila staklarko 1 je 793.55865/4000kg
+(Ciklus: 422) Pokupljen je spremnik 729 u ulici 10, popunjenost vozila mješanko 3  je 112.06/3000kg
+(Ciklus: 423) Pokupljen je spremnik 730 u ulici 10, popunjenost vozila mješanko 2  je 4850.5903/5000kg
+(Ciklus: 424) Pokupljen je spremnik 655 u ulici 10, popunjenost vozila staklarko 1 je 829.9787/4000kg
+(Ciklus: 425) Pokupljen je spremnik 731 u ulici 10, popunjenost vozila mješanko 3  je 153.28/3000kg
+(Ciklus: 426) Pokupljen je spremnik 732 u ulici 10, popunjenost vozila mješanko 2  je 4865.2104/5000kg
+(Ciklus: 427) Pokupljen je spremnik 656 u ulici 10, popunjenost vozila staklarko 1 je 858.4787/4000kg
+(Ciklus: 428) Pokupljen je spremnik 733 u ulici 10, popunjenost vozila mješanko 3  je 206.54001/3000kg
+(Ciklus: 429) Pokupljen je spremnik 734 u ulici 10, popunjenost vozila mješanko 2  je 4895.651/5000kg
+(Ciklus: 430) Pokupljen je spremnik 657 u ulici 10, popunjenost vozila staklarko 1 je 879.81866/4000kg
+(Ciklus: 431) Pokupljen je spremnik 735 u ulici 10, popunjenost vozila mješanko 3  je 218.26001/3000kg
+(Ciklus: 432) Pokupljen je spremnik 736 u ulici 10, popunjenost vozila mješanko 2  je 4937.7104/5000kg
+(Ciklus: 433) Pokupljen je spremnik 658 u ulici 10, popunjenost vozila staklarko 1 je 911.19867/4000kg
+(Ciklus: 434) Pokupljen je spremnik 737 u ulici 10, popunjenost vozila mješanko 3  je 246.08002/3000kg
+(Ciklus: 435) Pokupljen je spremnik 738 u ulici 10, popunjenost vozila mješanko 2  je 4982.071/5000kg
+(Ciklus: 436) Pokupljen je spremnik 659 u ulici 10, popunjenost vozila staklarko 1 je 946.2786/4000kg
+(Ciklus: 437) Pokupljen je spremnik 739 u ulici 10, popunjenost vozila mješanko 3  je 284.54004/3000kg
+(Ciklus: 438) Pokupljen je spremnik 740 u ulici 10, popunjenost vozila mješanko 2  je 5000.0/5000kg
+Vozilo mješanko 2  je puno i ide na zbrinjavanje otpada
+(Ciklus: 439) Pokupljen je spremnik 660 u ulici 10, popunjenost vozila staklarko 1 je 955.4587/4000kg
+(Ciklus: 440) Pokupljen je spremnik 740 u ulici 10, popunjenost vozila mješanko 3  je 312.2422/3000kg
+(Ciklus: 441) Pokupljen je spremnik 741 u ulici 10, popunjenost vozila mješanko 2  je 340.46/5000kg
+(Ciklus: 442) Pokupljen je spremnik 661 u ulici 10, popunjenost vozila staklarko 1 je 971.5787/4000kg
+(Ciklus: 443) Pokupljen je spremnik 742 u ulici 10, popunjenost vozila mješanko 3  je 767.6422/3000kg
+(Ciklus: 444) Pokupljen je spremnik 743 u ulici 10, popunjenost vozila mješanko 2  je 750.38/5000kg
+(Ciklus: 445) Pokupljen je spremnik 662 u ulici 10, popunjenost vozila staklarko 1 je 997.8986/4000kg
+(Ciklus: 446) Pokupljen je spremnik 744 u ulici 10, popunjenost vozila mješanko 3  je 977.7422/3000kg
+Vozilo staklarko 1 ide na zbrinjavanje otpada
+Vozilo mješanko 3  ide na zbrinjavanje otpada
+(Ciklus: 447) Pokupljen je spremnik 9 u ulici 1, popunjenost vozila metalko 1   je 9.6/5000kg
+(Ciklus: 448) Pokupljen je spremnik 12 u ulici 1, popunjenost vozila biotko 1    je 6.56/3000kg
+(Ciklus: 449) Pokupljen je spremnik 10 u ulici 1, popunjenost vozila metalko 1   je 17.62/5000kg
+(Ciklus: 450) Pokupljen je spremnik 13 u ulici 1, popunjenost vozila biotko 1    je 18.4/3000kg
+(Ciklus: 451) Pokupljen je spremnik 11 u ulici 1, popunjenost vozila metalko 1   je 59.559998/5000kg
+(Ciklus: 452) Pokupljen je spremnik 14 u ulici 1, popunjenost vozila biotko 1    je 27.019999/3000kg
+(Ciklus: 453) Pokupljen je spremnik 36 u ulici 2, popunjenost vozila metalko 1   je 98.67999/5000kg
+(Ciklus: 454) Pokupljen je spremnik 15 u ulici 1, popunjenost vozila biotko 1    je 45.96/3000kg
+(Ciklus: 455) Pokupljen je spremnik 37 u ulici 2, popunjenost vozila metalko 1   je 113.67999/5000kg
+(Ciklus: 456) Pokupljen je spremnik 16 u ulici 1, popunjenost vozila biotko 1    je 59.0/3000kg
+(Ciklus: 457) Pokupljen je spremnik 105 u ulici 3, popunjenost vozila metalko 1   je 149.91998/5000kg
+(Ciklus: 458) Pokupljen je spremnik 17 u ulici 1, popunjenost vozila biotko 1    je 71.759995/3000kg
+(Ciklus: 459) Pokupljen je spremnik 106 u ulici 3, popunjenost vozila metalko 1   je 181.81998/5000kg
+(Ciklus: 460) Pokupljen je spremnik 18 u ulici 1, popunjenost vozila biotko 1    je 84.67999/3000kg
+(Ciklus: 461) Pokupljen je spremnik 107 u ulici 3, popunjenost vozila metalko 1   je 205.91998/5000kg
+(Ciklus: 462) Pokupljen je spremnik 19 u ulici 1, popunjenost vozila biotko 1    je 174.09998/3000kg
+(Ciklus: 463) Pokupljen je spremnik 108 u ulici 3, popunjenost vozila metalko 1   je 233.5/5000kg
+(Ciklus: 464) Pokupljen je spremnik 20 u ulici 1, popunjenost vozila biotko 1    je 256.19998/3000kg
+(Ciklus: 465) Pokupljen je spremnik 109 u ulici 3, popunjenost vozila metalko 1   je 236.84/5000kg
+(Ciklus: 466) Pokupljen je spremnik 21 u ulici 1, popunjenost vozila biotko 1    je 496.19998/3000kg
+(Ciklus: 467) Pokupljen je spremnik 110 u ulici 3, popunjenost vozila metalko 1   je 312.80002/5000kg
+(Ciklus: 468) Pokupljen je spremnik 38 u ulici 2, popunjenost vozila biotko 1    je 514.48/3000kg
+(Ciklus: 469) Pokupljen je spremnik 111 u ulici 3, popunjenost vozila metalko 1   je 426.66/5000kg
+(Ciklus: 470) Pokupljen je spremnik 39 u ulici 2, popunjenost vozila biotko 1    je 519.54004/3000kg
+(Ciklus: 471) Pokupljen je spremnik 112 u ulici 3, popunjenost vozila metalko 1   je 454.22/5000kg
+(Ciklus: 472) Pokupljen je spremnik 40 u ulici 2, popunjenost vozila biotko 1    je 538.28/3000kg
+(Ciklus: 473) Pokupljen je spremnik 215 u ulici 4, popunjenost vozila metalko 1   je 486.92/5000kg
+(Ciklus: 474) Pokupljen je spremnik 41 u ulici 2, popunjenost vozila biotko 1    je 547.38/3000kg
+(Ciklus: 475) Pokupljen je spremnik 216 u ulici 4, popunjenost vozila metalko 1   je 489.12003/5000kg
+(Ciklus: 476) Pokupljen je spremnik 42 u ulici 2, popunjenost vozila biotko 1    je 556.5/3000kg
+(Ciklus: 477) Pokupljen je spremnik 217 u ulici 4, popunjenost vozila metalko 1   je 514.56006/5000kg
+(Ciklus: 478) Pokupljen je spremnik 43 u ulici 2, popunjenost vozila biotko 1    je 571.31995/3000kg
+(Ciklus: 479) Pokupljen je spremnik 218 u ulici 4, popunjenost vozila metalko 1   je 533.18005/5000kg
+(Ciklus: 480) Pokupljen je spremnik 44 u ulici 2, popunjenost vozila biotko 1    je 580.7799/3000kg
+(Ciklus: 481) Pokupljen je spremnik 219 u ulici 4, popunjenost vozila metalko 1   je 665.04004/5000kg
+(Ciklus: 482) Pokupljen je spremnik 45 u ulici 2, popunjenost vozila biotko 1    je 586.69995/3000kg
+(Ciklus: 483) Pokupljen je spremnik 220 u ulici 4, popunjenost vozila metalko 1   je 795.78/5000kg
+(Ciklus: 484) Pokupljen je spremnik 46 u ulici 2, popunjenost vozila biotko 1    je 598.2999/3000kg
+(Ciklus: 485) Pokupljen je spremnik 221 u ulici 4, popunjenost vozila metalko 1   je 890.80005/5000kg
+(Ciklus: 486) Pokupljen je spremnik 47 u ulici 2, popunjenost vozila biotko 1    je 615.7599/3000kg
+(Ciklus: 487) Pokupljen je spremnik 313 u ulici 5, popunjenost vozila metalko 1   je 920.2001/5000kg
+(Ciklus: 488) Pokupljen je spremnik 48 u ulici 2, popunjenost vozila biotko 1    je 630.17993/3000kg
+(Ciklus: 489) Pokupljen je spremnik 314 u ulici 5, popunjenost vozila metalko 1   je 931.8401/5000kg
+(Ciklus: 490) Pokupljen je spremnik 49 u ulici 2, popunjenost vozila biotko 1    je 640.5199/3000kg
+(Ciklus: 491) Pokupljen je spremnik 315 u ulici 5, popunjenost vozila metalko 1   je 966.30005/5000kg
+(Ciklus: 492) Pokupljen je spremnik 50 u ulici 2, popunjenost vozila biotko 1    je 654.59985/3000kg
+(Ciklus: 493) Pokupljen je spremnik 316 u ulici 5, popunjenost vozila metalko 1   je 971.4601/5000kg
+(Ciklus: 494) Pokupljen je spremnik 51 u ulici 2, popunjenost vozila biotko 1    je 658.09985/3000kg
+(Ciklus: 495) Pokupljen je spremnik 317 u ulici 5, popunjenost vozila metalko 1   je 1072.54/5000kg
+(Ciklus: 496) Pokupljen je spremnik 52 u ulici 2, popunjenost vozila biotko 1    je 673.1599/3000kg
+(Ciklus: 497) Pokupljen je spremnik 318 u ulici 5, popunjenost vozila metalko 1   je 1180.8601/5000kg
+(Ciklus: 498) Pokupljen je spremnik 113 u ulici 3, popunjenost vozila biotko 1    je 682.1599/3000kg
+(Ciklus: 499) Pokupljen je spremnik 319 u ulici 5, popunjenost vozila metalko 1   je 1298.76/5000kg
+(Ciklus: 500) Pokupljen je spremnik 114 u ulici 3, popunjenost vozila biotko 1    je 697.47986/3000kg
+(Ciklus: 501) Pokupljen je spremnik 320 u ulici 5, popunjenost vozila metalko 1   je 1431.22/5000kg
+(Ciklus: 502) Pokupljen je spremnik 115 u ulici 3, popunjenost vozila biotko 1    je 699.6798/3000kg
+(Ciklus: 503) Pokupljen je spremnik 321 u ulici 5, popunjenost vozila metalko 1   je 1484.7/5000kg
+(Ciklus: 504) Pokupljen je spremnik 116 u ulici 3, popunjenost vozila biotko 1    je 711.61975/3000kg
+(Ciklus: 505) Pokupljen je spremnik 395 u ulici 6, popunjenost vozila metalko 1   je 1520.8599/5000kg
+(Ciklus: 506) Pokupljen je spremnik 117 u ulici 3, popunjenost vozila biotko 1    je 722.99976/3000kg
+(Ciklus: 507) Pokupljen je spremnik 396 u ulici 6, popunjenost vozila metalko 1   je 1559.2397/5000kg
+(Ciklus: 508) Pokupljen je spremnik 118 u ulici 3, popunjenost vozila biotko 1    je 730.75977/3000kg
+(Ciklus: 509) Pokupljen je spremnik 397 u ulici 6, popunjenost vozila metalko 1   je 1569.9797/5000kg
+(Ciklus: 510) Pokupljen je spremnik 119 u ulici 3, popunjenost vozila biotko 1    je 749.11975/3000kg
+(Ciklus: 511) Pokupljen je spremnik 398 u ulici 6, popunjenost vozila metalko 1   je 1588.4597/5000kg
+(Ciklus: 512) Pokupljen je spremnik 120 u ulici 3, popunjenost vozila biotko 1    je 768.0198/3000kg
+(Ciklus: 513) Pokupljen je spremnik 481 u ulici 7, popunjenost vozila metalko 1   je 1626.2598/5000kg
+(Ciklus: 514) Pokupljen je spremnik 121 u ulici 3, popunjenost vozila biotko 1    je 779.57983/3000kg
+(Ciklus: 515) Pokupljen je spremnik 482 u ulici 7, popunjenost vozila metalko 1   je 1639.6199/5000kg
+(Ciklus: 516) Pokupljen je spremnik 122 u ulici 3, popunjenost vozila biotko 1    je 796.6199/3000kg
+(Ciklus: 517) Pokupljen je spremnik 483 u ulici 7, popunjenost vozila metalko 1   je 1667.9199/5000kg
+(Ciklus: 518) Pokupljen je spremnik 123 u ulici 3, popunjenost vozila biotko 1    je 804.97986/3000kg
+(Ciklus: 519) Pokupljen je spremnik 484 u ulici 7, popunjenost vozila metalko 1   je 1674.6199/5000kg
+(Ciklus: 520) Pokupljen je spremnik 124 u ulici 3, popunjenost vozila biotko 1    je 820.0598/3000kg
+(Ciklus: 521) Pokupljen je spremnik 485 u ulici 7, popunjenost vozila metalko 1   je 1788.6199/5000kg
+(Ciklus: 522) Pokupljen je spremnik 125 u ulici 3, popunjenost vozila biotko 1    je 826.6598/3000kg
+(Ciklus: 523) Pokupljen je spremnik 486 u ulici 7, popunjenost vozila metalko 1   je 1885.46/5000kg
+(Ciklus: 524) Pokupljen je spremnik 126 u ulici 3, popunjenost vozila biotko 1    je 834.95984/3000kg
+(Ciklus: 525) Pokupljen je spremnik 487 u ulici 7, popunjenost vozila metalko 1   je 1972.8398/5000kg
+(Ciklus: 526) Pokupljen je spremnik 127 u ulici 3, popunjenost vozila biotko 1    je 845.6598/3000kg
+(Ciklus: 527) Pokupljen je spremnik 545 u ulici 8, popunjenost vozila metalko 1   je 2002.7/5000kg
+(Ciklus: 528) Pokupljen je spremnik 128 u ulici 3, popunjenost vozila biotko 1    je 861.83984/3000kg
+(Ciklus: 529) Pokupljen je spremnik 546 u ulici 8, popunjenost vozila metalko 1   je 2011.0999/5000kg
+(Ciklus: 530) Pokupljen je spremnik 129 u ulici 3, popunjenost vozila biotko 1    je 881.2798/3000kg
+(Ciklus: 531) Pokupljen je spremnik 588 u ulici 9, popunjenost vozila metalko 1   je 2042.0598/5000kg
+(Ciklus: 532) Pokupljen je spremnik 130 u ulici 3, popunjenost vozila biotko 1    je 891.75977/3000kg
+(Ciklus: 533) Pokupljen je spremnik 589 u ulici 9, popunjenost vozila metalko 1   je 2068.0198/5000kg
+(Ciklus: 534) Pokupljen je spremnik 131 u ulici 3, popunjenost vozila biotko 1    je 901.6997/3000kg
+(Ciklus: 535) Pokupljen je spremnik 590 u ulici 9, popunjenost vozila metalko 1   je 2084.3196/5000kg
+(Ciklus: 536) Pokupljen je spremnik 132 u ulici 3, popunjenost vozila biotko 1    je 954.5597/3000kg
+(Ciklus: 537) Pokupljen je spremnik 591 u ulici 9, popunjenost vozila metalko 1   je 2118.1794/5000kg
+(Ciklus: 538) Pokupljen je spremnik 133 u ulici 3, popunjenost vozila biotko 1    je 1007.61975/3000kg
+(Ciklus: 539) Pokupljen je spremnik 592 u ulici 9, popunjenost vozila metalko 1   je 2126.8796/5000kg
+(Ciklus: 540) Pokupljen je spremnik 134 u ulici 3, popunjenost vozila biotko 1    je 1093.0397/3000kg
+(Ciklus: 541) Pokupljen je spremnik 674 u ulici 10, popunjenost vozila metalko 1   je 2158.2996/5000kg
+(Ciklus: 542) Pokupljen je spremnik 135 u ulici 3, popunjenost vozila biotko 1    je 1183.2797/3000kg
+(Ciklus: 543) Pokupljen je spremnik 675 u ulici 10, popunjenost vozila metalko 1   je 2188.4197/5000kg
+(Ciklus: 544) Pokupljen je spremnik 136 u ulici 3, popunjenost vozila biotko 1    je 1281.1198/3000kg
+(Ciklus: 545) Pokupljen je spremnik 676 u ulici 10, popunjenost vozila metalko 1   je 2199.9597/5000kg
+(Ciklus: 546) Pokupljen je spremnik 137 u ulici 3, popunjenost vozila biotko 1    je 1304.3998/3000kg
+(Ciklus: 547) Pokupljen je spremnik 677 u ulici 10, popunjenost vozila metalko 1   je 2228.8596/5000kg
+(Ciklus: 548) Pokupljen je spremnik 138 u ulici 3, popunjenost vozila biotko 1    je 1395.9598/3000kg
+(Ciklus: 549) Pokupljen je spremnik 678 u ulici 10, popunjenost vozila metalko 1   je 2248.0999/5000kg
+(Ciklus: 550) Pokupljen je spremnik 139 u ulici 3, popunjenost vozila biotko 1    je 1429.5599/3000kg
+(Ciklus: 551) Pokupljen je spremnik 679 u ulici 10, popunjenost vozila metalko 1   je 2253.3997/5000kg
+(Ciklus: 552) Pokupljen je spremnik 140 u ulici 3, popunjenost vozila biotko 1    je 1479.34/3000kg
+(Ciklus: 553) Pokupljen je spremnik 141 u ulici 3, popunjenost vozila biotko 1    je 1570.7599/3000kg
+(Ciklus: 554) Pokupljen je spremnik 142 u ulici 3, popunjenost vozila biotko 1    je 1637.2399/3000kg
+(Ciklus: 555) Pokupljen je spremnik 143 u ulici 3, popunjenost vozila biotko 1    je 1877.2399/3000kg
+(Ciklus: 556) Pokupljen je spremnik 144 u ulici 3, popunjenost vozila biotko 1    je 2095.4998/3000kg
+(Ciklus: 557) Pokupljen je spremnik 145 u ulici 3, popunjenost vozila biotko 1    je 2320.4597/3000kg
+(Ciklus: 558) Pokupljen je spremnik 146 u ulici 3, popunjenost vozila biotko 1    je 2488.3596/3000kg
+(Ciklus: 559) Pokupljen je spremnik 147 u ulici 3, popunjenost vozila biotko 1    je 2728.3596/3000kg
+(Ciklus: 560) Pokupljen je spremnik 148 u ulici 3, popunjenost vozila biotko 1    je 2886.0999/3000kg
+(Ciklus: 561) Pokupljen je spremnik 149 u ulici 3, popunjenost vozila biotko 1    je 3000.0/3000kg
+Vozilo biotko 1    je puno i ide na zbrinjavanje otpada
+(Ciklus: 562) Pokupljen je spremnik 149 u ulici 3, popunjenost vozila biotko 1    je 252.1997/3000kg
+(Ciklus: 563) Pokupljen je spremnik 222 u ulici 4, popunjenost vozila biotko 1    je 270.79968/3000kg
+(Ciklus: 564) Pokupljen je spremnik 223 u ulici 4, popunjenost vozila biotko 1    je 277.97968/3000kg
+(Ciklus: 565) Pokupljen je spremnik 224 u ulici 4, popunjenost vozila biotko 1    je 293.47968/3000kg
+(Ciklus: 566) Pokupljen je spremnik 225 u ulici 4, popunjenost vozila biotko 1    je 299.39966/3000kg
+(Ciklus: 567) Pokupljen je spremnik 226 u ulici 4, popunjenost vozila biotko 1    je 305.69965/3000kg
+(Ciklus: 568) Pokupljen je spremnik 227 u ulici 4, popunjenost vozila biotko 1    je 318.05963/3000kg
+(Ciklus: 569) Pokupljen je spremnik 228 u ulici 4, popunjenost vozila biotko 1    je 335.79962/3000kg
+(Ciklus: 570) Pokupljen je spremnik 229 u ulici 4, popunjenost vozila biotko 1    je 339.11963/3000kg
+(Ciklus: 571) Pokupljen je spremnik 230 u ulici 4, popunjenost vozila biotko 1    je 358.05963/3000kg
+(Ciklus: 572) Pokupljen je spremnik 231 u ulici 4, popunjenost vozila biotko 1    je 361.5996/3000kg
+(Ciklus: 573) Pokupljen je spremnik 232 u ulici 4, popunjenost vozila biotko 1    je 364.9796/3000kg
+(Ciklus: 574) Pokupljen je spremnik 233 u ulici 4, popunjenost vozila biotko 1    je 439.99963/3000kg
+(Ciklus: 575) Pokupljen je spremnik 234 u ulici 4, popunjenost vozila biotko 1    je 461.7196/3000kg
+(Ciklus: 576) Pokupljen je spremnik 235 u ulici 4, popunjenost vozila biotko 1    je 503.2796/3000kg
+(Ciklus: 577) Pokupljen je spremnik 236 u ulici 4, popunjenost vozila biotko 1    je 551.6396/3000kg
+(Ciklus: 578) Pokupljen je spremnik 237 u ulici 4, popunjenost vozila biotko 1    je 637.1796/3000kg
+(Ciklus: 579) Pokupljen je spremnik 238 u ulici 4, popunjenost vozila biotko 1    je 660.31964/3000kg
+(Ciklus: 580) Pokupljen je spremnik 239 u ulici 4, popunjenost vozila biotko 1    je 690.0396/3000kg
+(Ciklus: 581) Pokupljen je spremnik 240 u ulici 4, popunjenost vozila biotko 1    je 768.2596/3000kg
+(Ciklus: 582) Pokupljen je spremnik 241 u ulici 4, popunjenost vozila biotko 1    je 1008.2596/3000kg
+(Ciklus: 583) Pokupljen je spremnik 242 u ulici 4, popunjenost vozila biotko 1    je 1248.2595/3000kg
+(Ciklus: 584) Pokupljen je spremnik 243 u ulici 4, popunjenost vozila biotko 1    je 1488.2595/3000kg
+(Ciklus: 585) Pokupljen je spremnik 244 u ulici 4, popunjenost vozila biotko 1    je 1728.2595/3000kg
+(Ciklus: 586) Pokupljen je spremnik 245 u ulici 4, popunjenost vozila biotko 1    je 1968.2595/3000kg
+(Ciklus: 587) Pokupljen je spremnik 246 u ulici 4, popunjenost vozila biotko 1    je 2208.2595/3000kg
+(Ciklus: 588) Pokupljen je spremnik 247 u ulici 4, popunjenost vozila biotko 1    je 2448.2595/3000kg
+(Ciklus: 589) Pokupljen je spremnik 248 u ulici 4, popunjenost vozila biotko 1    je 2688.2595/3000kg
+(Ciklus: 590) Pokupljen je spremnik 249 u ulici 4, popunjenost vozila biotko 1    je 2909.1394/3000kg
+(Ciklus: 591) Pokupljen je spremnik 322 u ulici 5, popunjenost vozila biotko 1    je 2926.8992/3000kg
+(Ciklus: 592) Pokupljen je spremnik 323 u ulici 5, popunjenost vozila biotko 1    je 2937.0593/3000kg
+(Ciklus: 593) Pokupljen je spremnik 324 u ulici 5, popunjenost vozila biotko 1    je 2944.6394/3000kg
+(Ciklus: 594) Pokupljen je spremnik 325 u ulici 5, popunjenost vozila biotko 1    je 2961.4392/3000kg
+(Ciklus: 595) Pokupljen je spremnik 326 u ulici 5, popunjenost vozila biotko 1    je 2966.4792/3000kg
+(Ciklus: 596) Pokupljen je spremnik 327 u ulici 5, popunjenost vozila biotko 1    je 2982.0793/3000kg
+(Ciklus: 597) Pokupljen je spremnik 328 u ulici 5, popunjenost vozila biotko 1    je 2992.4392/3000kg
+(Ciklus: 598) Pokupljen je spremnik 329 u ulici 5, popunjenost vozila biotko 1    je 2996.8591/3000kg
+(Ciklus: 599) Pokupljen je spremnik 330 u ulici 5, popunjenost vozila biotko 1    je 3000.0/3000kg
+Vozilo biotko 1    je puno i ide na zbrinjavanje otpada
+(Ciklus: 600) Pokupljen je spremnik 330 u ulici 5, popunjenost vozila biotko 1    je 3.7182617/3000kg
+(Ciklus: 601) Pokupljen je spremnik 331 u ulici 5, popunjenost vozila biotko 1    je 23.378262/3000kg
+(Ciklus: 602) Pokupljen je spremnik 332 u ulici 5, popunjenost vozila biotko 1    je 42.598263/3000kg
+(Ciklus: 603) Pokupljen je spremnik 333 u ulici 5, popunjenost vozila biotko 1    je 58.758263/3000kg
+(Ciklus: 604) Pokupljen je spremnik 334 u ulici 5, popunjenost vozila biotko 1    je 73.73826/3000kg
+(Ciklus: 605) Pokupljen je spremnik 335 u ulici 5, popunjenost vozila biotko 1    je 120.73826/3000kg
+(Ciklus: 606) Pokupljen je spremnik 336 u ulici 5, popunjenost vozila biotko 1    je 170.47826/3000kg
+(Ciklus: 607) Pokupljen je spremnik 337 u ulici 5, popunjenost vozila biotko 1    je 224.03825/3000kg
+(Ciklus: 608) Pokupljen je spremnik 338 u ulici 5, popunjenost vozila biotko 1    je 312.41824/3000kg
+(Ciklus: 609) Pokupljen je spremnik 339 u ulici 5, popunjenost vozila biotko 1    je 332.73825/3000kg
+(Ciklus: 610) Pokupljen je spremnik 340 u ulici 5, popunjenost vozila biotko 1    je 381.33823/3000kg
+(Ciklus: 611) Pokupljen je spremnik 341 u ulici 5, popunjenost vozila biotko 1    je 621.33826/3000kg
+(Ciklus: 612) Pokupljen je spremnik 342 u ulici 5, popunjenost vozila biotko 1    je 787.6383/3000kg
+(Ciklus: 613) Pokupljen je spremnik 343 u ulici 5, popunjenost vozila biotko 1    je 1027.6383/3000kg
+(Ciklus: 614) Pokupljen je spremnik 344 u ulici 5, popunjenost vozila biotko 1    je 1267.6383/3000kg
+(Ciklus: 615) Pokupljen je spremnik 345 u ulici 5, popunjenost vozila biotko 1    je 1418.1383/3000kg
+(Ciklus: 616) Pokupljen je spremnik 346 u ulici 5, popunjenost vozila biotko 1    je 1648.5382/3000kg
+(Ciklus: 617) Pokupljen je spremnik 347 u ulici 5, popunjenost vozila biotko 1    je 1888.5382/3000kg
+(Ciklus: 618) Pokupljen je spremnik 348 u ulici 5, popunjenost vozila biotko 1    je 2128.538/3000kg
+(Ciklus: 619) Pokupljen je spremnik 349 u ulici 5, popunjenost vozila biotko 1    je 2368.538/3000kg
+(Ciklus: 620) Pokupljen je spremnik 350 u ulici 5, popunjenost vozila biotko 1    je 2608.538/3000kg
+(Ciklus: 621) Pokupljen je spremnik 351 u ulici 5, popunjenost vozila biotko 1    je 2819.1182/3000kg
+(Ciklus: 622) Pokupljen je spremnik 352 u ulici 5, popunjenost vozila biotko 1    je 3000.0/3000kg
+Vozilo biotko 1    je puno i ide na zbrinjavanje otpada
+(Ciklus: 623) Pokupljen je spremnik 352 u ulici 5, popunjenost vozila biotko 1    je 118.23633/3000kg
+(Ciklus: 624) Pokupljen je spremnik 353 u ulici 5, popunjenost vozila biotko 1    je 358.23633/3000kg
+(Ciklus: 625) Pokupljen je spremnik 399 u ulici 6, popunjenost vozila biotko 1    je 363.41632/3000kg
+(Ciklus: 626) Pokupljen je spremnik 400 u ulici 6, popunjenost vozila biotko 1    je 367.6363/3000kg
+(Ciklus: 627) Pokupljen je spremnik 401 u ulici 6, popunjenost vozila biotko 1    je 382.2763/3000kg
+(Ciklus: 628) Pokupljen je spremnik 402 u ulici 6, popunjenost vozila biotko 1    je 387.91632/3000kg
+(Ciklus: 629) Pokupljen je spremnik 403 u ulici 6, popunjenost vozila biotko 1    je 400.5763/3000kg
+(Ciklus: 630) Pokupljen je spremnik 404 u ulici 6, popunjenost vozila biotko 1    je 412.87628/3000kg
+(Ciklus: 631) Pokupljen je spremnik 405 u ulici 6, popunjenost vozila biotko 1    je 421.97626/3000kg
+(Ciklus: 632) Pokupljen je spremnik 406 u ulici 6, popunjenost vozila biotko 1    je 440.15625/3000kg
+(Ciklus: 633) Pokupljen je spremnik 407 u ulici 6, popunjenost vozila biotko 1    je 451.57623/3000kg
+(Ciklus: 634) Pokupljen je spremnik 408 u ulici 6, popunjenost vozila biotko 1    je 471.1162/3000kg
+(Ciklus: 635) Pokupljen je spremnik 409 u ulici 6, popunjenost vozila biotko 1    je 483.5962/3000kg
+(Ciklus: 636) Pokupljen je spremnik 410 u ulici 6, popunjenost vozila biotko 1    je 494.5562/3000kg
+(Ciklus: 637) Pokupljen je spremnik 411 u ulici 6, popunjenost vozila biotko 1    je 498.7962/3000kg
+(Ciklus: 638) Pokupljen je spremnik 412 u ulici 6, popunjenost vozila biotko 1    je 512.8762/3000kg
+(Ciklus: 639) Pokupljen je spremnik 413 u ulici 6, popunjenost vozila biotko 1    je 528.2562/3000kg
+(Ciklus: 640) Pokupljen je spremnik 414 u ulici 6, popunjenost vozila biotko 1    je 545.4562/3000kg
+(Ciklus: 641) Pokupljen je spremnik 415 u ulici 6, popunjenost vozila biotko 1    je 556.41614/3000kg
+(Ciklus: 642) Pokupljen je spremnik 416 u ulici 6, popunjenost vozila biotko 1    je 567.93616/3000kg
+(Ciklus: 643) Pokupljen je spremnik 417 u ulici 6, popunjenost vozila biotko 1    je 574.41614/3000kg
+(Ciklus: 644) Pokupljen je spremnik 418 u ulici 6, popunjenost vozila biotko 1    je 583.03613/3000kg
+(Ciklus: 645) Pokupljen je spremnik 419 u ulici 6, popunjenost vozila biotko 1    je 589.19617/3000kg
+(Ciklus: 646) Pokupljen je spremnik 420 u ulici 6, popunjenost vozila biotko 1    je 605.79614/3000kg
+(Ciklus: 647) Pokupljen je spremnik 421 u ulici 6, popunjenost vozila biotko 1    je 611.81616/3000kg
+(Ciklus: 648) Pokupljen je spremnik 422 u ulici 6, popunjenost vozila biotko 1    je 616.43616/3000kg
+(Ciklus: 649) Pokupljen je spremnik 423 u ulici 6, popunjenost vozila biotko 1    je 685.41614/3000kg
+(Ciklus: 650) Pokupljen je spremnik 424 u ulici 6, popunjenost vozila biotko 1    je 781.3561/3000kg
+(Ciklus: 651) Pokupljen je spremnik 425 u ulici 6, popunjenost vozila biotko 1    je 848.21606/3000kg
+(Ciklus: 652) Pokupljen je spremnik 488 u ulici 7, popunjenost vozila biotko 1    je 864.9961/3000kg
+(Ciklus: 653) Pokupljen je spremnik 489 u ulici 7, popunjenost vozila biotko 1    je 881.6561/3000kg
+(Ciklus: 654) Pokupljen je spremnik 490 u ulici 7, popunjenost vozila biotko 1    je 899.2361/3000kg
+(Ciklus: 655) Pokupljen je spremnik 491 u ulici 7, popunjenost vozila biotko 1    je 911.91614/3000kg
+(Ciklus: 656) Pokupljen je spremnik 492 u ulici 7, popunjenost vozila biotko 1    je 927.2361/3000kg
+(Ciklus: 657) Pokupljen je spremnik 493 u ulici 7, popunjenost vozila biotko 1    je 944.19604/3000kg
+(Ciklus: 658) Pokupljen je spremnik 494 u ulici 7, popunjenost vozila biotko 1    je 954.71606/3000kg
+(Ciklus: 659) Pokupljen je spremnik 495 u ulici 7, popunjenost vozila biotko 1    je 963.9761/3000kg
+(Ciklus: 660) Pokupljen je spremnik 496 u ulici 7, popunjenost vozila biotko 1    je 982.57605/3000kg
+(Ciklus: 661) Pokupljen je spremnik 497 u ulici 7, popunjenost vozila biotko 1    je 987.2561/3000kg
+(Ciklus: 662) Pokupljen je spremnik 498 u ulici 7, popunjenost vozila biotko 1    je 1002.05615/3000kg
+(Ciklus: 663) Pokupljen je spremnik 499 u ulici 7, popunjenost vozila biotko 1    je 1004.7761/3000kg
+(Ciklus: 664) Pokupljen je spremnik 500 u ulici 7, popunjenost vozila biotko 1    je 1018.0762/3000kg
+(Ciklus: 665) Pokupljen je spremnik 501 u ulici 7, popunjenost vozila biotko 1    je 1021.7362/3000kg
+(Ciklus: 666) Pokupljen je spremnik 502 u ulici 7, popunjenost vozila biotko 1    je 1099.0963/3000kg
+(Ciklus: 667) Pokupljen je spremnik 503 u ulici 7, popunjenost vozila biotko 1    je 1196.9364/3000kg
+(Ciklus: 668) Pokupljen je spremnik 504 u ulici 7, popunjenost vozila biotko 1    je 1243.8763/3000kg
+(Ciklus: 669) Pokupljen je spremnik 505 u ulici 7, popunjenost vozila biotko 1    je 1323.3563/3000kg
+(Ciklus: 670) Pokupljen je spremnik 506 u ulici 7, popunjenost vozila biotko 1    je 1405.3163/3000kg
+(Ciklus: 671) Pokupljen je spremnik 507 u ulici 7, popunjenost vozila biotko 1    je 1464.5162/3000kg
+(Ciklus: 672) Pokupljen je spremnik 508 u ulici 7, popunjenost vozila biotko 1    je 1627.0363/3000kg
+(Ciklus: 673) Pokupljen je spremnik 509 u ulici 7, popunjenost vozila biotko 1    je 1808.8163/3000kg
+(Ciklus: 674) Pokupljen je spremnik 510 u ulici 7, popunjenost vozila biotko 1    je 2048.8164/3000kg
+(Ciklus: 675) Pokupljen je spremnik 511 u ulici 7, popunjenost vozila biotko 1    je 2288.8164/3000kg
+(Ciklus: 676) Pokupljen je spremnik 512 u ulici 7, popunjenost vozila biotko 1    je 2528.8164/3000kg
+(Ciklus: 677) Pokupljen je spremnik 513 u ulici 7, popunjenost vozila biotko 1    je 2768.8164/3000kg
+(Ciklus: 678) Pokupljen je spremnik 514 u ulici 7, popunjenost vozila biotko 1    je 3000.0/3000kg
+Vozilo biotko 1    je puno i ide na zbrinjavanje otpada
+(Ciklus: 679) Pokupljen je spremnik 514 u ulici 7, popunjenost vozila biotko 1    je 17.632812/3000kg
+(Ciklus: 680) Pokupljen je spremnik 515 u ulici 7, popunjenost vozila biotko 1    je 257.6328/3000kg
+(Ciklus: 681) Pokupljen je spremnik 547 u ulici 8, popunjenost vozila biotko 1    je 263.59283/3000kg
+(Ciklus: 682) Pokupljen je spremnik 548 u ulici 8, popunjenost vozila biotko 1    je 270.23285/3000kg
+(Ciklus: 683) Pokupljen je spremnik 549 u ulici 8, popunjenost vozila biotko 1    je 275.65283/3000kg
+(Ciklus: 684) Pokupljen je spremnik 550 u ulici 8, popunjenost vozila biotko 1    je 288.1328/3000kg
+(Ciklus: 685) Pokupljen je spremnik 551 u ulici 8, popunjenost vozila biotko 1    je 295.7528/3000kg
+(Ciklus: 686) Pokupljen je spremnik 552 u ulici 8, popunjenost vozila biotko 1    je 306.7328/3000kg
+(Ciklus: 687) Pokupljen je spremnik 553 u ulici 8, popunjenost vozila biotko 1    je 311.1328/3000kg
+(Ciklus: 688) Pokupljen je spremnik 554 u ulici 8, popunjenost vozila biotko 1    je 313.91284/3000kg
+(Ciklus: 689) Pokupljen je spremnik 555 u ulici 8, popunjenost vozila biotko 1    je 327.6328/3000kg
+(Ciklus: 690) Pokupljen je spremnik 556 u ulici 8, popunjenost vozila biotko 1    je 330.1328/3000kg
+(Ciklus: 691) Pokupljen je spremnik 557 u ulici 8, popunjenost vozila biotko 1    je 343.5728/3000kg
+(Ciklus: 692) Pokupljen je spremnik 558 u ulici 8, popunjenost vozila biotko 1    je 355.0528/3000kg
+(Ciklus: 693) Pokupljen je spremnik 593 u ulici 9, popunjenost vozila biotko 1    je 361.65277/3000kg
+(Ciklus: 694) Pokupljen je spremnik 594 u ulici 9, popunjenost vozila biotko 1    je 364.97278/3000kg
+(Ciklus: 695) Pokupljen je spremnik 595 u ulici 9, popunjenost vozila biotko 1    je 376.07275/3000kg
+(Ciklus: 696) Pokupljen je spremnik 596 u ulici 9, popunjenost vozila biotko 1    je 378.19275/3000kg
+(Ciklus: 697) Pokupljen je spremnik 597 u ulici 9, popunjenost vozila biotko 1    je 386.73273/3000kg
+(Ciklus: 698) Pokupljen je spremnik 598 u ulici 9, popunjenost vozila biotko 1    je 399.41272/3000kg
+(Ciklus: 699) Pokupljen je spremnik 599 u ulici 9, popunjenost vozila biotko 1    je 417.2727/3000kg
+(Ciklus: 700) Pokupljen je spremnik 600 u ulici 9, popunjenost vozila biotko 1    je 433.61273/3000kg
+(Ciklus: 701) Pokupljen je spremnik 601 u ulici 9, popunjenost vozila biotko 1    je 448.93274/3000kg
+(Ciklus: 702) Pokupljen je spremnik 602 u ulici 9, popunjenost vozila biotko 1    je 459.41272/3000kg
+(Ciklus: 703) Pokupljen je spremnik 603 u ulici 9, popunjenost vozila biotko 1    je 472.25275/3000kg
+(Ciklus: 704) Pokupljen je spremnik 604 u ulici 9, popunjenost vozila biotko 1    je 476.59277/3000kg
+(Ciklus: 705) Pokupljen je spremnik 605 u ulici 9, popunjenost vozila biotko 1    je 480.01276/3000kg
+(Ciklus: 706) Pokupljen je spremnik 606 u ulici 9, popunjenost vozila biotko 1    je 496.41278/3000kg
+(Ciklus: 707) Pokupljen je spremnik 607 u ulici 9, popunjenost vozila biotko 1    je 503.2928/3000kg
+(Ciklus: 708) Pokupljen je spremnik 608 u ulici 9, popunjenost vozila biotko 1    je 516.3528/3000kg
+(Ciklus: 709) Pokupljen je spremnik 609 u ulici 9, popunjenost vozila biotko 1    je 525.8528/3000kg
+(Ciklus: 710) Pokupljen je spremnik 610 u ulici 9, popunjenost vozila biotko 1    je 536.15283/3000kg
+(Ciklus: 711) Pokupljen je spremnik 611 u ulici 9, popunjenost vozila biotko 1    je 554.6929/3000kg
+(Ciklus: 712) Pokupljen je spremnik 612 u ulici 9, popunjenost vozila biotko 1    je 559.8329/3000kg
+(Ciklus: 713) Pokupljen je spremnik 613 u ulici 9, popunjenost vozila biotko 1    je 570.7329/3000kg
+(Ciklus: 714) Pokupljen je spremnik 614 u ulici 9, popunjenost vozila biotko 1    je 590.2129/3000kg
+(Ciklus: 715) Pokupljen je spremnik 615 u ulici 9, popunjenost vozila biotko 1    je 601.3329/3000kg
+(Ciklus: 716) Pokupljen je spremnik 616 u ulici 9, popunjenost vozila biotko 1    je 613.9529/3000kg
+(Ciklus: 717) Pokupljen je spremnik 617 u ulici 9, popunjenost vozila biotko 1    je 638.01294/3000kg
+(Ciklus: 718) Pokupljen je spremnik 618 u ulici 9, popunjenost vozila biotko 1    je 699.4729/3000kg
+(Ciklus: 719) Pokupljen je spremnik 619 u ulici 9, popunjenost vozila biotko 1    je 770.55286/3000kg
+(Ciklus: 720) Pokupljen je spremnik 620 u ulici 9, popunjenost vozila biotko 1    je 820.4928/3000kg
+(Ciklus: 721) Pokupljen je spremnik 621 u ulici 9, popunjenost vozila biotko 1    je 847.5128/3000kg
+(Ciklus: 722) Pokupljen je spremnik 622 u ulici 9, popunjenost vozila biotko 1    je 901.5729/3000kg
+(Ciklus: 723) Pokupljen je spremnik 680 u ulici 10, popunjenost vozila biotko 1    je 910.2529/3000kg
+(Ciklus: 724) Pokupljen je spremnik 681 u ulici 10, popunjenost vozila biotko 1    je 915.553/3000kg
+(Ciklus: 725) Pokupljen je spremnik 682 u ulici 10, popunjenost vozila biotko 1    je 930.833/3000kg
+(Ciklus: 726) Pokupljen je spremnik 683 u ulici 10, popunjenost vozila biotko 1    je 941.093/3000kg
+(Ciklus: 727) Pokupljen je spremnik 684 u ulici 10, popunjenost vozila biotko 1    je 959.353/3000kg
+(Ciklus: 728) Pokupljen je spremnik 685 u ulici 10, popunjenost vozila biotko 1    je 974.553/3000kg
+(Ciklus: 729) Pokupljen je spremnik 686 u ulici 10, popunjenost vozila biotko 1    je 977.79297/3000kg
+(Ciklus: 730) Pokupljen je spremnik 687 u ulici 10, popunjenost vozila biotko 1    je 995.973/3000kg
+(Ciklus: 731) Pokupljen je spremnik 688 u ulici 10, popunjenost vozila biotko 1    je 999.313/3000kg
+(Ciklus: 732) Pokupljen je spremnik 689 u ulici 10, popunjenost vozila biotko 1    je 1016.313/3000kg
+(Ciklus: 733) Pokupljen je spremnik 690 u ulici 10, popunjenost vozila biotko 1    je 1028.913/3000kg
+(Ciklus: 734) Pokupljen je spremnik 691 u ulici 10, popunjenost vozila biotko 1    je 1041.6129/3000kg
+(Ciklus: 735) Pokupljen je spremnik 692 u ulici 10, popunjenost vozila biotko 1    je 1050.453/3000kg
+(Ciklus: 736) Pokupljen je spremnik 693 u ulici 10, popunjenost vozila biotko 1    je 1053.8329/3000kg
+(Ciklus: 737) Pokupljen je spremnik 694 u ulici 10, popunjenost vozila biotko 1    je 1069.433/3000kg
+(Ciklus: 738) Pokupljen je spremnik 695 u ulici 10, popunjenost vozila biotko 1    je 1082.2731/3000kg
+(Ciklus: 739) Pokupljen je spremnik 696 u ulici 10, popunjenost vozila biotko 1    je 1095.0131/3000kg
+(Ciklus: 740) Pokupljen je spremnik 697 u ulici 10, popunjenost vozila biotko 1    je 1111.493/3000kg
+(Ciklus: 741) Pokupljen je spremnik 698 u ulici 10, popunjenost vozila biotko 1    je 1122.3331/3000kg
+(Ciklus: 742) Pokupljen je spremnik 699 u ulici 10, popunjenost vozila biotko 1    je 1140.8331/3000kg
+(Ciklus: 743) Pokupljen je spremnik 700 u ulici 10, popunjenost vozila biotko 1    je 1152.1532/3000kg
+(Ciklus: 744) Pokupljen je spremnik 701 u ulici 10, popunjenost vozila biotko 1    je 1164.6332/3000kg
+(Ciklus: 745) Pokupljen je spremnik 702 u ulici 10, popunjenost vozila biotko 1    je 1173.8732/3000kg
+(Ciklus: 746) Pokupljen je spremnik 703 u ulici 10, popunjenost vozila biotko 1    je 1186.6332/3000kg
+(Ciklus: 747) Pokupljen je spremnik 704 u ulici 10, popunjenost vozila biotko 1    je 1203.6932/3000kg
+(Ciklus: 748) Pokupljen je spremnik 705 u ulici 10, popunjenost vozila biotko 1    je 1281.9532/3000kg
+(Ciklus: 749) Pokupljen je spremnik 706 u ulici 10, popunjenost vozila biotko 1    je 1312.5533/3000kg
+(Ciklus: 750) Pokupljen je spremnik 707 u ulici 10, popunjenost vozila biotko 1    je 1369.6735/3000kg
+(Ciklus: 751) Pokupljen je spremnik 708 u ulici 10, popunjenost vozila biotko 1    je 1408.7535/3000kg
+(Ciklus: 752) Pokupljen je spremnik 709 u ulici 10, popunjenost vozila biotko 1    je 1443.3934/3000kg
+(Ciklus: 753) Pokupljen je spremnik 710 u ulici 10, popunjenost vozila biotko 1    je 1488.3734/3000kg
+(Ciklus: 754) Pokupljen je spremnik 711 u ulici 10, popunjenost vozila biotko 1    je 1576.5133/3000kg
+(Ciklus: 755) Pokupljen je spremnik 712 u ulici 10, popunjenost vozila biotko 1    je 1628.6732/3000kg
+(Ciklus: 756) Pokupljen je spremnik 713 u ulici 10, popunjenost vozila biotko 1    je 1679.0133/3000kg
+(Ciklus: 757) Pokupljen je spremnik 714 u ulici 10, popunjenost vozila biotko 1    je 1724.6732/3000kg
+(Ciklus: 758) Pokupljen je spremnik 715 u ulici 10, popunjenost vozila biotko 1    je 1814.1532/3000kg
+Kraj dana
+Vozilo: staklarko 1 zbrinjava: 0.0kg otpada za kraj radnog dana
+Vozilo: papirko 1   zbrinjava: 711.25415kg otpada za kraj radnog dana
+Vozilo: metalko 1   zbrinjava: 2253.3997kg otpada za kraj radnog dana
+Vozilo: biotko 1    zbrinjava: 1814.1532kg otpada za kraj radnog dana
+Vozilo: mješanko 1  zbrinjava: 1781.3198kg otpada za kraj radnog dana
+Vozilo: mješanko 2  zbrinjava: 750.38kg otpada za kraj radnog dana
+Vozilo: mješanko 3  zbrinjava: 0.0kg otpada za kraj radnog dana
+Vozilo staklarko 1 pokupljenih spremnika: 114 kolicina pokupljenog otpada: 4997.8984kg  broj odlazaka na zbrinjavanje otpada: 2
+Vozilo papirko 1   pokupljenih spremnika: 105 kolicina pokupljenog otpada: 9711.254kg  broj odlazaka na zbrinjavanje otpada: 4
+Vozilo metalko 1   pokupljenih spremnika: 53 kolicina pokupljenog otpada: 2253.3997kg  broj odlazaka na zbrinjavanje otpada: 1
+Vozilo biotko 1    pokupljenih spremnika: 259 kolicina pokupljenog otpada: 13814.153kg  broj odlazaka na zbrinjavanje otpada: 5
+Vozilo mješanko 1  pokupljenih spremnika: 25 kolicina pokupljenog otpada: 1781.3198kg  broj odlazaka na zbrinjavanje otpada: 1
+Vozilo mješanko 2  pokupljenih spremnika: 88 kolicina pokupljenog otpada: 10750.38kg  broj odlazaka na zbrinjavanje otpada: 3
+Vozilo mješanko 3  pokupljenih spremnika: 114 kolicina pokupljenog otpada: 12977.742kg  broj odlazaka na zbrinjavanje otpada: 5
+Ukupno zbrinuto otpada staklo: 4997.8984kg papir: 9711.254kg metal: 2253.3997kg bio: 13814.153kg mjesano: 25509.441kg
