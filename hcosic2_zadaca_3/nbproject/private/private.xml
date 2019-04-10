@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/view/Unos.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/view/Pogled.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/KompozicijaPodrucja.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozila/Vozilo.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/DohvatiParametre.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/Korisnik.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozaci/Vozi.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozaci/VozacStanje.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/KomandaVozila.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozaci/Bolovanje.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozaci/Otkaz.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/Vozila.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozila/Parking.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozila/Kontrola.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/VozilaImpl.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozila/Kvar.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/model/Model.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozila/PrazniSmece.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/view/Ispis.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/ANSIVT100/IspisAnsiVt100.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/Ulica.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/MainProgram.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/kontroler/Kontroler.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/VozilaProxy.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozaci/Vozaci.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozaci/Novi.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozaci/Godisnji.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozila/VoziloStanje.java</file>
+            <file>file:/D:/Foi/UZDIZ/hcosic2_zadaca_3/src/org/foi/uzdiz/hcosic2/dz3/state/vozila/PrikupljaOtpad.java</file>
+        </group>
+    </open-files>
+</project-private>

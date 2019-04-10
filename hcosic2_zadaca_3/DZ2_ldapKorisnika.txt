@@ -1,0 +1,1144 @@
+Ulice kreirane!
+Korisnici kreirani!
+Vozila kreirana!
+Krivo uneseno podrucje!
+Podrucja kreirana!
+Dodano je podpodrucje za podrucje
+Dodano je podpodrucje za podrucje
+Dodano je podpodrucje za podrucje
+Dodano je podpodrucje za podrucje
+Dodano je podpodrucje za podrucje
+Dodana je ulica za odreðeno podrucje
+Dodana je ulica za odreðeno podrucje
+Dodana je ulica za odreðeno podrucje
+Dodana je ulica za odreðeno podrucje
+Dodana je ulica za odreðeno podrucje
+Dodana je ulica za odreðeno podrucje
+Dodana je ulica za odreðeno podrucje
+Dodana je ulica za odreðeno podrucje
+Dodana je ulica za odreðeno podrucje
+Dodana je ulica za odreðeno podrucje
+Krivo unesena komanda!
+Spremnici kreirani i dodijeljeni korisnicima!
+Bio spremnik 21 je pun
+Bio spremnik 143 je pun
+Bio spremnik 147 je pun
+Bio spremnik 149 je pun
+Bio spremnik 241 je pun
+Bio spremnik 242 je pun
+Bio spremnik 243 je pun
+Bio spremnik 244 je pun
+Bio spremnik 245 je pun
+Bio spremnik 246 je pun
+Bio spremnik 247 je pun
+Bio spremnik 248 je pun
+Bio spremnik 341 je pun
+Bio spremnik 343 je pun
+Bio spremnik 344 je pun
+Bio spremnik 347 je pun
+Bio spremnik 348 je pun
+Bio spremnik 349 je pun
+Bio spremnik 350 je pun
+Bio spremnik 352 je pun
+Bio spremnik 353 je pun
+Bio spremnik 510 je pun
+Bio spremnik 511 je pun
+Bio spremnik 512 je pun
+Bio spremnik 513 je pun
+Bio spremnik 514 je pun
+Bio spremnik 515 je pun
+Ishodista sustava: 
+p2   Varaždin grad  podpodrucja: p4,p5,p6
+p3   Varaždin okolica  podpodrucja: p7,p8
+Spremnici
+|Id: 1 |Vrsta spremnika: staklo |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 32.0kg |Korisnika: 7
+|Id: 2 |Vrsta spremnika: staklo |Ulica: 1 |Vrsta korisnika: srednji |Ukupno smeca: 19.85kg |Korisnika: 1
+|Id: 3 |Vrsta spremnika: staklo |Ulica: 1 |Vrsta korisnika: srednji |Ukupno smeca: 8.57kg |Korisnika: 1
+|Id: 4 |Vrsta spremnika: staklo |Ulica: 1 |Vrsta korisnika: veliki |Ukupno smeca: 49.33kg |Korisnika: 1
+|Id: 5 |Vrsta spremnika: papir |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 11.64kg |Korisnika: 5
+|Id: 6 |Vrsta spremnika: papir |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 7.22kg |Korisnika: 2
+|Id: 7 |Vrsta spremnika: papir |Ulica: 1 |Vrsta korisnika: srednji |Ukupno smeca: 19.19kg |Korisnika: 2
+|Id: 8 |Vrsta spremnika: papir |Ulica: 1 |Vrsta korisnika: veliki |Ukupno smeca: 121.98kg |Korisnika: 1
+|Id: 9 |Vrsta spremnika: metal |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 4.8kg |Korisnika: 7
+|Id: 10 |Vrsta spremnika: metal |Ulica: 1 |Vrsta korisnika: srednji |Ukupno smeca: 4.01kg |Korisnika: 2
+|Id: 11 |Vrsta spremnika: metal |Ulica: 1 |Vrsta korisnika: veliki |Ukupno smeca: 20.97kg |Korisnika: 1
+|Id: 12 |Vrsta spremnika: bio |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 3.28kg |Korisnika: 1
+|Id: 13 |Vrsta spremnika: bio |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 5.92kg |Korisnika: 1
+|Id: 14 |Vrsta spremnika: bio |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 4.31kg |Korisnika: 1
+|Id: 15 |Vrsta spremnika: bio |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 9.47kg |Korisnika: 1
+|Id: 16 |Vrsta spremnika: bio |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 6.52kg |Korisnika: 1
+|Id: 17 |Vrsta spremnika: bio |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 6.38kg |Korisnika: 1
+|Id: 18 |Vrsta spremnika: bio |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 6.46kg |Korisnika: 1
+|Id: 19 |Vrsta spremnika: bio |Ulica: 1 |Vrsta korisnika: srednji |Ukupno smeca: 44.71kg |Korisnika: 1
+|Id: 20 |Vrsta spremnika: bio |Ulica: 1 |Vrsta korisnika: srednji |Ukupno smeca: 41.05kg |Korisnika: 1
+|Id: 21 |Vrsta spremnika: bio |Ulica: 1 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 22 |Vrsta spremnika: mješano |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 19.88kg |Korisnika: 1
+|Id: 23 |Vrsta spremnika: mješano |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 3.25kg |Korisnika: 1
+|Id: 24 |Vrsta spremnika: mješano |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 6.96kg |Korisnika: 1
+|Id: 25 |Vrsta spremnika: mješano |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 7.75kg |Korisnika: 1
+|Id: 26 |Vrsta spremnika: mješano |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 29.59kg |Korisnika: 1
+|Id: 27 |Vrsta spremnika: mješano |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 24.1kg |Korisnika: 1
+|Id: 28 |Vrsta spremnika: mješano |Ulica: 1 |Vrsta korisnika: mali |Ukupno smeca: 20.21kg |Korisnika: 1
+|Id: 29 |Vrsta spremnika: mješano |Ulica: 1 |Vrsta korisnika: srednji |Ukupno smeca: 177.84kg |Korisnika: 2
+|Id: 30 |Vrsta spremnika: mješano |Ulica: 1 |Vrsta korisnika: veliki |Ukupno smeca: 92.69kg |Korisnika: 1
+|Id: 31 |Vrsta spremnika: staklo |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 45.11kg |Korisnika: 10
+|Id: 32 |Vrsta spremnika: staklo |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 21.589998kg |Korisnika: 5
+|Id: 33 |Vrsta spremnika: papir |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 7.7200003kg |Korisnika: 5
+|Id: 34 |Vrsta spremnika: papir |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 12.02kg |Korisnika: 5
+|Id: 35 |Vrsta spremnika: papir |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 9.969999kg |Korisnika: 5
+|Id: 36 |Vrsta spremnika: metal |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 19.56kg |Korisnika: 10
+|Id: 37 |Vrsta spremnika: metal |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 7.5kg |Korisnika: 5
+|Id: 38 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 9.14kg |Korisnika: 1
+|Id: 39 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 2.53kg |Korisnika: 1
+|Id: 40 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 9.37kg |Korisnika: 1
+|Id: 41 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 4.55kg |Korisnika: 1
+|Id: 42 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 4.56kg |Korisnika: 1
+|Id: 43 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 7.41kg |Korisnika: 1
+|Id: 44 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 4.73kg |Korisnika: 1
+|Id: 45 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 2.96kg |Korisnika: 1
+|Id: 46 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 5.8kg |Korisnika: 1
+|Id: 47 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 8.73kg |Korisnika: 1
+|Id: 48 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 7.21kg |Korisnika: 1
+|Id: 49 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 5.17kg |Korisnika: 1
+|Id: 50 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 7.04kg |Korisnika: 1
+|Id: 51 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 1.75kg |Korisnika: 1
+|Id: 52 |Vrsta spremnika: bio |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 7.53kg |Korisnika: 1
+|Id: 53 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 21.29kg |Korisnika: 1
+|Id: 54 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 6.88kg |Korisnika: 1
+|Id: 55 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 29.82kg |Korisnika: 1
+|Id: 56 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 19.51kg |Korisnika: 1
+|Id: 57 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 28.52kg |Korisnika: 1
+|Id: 58 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 21.63kg |Korisnika: 1
+|Id: 59 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 21.69kg |Korisnika: 1
+|Id: 60 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 8.49kg |Korisnika: 1
+|Id: 61 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 19.54kg |Korisnika: 1
+|Id: 62 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 28.17kg |Korisnika: 1
+|Id: 63 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 12.41kg |Korisnika: 1
+|Id: 64 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 10.4kg |Korisnika: 1
+|Id: 65 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 22.31kg |Korisnika: 1
+|Id: 66 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 8.02kg |Korisnika: 1
+|Id: 67 |Vrsta spremnika: mješano |Ulica: 2 |Vrsta korisnika: mali |Ukupno smeca: 27.28kg |Korisnika: 1
+|Id: 68 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 35.559998kg |Korisnika: 10
+|Id: 69 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 31.539999kg |Korisnika: 9
+|Id: 70 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 16.65kg |Korisnika: 1
+|Id: 71 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 15.86kg |Korisnika: 1
+|Id: 72 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 14.83kg |Korisnika: 1
+|Id: 73 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 13.82kg |Korisnika: 1
+|Id: 74 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 14.37kg |Korisnika: 1
+|Id: 75 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 13.28kg |Korisnika: 1
+|Id: 76 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 9.55kg |Korisnika: 1
+|Id: 77 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 10.54kg |Korisnika: 1
+|Id: 78 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 8.76kg |Korisnika: 1
+|Id: 79 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 13.5kg |Korisnika: 1
+|Id: 80 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 18.58kg |Korisnika: 1
+|Id: 81 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 26.2kg |Korisnika: 1
+|Id: 82 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 26.68kg |Korisnika: 1
+|Id: 83 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 23.98kg |Korisnika: 1
+|Id: 84 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 28.27kg |Korisnika: 1
+|Id: 85 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 33.82kg |Korisnika: 1
+|Id: 86 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 25.89kg |Korisnika: 1
+|Id: 87 |Vrsta spremnika: staklo |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 47.46kg |Korisnika: 1
+|Id: 88 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 12.419999kg |Korisnika: 5
+|Id: 89 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 16.61kg |Korisnika: 5
+|Id: 90 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 10.45kg |Korisnika: 5
+|Id: 91 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 12.200001kg |Korisnika: 4
+|Id: 92 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 19.130001kg |Korisnika: 2
+|Id: 93 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 18.52kg |Korisnika: 2
+|Id: 94 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 12.5199995kg |Korisnika: 2
+|Id: 95 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 23.060001kg |Korisnika: 2
+|Id: 96 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 11.83kg |Korisnika: 2
+|Id: 97 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 7.02kg |Korisnika: 1
+|Id: 98 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 54.57kg |Korisnika: 1
+|Id: 99 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 99.49kg |Korisnika: 1
+|Id: 100 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 101.09kg |Korisnika: 1
+|Id: 101 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 130.93kg |Korisnika: 1
+|Id: 102 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 56.96kg |Korisnika: 1
+|Id: 103 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 106.85kg |Korisnika: 1
+|Id: 104 |Vrsta spremnika: papir |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 119.9kg |Korisnika: 1
+|Id: 105 |Vrsta spremnika: metal |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 18.12kg |Korisnika: 10
+|Id: 106 |Vrsta spremnika: metal |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 15.95kg |Korisnika: 9
+|Id: 107 |Vrsta spremnika: metal |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 12.049999kg |Korisnika: 5
+|Id: 108 |Vrsta spremnika: metal |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 13.790001kg |Korisnika: 5
+|Id: 109 |Vrsta spremnika: metal |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 1.67kg |Korisnika: 1
+|Id: 110 |Vrsta spremnika: metal |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 37.980003kg |Korisnika: 3
+|Id: 111 |Vrsta spremnika: metal |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 56.93kg |Korisnika: 3
+|Id: 112 |Vrsta spremnika: metal |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 13.78kg |Korisnika: 1
+|Id: 113 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 4.5kg |Korisnika: 1
+|Id: 114 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 7.66kg |Korisnika: 1
+|Id: 115 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 1.1kg |Korisnika: 1
+|Id: 116 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 5.97kg |Korisnika: 1
+|Id: 117 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 5.69kg |Korisnika: 1
+|Id: 118 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 3.88kg |Korisnika: 1
+|Id: 119 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 9.18kg |Korisnika: 1
+|Id: 120 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 9.45kg |Korisnika: 1
+|Id: 121 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 5.78kg |Korisnika: 1
+|Id: 122 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 8.52kg |Korisnika: 1
+|Id: 123 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 4.18kg |Korisnika: 1
+|Id: 124 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 7.54kg |Korisnika: 1
+|Id: 125 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 3.3kg |Korisnika: 1
+|Id: 126 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 4.15kg |Korisnika: 1
+|Id: 127 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 5.35kg |Korisnika: 1
+|Id: 128 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 8.09kg |Korisnika: 1
+|Id: 129 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 9.72kg |Korisnika: 1
+|Id: 130 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 5.24kg |Korisnika: 1
+|Id: 131 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 4.97kg |Korisnika: 1
+|Id: 132 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 26.43kg |Korisnika: 1
+|Id: 133 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 26.53kg |Korisnika: 1
+|Id: 134 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 42.71kg |Korisnika: 1
+|Id: 135 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 45.12kg |Korisnika: 1
+|Id: 136 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 48.92kg |Korisnika: 1
+|Id: 137 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 11.64kg |Korisnika: 1
+|Id: 138 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 45.78kg |Korisnika: 1
+|Id: 139 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 16.8kg |Korisnika: 1
+|Id: 140 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 24.89kg |Korisnika: 1
+|Id: 141 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 45.71kg |Korisnika: 1
+|Id: 142 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 33.24kg |Korisnika: 1
+|Id: 143 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 144 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 109.13kg |Korisnika: 1
+|Id: 145 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 112.48kg |Korisnika: 1
+|Id: 146 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 83.95kg |Korisnika: 1
+|Id: 147 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 148 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 78.87kg |Korisnika: 1
+|Id: 149 |Vrsta spremnika: bio |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 150 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 5.57kg |Korisnika: 1
+|Id: 151 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 19.4kg |Korisnika: 1
+|Id: 152 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 28.83kg |Korisnika: 1
+|Id: 153 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 22.01kg |Korisnika: 1
+|Id: 154 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 8.41kg |Korisnika: 1
+|Id: 155 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 16.41kg |Korisnika: 1
+|Id: 156 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 7.01kg |Korisnika: 1
+|Id: 157 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 26.61kg |Korisnika: 1
+|Id: 158 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 11.17kg |Korisnika: 1
+|Id: 159 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 3.1kg |Korisnika: 1
+|Id: 160 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 25.14kg |Korisnika: 1
+|Id: 161 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 4.41kg |Korisnika: 1
+|Id: 162 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 12.11kg |Korisnika: 1
+|Id: 163 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 23.72kg |Korisnika: 1
+|Id: 164 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 3.23kg |Korisnika: 1
+|Id: 165 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 4.93kg |Korisnika: 1
+|Id: 166 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 18.27kg |Korisnika: 1
+|Id: 167 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 16.55kg |Korisnika: 1
+|Id: 168 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: mali |Ukupno smeca: 11.66kg |Korisnika: 1
+|Id: 169 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 172.59kg |Korisnika: 3
+|Id: 170 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 141.68kg |Korisnika: 3
+|Id: 171 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 236.09999kg |Korisnika: 3
+|Id: 172 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: srednji |Ukupno smeca: 100.689995kg |Korisnika: 2
+|Id: 173 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 183.88kg |Korisnika: 1
+|Id: 174 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 244.46kg |Korisnika: 1
+|Id: 175 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 220.39kg |Korisnika: 1
+|Id: 176 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 287.53kg |Korisnika: 1
+|Id: 177 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 257.47kg |Korisnika: 1
+|Id: 178 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 127.59kg |Korisnika: 1
+|Id: 179 |Vrsta spremnika: mješano |Ulica: 3 |Vrsta korisnika: veliki |Ukupno smeca: 228.32kg |Korisnika: 1
+|Id: 180 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 41.359997kg |Korisnika: 10
+|Id: 181 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 1.89kg |Korisnika: 1
+|Id: 182 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 15.29kg |Korisnika: 1
+|Id: 183 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 15.92kg |Korisnika: 1
+|Id: 184 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 11.29kg |Korisnika: 1
+|Id: 185 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 13.67kg |Korisnika: 1
+|Id: 186 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 18.69kg |Korisnika: 1
+|Id: 187 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 7.62kg |Korisnika: 1
+|Id: 188 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 8.86kg |Korisnika: 1
+|Id: 189 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 17.59kg |Korisnika: 1
+|Id: 190 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 17.42kg |Korisnika: 1
+|Id: 191 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 35.86kg |Korisnika: 1
+|Id: 192 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 35.91kg |Korisnika: 1
+|Id: 193 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 21.8kg |Korisnika: 1
+|Id: 194 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 30.01kg |Korisnika: 1
+|Id: 195 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 16.73kg |Korisnika: 1
+|Id: 196 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 26.61kg |Korisnika: 1
+|Id: 197 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 23.33kg |Korisnika: 1
+|Id: 198 |Vrsta spremnika: staklo |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 47.08kg |Korisnika: 1
+|Id: 199 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 15.73kg |Korisnika: 5
+|Id: 200 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 17.07kg |Korisnika: 5
+|Id: 201 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 2.53kg |Korisnika: 1
+|Id: 202 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 28.43kg |Korisnika: 2
+|Id: 203 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 20.14kg |Korisnika: 2
+|Id: 204 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 16.939999kg |Korisnika: 2
+|Id: 205 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 18.89kg |Korisnika: 2
+|Id: 206 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 146.3kg |Korisnika: 1
+|Id: 207 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 117.4kg |Korisnika: 1
+|Id: 208 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 58.68kg |Korisnika: 1
+|Id: 209 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 101.65kg |Korisnika: 1
+|Id: 210 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 70.7kg |Korisnika: 1
+|Id: 211 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 131.07kg |Korisnika: 1
+|Id: 212 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 141.26kg |Korisnika: 1
+|Id: 213 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 105.48kg |Korisnika: 1
+|Id: 214 |Vrsta spremnika: papir |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 94.26kg |Korisnika: 1
+|Id: 215 |Vrsta spremnika: metal |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 16.35kg |Korisnika: 10
+|Id: 216 |Vrsta spremnika: metal |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 1.1kg |Korisnika: 1
+|Id: 217 |Vrsta spremnika: metal |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 12.720001kg |Korisnika: 5
+|Id: 218 |Vrsta spremnika: metal |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 9.309999kg |Korisnika: 3
+|Id: 219 |Vrsta spremnika: metal |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 65.93kg |Korisnika: 3
+|Id: 220 |Vrsta spremnika: metal |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 65.37kg |Korisnika: 3
+|Id: 221 |Vrsta spremnika: metal |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 47.510002kg |Korisnika: 3
+|Id: 222 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 9.3kg |Korisnika: 1
+|Id: 223 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 3.59kg |Korisnika: 1
+|Id: 224 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 7.75kg |Korisnika: 1
+|Id: 225 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 2.96kg |Korisnika: 1
+|Id: 226 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 3.15kg |Korisnika: 1
+|Id: 227 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 6.18kg |Korisnika: 1
+|Id: 228 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 8.87kg |Korisnika: 1
+|Id: 229 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 1.66kg |Korisnika: 1
+|Id: 230 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 9.47kg |Korisnika: 1
+|Id: 231 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 1.77kg |Korisnika: 1
+|Id: 232 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 1.69kg |Korisnika: 1
+|Id: 233 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 37.51kg |Korisnika: 1
+|Id: 234 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 10.86kg |Korisnika: 1
+|Id: 235 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 20.78kg |Korisnika: 1
+|Id: 236 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 24.18kg |Korisnika: 1
+|Id: 237 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 42.77kg |Korisnika: 1
+|Id: 238 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 11.57kg |Korisnika: 1
+|Id: 239 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 14.86kg |Korisnika: 1
+|Id: 240 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 39.11kg |Korisnika: 1
+|Id: 241 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 242 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 243 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 244 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 245 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 246 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 247 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 248 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 249 |Vrsta spremnika: bio |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 110.44kg |Korisnika: 1
+|Id: 250 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 6.78kg |Korisnika: 1
+|Id: 251 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 26.76kg |Korisnika: 1
+|Id: 252 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 10.4kg |Korisnika: 1
+|Id: 253 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 12.52kg |Korisnika: 1
+|Id: 254 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 16.86kg |Korisnika: 1
+|Id: 255 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 4.1kg |Korisnika: 1
+|Id: 256 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 12.46kg |Korisnika: 1
+|Id: 257 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 7.74kg |Korisnika: 1
+|Id: 258 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 5.31kg |Korisnika: 1
+|Id: 259 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 25.08kg |Korisnika: 1
+|Id: 260 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: mali |Ukupno smeca: 23.48kg |Korisnika: 1
+|Id: 261 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 138.91kg |Korisnika: 3
+|Id: 262 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 199.59kg |Korisnika: 3
+|Id: 263 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: srednji |Ukupno smeca: 86.32kg |Korisnika: 2
+|Id: 264 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 235.19kg |Korisnika: 1
+|Id: 265 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 121.9kg |Korisnika: 1
+|Id: 266 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 90.34kg |Korisnika: 1
+|Id: 267 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 273.58kg |Korisnika: 1
+|Id: 268 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 264.21kg |Korisnika: 1
+|Id: 269 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 151.67kg |Korisnika: 1
+|Id: 270 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 110.43kg |Korisnika: 1
+|Id: 271 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 121.69kg |Korisnika: 1
+|Id: 272 |Vrsta spremnika: mješano |Ulica: 4 |Vrsta korisnika: veliki |Ukupno smeca: 130.98kg |Korisnika: 1
+|Id: 273 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 32.95kg |Korisnika: 10
+|Id: 274 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 11.549999kg |Korisnika: 3
+|Id: 275 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 18.43kg |Korisnika: 1
+|Id: 276 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 8.65kg |Korisnika: 1
+|Id: 277 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 13.52kg |Korisnika: 1
+|Id: 278 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 4.55kg |Korisnika: 1
+|Id: 279 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 16.45kg |Korisnika: 1
+|Id: 280 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 17.63kg |Korisnika: 1
+|Id: 281 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 49.03kg |Korisnika: 1
+|Id: 282 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 22.34kg |Korisnika: 1
+|Id: 283 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 37.69kg |Korisnika: 1
+|Id: 284 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 24.4kg |Korisnika: 1
+|Id: 285 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 21.08kg |Korisnika: 1
+|Id: 286 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 27.73kg |Korisnika: 1
+|Id: 287 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 15.56kg |Korisnika: 1
+|Id: 288 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 45.67kg |Korisnika: 1
+|Id: 289 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 44.4kg |Korisnika: 1
+|Id: 290 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 31.94kg |Korisnika: 1
+|Id: 291 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 29.54kg |Korisnika: 1
+|Id: 292 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 34.7kg |Korisnika: 1
+|Id: 293 |Vrsta spremnika: staklo |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 44.31kg |Korisnika: 1
+|Id: 294 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 17.39kg |Korisnika: 5
+|Id: 295 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 13.05kg |Korisnika: 5
+|Id: 296 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 10.45kg |Korisnika: 3
+|Id: 297 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 9.56kg |Korisnika: 2
+|Id: 298 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 23.65kg |Korisnika: 2
+|Id: 299 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 16.73kg |Korisnika: 2
+|Id: 300 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 48.19kg |Korisnika: 1
+|Id: 301 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 110.4kg |Korisnika: 1
+|Id: 302 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 127.66kg |Korisnika: 1
+|Id: 303 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 126.28kg |Korisnika: 1
+|Id: 304 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 71.48kg |Korisnika: 1
+|Id: 305 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 134.97kg |Korisnika: 1
+|Id: 306 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 132.1kg |Korisnika: 1
+|Id: 307 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 105.78kg |Korisnika: 1
+|Id: 308 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 81.46kg |Korisnika: 1
+|Id: 309 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 50.22kg |Korisnika: 1
+|Id: 310 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 93.2kg |Korisnika: 1
+|Id: 311 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 110.12kg |Korisnika: 1
+|Id: 312 |Vrsta spremnika: papir |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 118.37kg |Korisnika: 1
+|Id: 313 |Vrsta spremnika: metal |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 14.7kg |Korisnika: 10
+|Id: 314 |Vrsta spremnika: metal |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 5.82kg |Korisnika: 3
+|Id: 315 |Vrsta spremnika: metal |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 17.230001kg |Korisnika: 5
+|Id: 316 |Vrsta spremnika: metal |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 2.58kg |Korisnika: 1
+|Id: 317 |Vrsta spremnika: metal |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 50.54kg |Korisnika: 3
+|Id: 318 |Vrsta spremnika: metal |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 54.159996kg |Korisnika: 3
+|Id: 319 |Vrsta spremnika: metal |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 58.949997kg |Korisnika: 3
+|Id: 320 |Vrsta spremnika: metal |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 66.23kg |Korisnika: 3
+|Id: 321 |Vrsta spremnika: metal |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 26.74kg |Korisnika: 1
+|Id: 322 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 8.88kg |Korisnika: 1
+|Id: 323 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 5.08kg |Korisnika: 1
+|Id: 324 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 3.79kg |Korisnika: 1
+|Id: 325 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 8.4kg |Korisnika: 1
+|Id: 326 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 2.52kg |Korisnika: 1
+|Id: 327 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 7.8kg |Korisnika: 1
+|Id: 328 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 5.18kg |Korisnika: 1
+|Id: 329 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 2.21kg |Korisnika: 1
+|Id: 330 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 2.5kg |Korisnika: 1
+|Id: 331 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 9.83kg |Korisnika: 1
+|Id: 332 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 9.61kg |Korisnika: 1
+|Id: 333 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 8.08kg |Korisnika: 1
+|Id: 334 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 7.49kg |Korisnika: 1
+|Id: 335 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 23.5kg |Korisnika: 1
+|Id: 336 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 24.87kg |Korisnika: 1
+|Id: 337 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 26.78kg |Korisnika: 1
+|Id: 338 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 44.19kg |Korisnika: 1
+|Id: 339 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 10.16kg |Korisnika: 1
+|Id: 340 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 24.3kg |Korisnika: 1
+|Id: 341 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 342 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 83.15kg |Korisnika: 1
+|Id: 343 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 344 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 345 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 75.25kg |Korisnika: 1
+|Id: 346 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 115.2kg |Korisnika: 1
+|Id: 347 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 348 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 349 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 350 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 351 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 105.29kg |Korisnika: 1
+|Id: 352 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 353 |Vrsta spremnika: bio |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 354 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 4.23kg |Korisnika: 1
+|Id: 355 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 5.94kg |Korisnika: 1
+|Id: 356 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 10.46kg |Korisnika: 1
+|Id: 357 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 17.54kg |Korisnika: 1
+|Id: 358 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 11.38kg |Korisnika: 1
+|Id: 359 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 10.92kg |Korisnika: 1
+|Id: 360 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 25.57kg |Korisnika: 1
+|Id: 361 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 3.88kg |Korisnika: 1
+|Id: 362 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 8.61kg |Korisnika: 1
+|Id: 363 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 16.64kg |Korisnika: 1
+|Id: 364 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 10.71kg |Korisnika: 1
+|Id: 365 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 12.43kg |Korisnika: 1
+|Id: 366 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: mali |Ukupno smeca: 17.79kg |Korisnika: 1
+|Id: 367 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 132.23999kg |Korisnika: 3
+|Id: 368 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: srednji |Ukupno smeca: 135.69kg |Korisnika: 3
+|Id: 369 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 198.24kg |Korisnika: 1
+|Id: 370 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 228.49kg |Korisnika: 1
+|Id: 371 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 94.14kg |Korisnika: 1
+|Id: 372 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 114.89kg |Korisnika: 1
+|Id: 373 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 163.75kg |Korisnika: 1
+|Id: 374 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 147.15kg |Korisnika: 1
+|Id: 375 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 251.08kg |Korisnika: 1
+|Id: 376 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 296.46kg |Korisnika: 1
+|Id: 377 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 132.39kg |Korisnika: 1
+|Id: 378 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 227.98kg |Korisnika: 1
+|Id: 379 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 262.22kg |Korisnika: 1
+|Id: 380 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 276.86kg |Korisnika: 1
+|Id: 381 |Vrsta spremnika: mješano |Ulica: 5 |Vrsta korisnika: veliki |Ukupno smeca: 144.82kg |Korisnika: 1
+|Id: 382 |Vrsta spremnika: staklo |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 35.85kg |Korisnika: 10
+|Id: 383 |Vrsta spremnika: staklo |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 36.760002kg |Korisnika: 10
+|Id: 384 |Vrsta spremnika: staklo |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 14.380001kg |Korisnika: 4
+|Id: 385 |Vrsta spremnika: staklo |Ulica: 6 |Vrsta korisnika: srednji |Ukupno smeca: 13.91kg |Korisnika: 1
+|Id: 386 |Vrsta spremnika: staklo |Ulica: 6 |Vrsta korisnika: srednji |Ukupno smeca: 15.37kg |Korisnika: 1
+|Id: 387 |Vrsta spremnika: staklo |Ulica: 6 |Vrsta korisnika: srednji |Ukupno smeca: 10.6kg |Korisnika: 1
+|Id: 388 |Vrsta spremnika: papir |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 11.540001kg |Korisnika: 5
+|Id: 389 |Vrsta spremnika: papir |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 9.68kg |Korisnika: 5
+|Id: 390 |Vrsta spremnika: papir |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 12.869999kg |Korisnika: 5
+|Id: 391 |Vrsta spremnika: papir |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 16.710001kg |Korisnika: 5
+|Id: 392 |Vrsta spremnika: papir |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 7.83kg |Korisnika: 4
+|Id: 393 |Vrsta spremnika: papir |Ulica: 6 |Vrsta korisnika: srednji |Ukupno smeca: 19.92kg |Korisnika: 2
+|Id: 394 |Vrsta spremnika: papir |Ulica: 6 |Vrsta korisnika: srednji |Ukupno smeca: 7.62kg |Korisnika: 1
+|Id: 395 |Vrsta spremnika: metal |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 18.08kg |Korisnika: 10
+|Id: 396 |Vrsta spremnika: metal |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 19.189999kg |Korisnika: 10
+|Id: 397 |Vrsta spremnika: metal |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 5.37kg |Korisnika: 4
+|Id: 398 |Vrsta spremnika: metal |Ulica: 6 |Vrsta korisnika: srednji |Ukupno smeca: 9.24kg |Korisnika: 3
+|Id: 399 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 2.59kg |Korisnika: 1
+|Id: 400 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 2.11kg |Korisnika: 1
+|Id: 401 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 7.32kg |Korisnika: 1
+|Id: 402 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 2.82kg |Korisnika: 1
+|Id: 403 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 6.33kg |Korisnika: 1
+|Id: 404 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 6.15kg |Korisnika: 1
+|Id: 405 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 4.55kg |Korisnika: 1
+|Id: 406 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 9.09kg |Korisnika: 1
+|Id: 407 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 5.71kg |Korisnika: 1
+|Id: 408 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 9.77kg |Korisnika: 1
+|Id: 409 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 6.24kg |Korisnika: 1
+|Id: 410 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 5.48kg |Korisnika: 1
+|Id: 411 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 2.12kg |Korisnika: 1
+|Id: 412 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 7.04kg |Korisnika: 1
+|Id: 413 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 7.69kg |Korisnika: 1
+|Id: 414 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 8.6kg |Korisnika: 1
+|Id: 415 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 5.48kg |Korisnika: 1
+|Id: 416 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 5.76kg |Korisnika: 1
+|Id: 417 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 3.24kg |Korisnika: 1
+|Id: 418 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 4.31kg |Korisnika: 1
+|Id: 419 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 3.08kg |Korisnika: 1
+|Id: 420 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 8.3kg |Korisnika: 1
+|Id: 421 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 3.01kg |Korisnika: 1
+|Id: 422 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 2.31kg |Korisnika: 1
+|Id: 423 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: srednji |Ukupno smeca: 34.49kg |Korisnika: 1
+|Id: 424 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: srednji |Ukupno smeca: 47.97kg |Korisnika: 1
+|Id: 425 |Vrsta spremnika: bio |Ulica: 6 |Vrsta korisnika: srednji |Ukupno smeca: 33.43kg |Korisnika: 1
+|Id: 426 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 7.3kg |Korisnika: 1
+|Id: 427 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 13.07kg |Korisnika: 1
+|Id: 428 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 9.84kg |Korisnika: 1
+|Id: 429 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 16.42kg |Korisnika: 1
+|Id: 430 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 7.66kg |Korisnika: 1
+|Id: 431 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 6.68kg |Korisnika: 1
+|Id: 432 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 10.68kg |Korisnika: 1
+|Id: 433 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 19.53kg |Korisnika: 1
+|Id: 434 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 7.02kg |Korisnika: 1
+|Id: 435 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 23.86kg |Korisnika: 1
+|Id: 436 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 7.6kg |Korisnika: 1
+|Id: 437 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 3.46kg |Korisnika: 1
+|Id: 438 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 11.27kg |Korisnika: 1
+|Id: 439 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 13.1kg |Korisnika: 1
+|Id: 440 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 15.33kg |Korisnika: 1
+|Id: 441 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 3.42kg |Korisnika: 1
+|Id: 442 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 12.45kg |Korisnika: 1
+|Id: 443 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 26.63kg |Korisnika: 1
+|Id: 444 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 13.15kg |Korisnika: 1
+|Id: 445 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 14.16kg |Korisnika: 1
+|Id: 446 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 16.97kg |Korisnika: 1
+|Id: 447 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 17.71kg |Korisnika: 1
+|Id: 448 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 8.9kg |Korisnika: 1
+|Id: 449 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: mali |Ukupno smeca: 22.25kg |Korisnika: 1
+|Id: 450 |Vrsta spremnika: mješano |Ulica: 6 |Vrsta korisnika: srednji |Ukupno smeca: 124.1kg |Korisnika: 3
+|Id: 451 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 30.17kg |Korisnika: 10
+|Id: 452 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 13.43kg |Korisnika: 4
+|Id: 453 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 8.89kg |Korisnika: 1
+|Id: 454 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 18.02kg |Korisnika: 1
+|Id: 455 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 15.02kg |Korisnika: 1
+|Id: 456 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 16.6kg |Korisnika: 1
+|Id: 457 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 15.65kg |Korisnika: 1
+|Id: 458 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 5.07kg |Korisnika: 1
+|Id: 459 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 31.39kg |Korisnika: 1
+|Id: 460 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 21.93kg |Korisnika: 1
+|Id: 461 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 17.77kg |Korisnika: 1
+|Id: 462 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 29.75kg |Korisnika: 1
+|Id: 463 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 34.33kg |Korisnika: 1
+|Id: 464 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 44.99kg |Korisnika: 1
+|Id: 465 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 15.61kg |Korisnika: 1
+|Id: 466 |Vrsta spremnika: staklo |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 30.15kg |Korisnika: 1
+|Id: 467 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 14.860001kg |Korisnika: 5
+|Id: 468 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 14.87kg |Korisnika: 5
+|Id: 469 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 12.940001kg |Korisnika: 4
+|Id: 470 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 15.6kg |Korisnika: 2
+|Id: 471 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 18.77kg |Korisnika: 2
+|Id: 472 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 18.300001kg |Korisnika: 2
+|Id: 473 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 71.94kg |Korisnika: 1
+|Id: 474 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 86.28kg |Korisnika: 1
+|Id: 475 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 83.37kg |Korisnika: 1
+|Id: 476 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 147.52kg |Korisnika: 1
+|Id: 477 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 67.03kg |Korisnika: 1
+|Id: 478 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 73.92kg |Korisnika: 1
+|Id: 479 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 64.52kg |Korisnika: 1
+|Id: 480 |Vrsta spremnika: papir |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 115.93kg |Korisnika: 1
+|Id: 481 |Vrsta spremnika: metal |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 18.899998kg |Korisnika: 10
+|Id: 482 |Vrsta spremnika: metal |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 6.6800003kg |Korisnika: 4
+|Id: 483 |Vrsta spremnika: metal |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 14.15kg |Korisnika: 5
+|Id: 484 |Vrsta spremnika: metal |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 3.35kg |Korisnika: 1
+|Id: 485 |Vrsta spremnika: metal |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 57.0kg |Korisnika: 3
+|Id: 486 |Vrsta spremnika: metal |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 48.42kg |Korisnika: 3
+|Id: 487 |Vrsta spremnika: metal |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 43.69kg |Korisnika: 2
+|Id: 488 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 8.39kg |Korisnika: 1
+|Id: 489 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 8.33kg |Korisnika: 1
+|Id: 490 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 8.79kg |Korisnika: 1
+|Id: 491 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 6.34kg |Korisnika: 1
+|Id: 492 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 7.66kg |Korisnika: 1
+|Id: 493 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 8.48kg |Korisnika: 1
+|Id: 494 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 5.26kg |Korisnika: 1
+|Id: 495 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 4.63kg |Korisnika: 1
+|Id: 496 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 9.3kg |Korisnika: 1
+|Id: 497 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 2.34kg |Korisnika: 1
+|Id: 498 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 7.4kg |Korisnika: 1
+|Id: 499 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 1.36kg |Korisnika: 1
+|Id: 500 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 6.65kg |Korisnika: 1
+|Id: 501 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 1.83kg |Korisnika: 1
+|Id: 502 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 38.68kg |Korisnika: 1
+|Id: 503 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 48.92kg |Korisnika: 1
+|Id: 504 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 23.47kg |Korisnika: 1
+|Id: 505 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 39.74kg |Korisnika: 1
+|Id: 506 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 40.98kg |Korisnika: 1
+|Id: 507 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 29.6kg |Korisnika: 1
+|Id: 508 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 81.26kg |Korisnika: 1
+|Id: 509 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 90.89kg |Korisnika: 1
+|Id: 510 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 511 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 512 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 513 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 514 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 515 |Vrsta spremnika: bio |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 120.0kg |Korisnika: 1
+|Id: 516 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 22.99kg |Korisnika: 1
+|Id: 517 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 8.97kg |Korisnika: 1
+|Id: 518 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 5.3kg |Korisnika: 1
+|Id: 519 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 14.98kg |Korisnika: 1
+|Id: 520 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 17.74kg |Korisnika: 1
+|Id: 521 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 25.08kg |Korisnika: 1
+|Id: 522 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 27.87kg |Korisnika: 1
+|Id: 523 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 13.38kg |Korisnika: 1
+|Id: 524 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 21.13kg |Korisnika: 1
+|Id: 525 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 24.15kg |Korisnika: 1
+|Id: 526 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 24.15kg |Korisnika: 1
+|Id: 527 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 21.62kg |Korisnika: 1
+|Id: 528 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 8.08kg |Korisnika: 1
+|Id: 529 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: mali |Ukupno smeca: 10.25kg |Korisnika: 1
+|Id: 530 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 217.88kg |Korisnika: 3
+|Id: 531 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: srednji |Ukupno smeca: 165.33kg |Korisnika: 3
+|Id: 532 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 123.9kg |Korisnika: 1
+|Id: 533 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 233.8kg |Korisnika: 1
+|Id: 534 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 132.13kg |Korisnika: 1
+|Id: 535 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 91.2kg |Korisnika: 1
+|Id: 536 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 130.15kg |Korisnika: 1
+|Id: 537 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 94.97kg |Korisnika: 1
+|Id: 538 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 265.04kg |Korisnika: 1
+|Id: 539 |Vrsta spremnika: mješano |Ulica: 7 |Vrsta korisnika: veliki |Ukupno smeca: 188.29kg |Korisnika: 1
+|Id: 540 |Vrsta spremnika: staklo |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 43.24kg |Korisnika: 10
+|Id: 541 |Vrsta spremnika: staklo |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 5.76kg |Korisnika: 2
+|Id: 542 |Vrsta spremnika: papir |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 12.78kg |Korisnika: 5
+|Id: 543 |Vrsta spremnika: papir |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 16.900002kg |Korisnika: 5
+|Id: 544 |Vrsta spremnika: papir |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 6.5499997kg |Korisnika: 2
+|Id: 545 |Vrsta spremnika: metal |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 14.929998kg |Korisnika: 10
+|Id: 546 |Vrsta spremnika: metal |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 4.2kg |Korisnika: 2
+|Id: 547 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 2.98kg |Korisnika: 1
+|Id: 548 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 3.32kg |Korisnika: 1
+|Id: 549 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 2.71kg |Korisnika: 1
+|Id: 550 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 6.24kg |Korisnika: 1
+|Id: 551 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 3.81kg |Korisnika: 1
+|Id: 552 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 5.49kg |Korisnika: 1
+|Id: 553 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 2.2kg |Korisnika: 1
+|Id: 554 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 1.39kg |Korisnika: 1
+|Id: 555 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 6.86kg |Korisnika: 1
+|Id: 556 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 1.25kg |Korisnika: 1
+|Id: 557 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 6.72kg |Korisnika: 1
+|Id: 558 |Vrsta spremnika: bio |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 5.74kg |Korisnika: 1
+|Id: 559 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 18.65kg |Korisnika: 1
+|Id: 560 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 5.64kg |Korisnika: 1
+|Id: 561 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 18.89kg |Korisnika: 1
+|Id: 562 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 15.17kg |Korisnika: 1
+|Id: 563 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 10.9kg |Korisnika: 1
+|Id: 564 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 21.65kg |Korisnika: 1
+|Id: 565 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 9.65kg |Korisnika: 1
+|Id: 566 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 12.81kg |Korisnika: 1
+|Id: 567 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 21.81kg |Korisnika: 1
+|Id: 568 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 19.98kg |Korisnika: 1
+|Id: 569 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 9.67kg |Korisnika: 1
+|Id: 570 |Vrsta spremnika: mješano |Ulica: 8 |Vrsta korisnika: mali |Ukupno smeca: 18.99kg |Korisnika: 1
+|Id: 571 |Vrsta spremnika: staklo |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 37.76kg |Korisnika: 10
+|Id: 572 |Vrsta spremnika: staklo |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 39.050003kg |Korisnika: 10
+|Id: 573 |Vrsta spremnika: staklo |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 21.95kg |Korisnika: 4
+|Id: 574 |Vrsta spremnika: staklo |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 7.8kg |Korisnika: 1
+|Id: 575 |Vrsta spremnika: staklo |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 13.43kg |Korisnika: 1
+|Id: 576 |Vrsta spremnika: staklo |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 6.64kg |Korisnika: 1
+|Id: 577 |Vrsta spremnika: staklo |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 17.1kg |Korisnika: 1
+|Id: 578 |Vrsta spremnika: staklo |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 9.16kg |Korisnika: 1
+|Id: 579 |Vrsta spremnika: staklo |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 10.84kg |Korisnika: 1
+|Id: 580 |Vrsta spremnika: papir |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 13.590001kg |Korisnika: 5
+|Id: 581 |Vrsta spremnika: papir |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 9.200001kg |Korisnika: 5
+|Id: 582 |Vrsta spremnika: papir |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 11.799999kg |Korisnika: 5
+|Id: 583 |Vrsta spremnika: papir |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 9.07kg |Korisnika: 5
+|Id: 584 |Vrsta spremnika: papir |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 10.440001kg |Korisnika: 4
+|Id: 585 |Vrsta spremnika: papir |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 18.16kg |Korisnika: 2
+|Id: 586 |Vrsta spremnika: papir |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 17.93kg |Korisnika: 2
+|Id: 587 |Vrsta spremnika: papir |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 12.91kg |Korisnika: 2
+|Id: 588 |Vrsta spremnika: metal |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 15.480001kg |Korisnika: 10
+|Id: 589 |Vrsta spremnika: metal |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 12.98kg |Korisnika: 10
+|Id: 590 |Vrsta spremnika: metal |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 8.15kg |Korisnika: 4
+|Id: 591 |Vrsta spremnika: metal |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 16.93kg |Korisnika: 5
+|Id: 592 |Vrsta spremnika: metal |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 4.35kg |Korisnika: 1
+|Id: 593 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 3.3kg |Korisnika: 1
+|Id: 594 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 1.66kg |Korisnika: 1
+|Id: 595 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 5.55kg |Korisnika: 1
+|Id: 596 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 1.06kg |Korisnika: 1
+|Id: 597 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 4.27kg |Korisnika: 1
+|Id: 598 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 6.34kg |Korisnika: 1
+|Id: 599 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 8.93kg |Korisnika: 1
+|Id: 600 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 8.17kg |Korisnika: 1
+|Id: 601 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 7.66kg |Korisnika: 1
+|Id: 602 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 5.24kg |Korisnika: 1
+|Id: 603 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 6.42kg |Korisnika: 1
+|Id: 604 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 2.17kg |Korisnika: 1
+|Id: 605 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 1.71kg |Korisnika: 1
+|Id: 606 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 8.2kg |Korisnika: 1
+|Id: 607 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 3.44kg |Korisnika: 1
+|Id: 608 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 6.53kg |Korisnika: 1
+|Id: 609 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 4.75kg |Korisnika: 1
+|Id: 610 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 5.15kg |Korisnika: 1
+|Id: 611 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 9.27kg |Korisnika: 1
+|Id: 612 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 2.57kg |Korisnika: 1
+|Id: 613 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 5.45kg |Korisnika: 1
+|Id: 614 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 9.74kg |Korisnika: 1
+|Id: 615 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 5.56kg |Korisnika: 1
+|Id: 616 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 6.31kg |Korisnika: 1
+|Id: 617 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 12.03kg |Korisnika: 1
+|Id: 618 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 30.73kg |Korisnika: 1
+|Id: 619 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 35.54kg |Korisnika: 1
+|Id: 620 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 24.97kg |Korisnika: 1
+|Id: 621 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 13.51kg |Korisnika: 1
+|Id: 622 |Vrsta spremnika: bio |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 27.03kg |Korisnika: 1
+|Id: 623 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 18.02kg |Korisnika: 1
+|Id: 624 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 22.48kg |Korisnika: 1
+|Id: 625 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 3.74kg |Korisnika: 1
+|Id: 626 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 22.64kg |Korisnika: 1
+|Id: 627 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 22.95kg |Korisnika: 1
+|Id: 628 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 27.24kg |Korisnika: 1
+|Id: 629 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 20.87kg |Korisnika: 1
+|Id: 630 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 8.26kg |Korisnika: 1
+|Id: 631 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 23.83kg |Korisnika: 1
+|Id: 632 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 13.57kg |Korisnika: 1
+|Id: 633 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 15.11kg |Korisnika: 1
+|Id: 634 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 26.83kg |Korisnika: 1
+|Id: 635 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 25.88kg |Korisnika: 1
+|Id: 636 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 19.8kg |Korisnika: 1
+|Id: 637 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 27.65kg |Korisnika: 1
+|Id: 638 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 16.69kg |Korisnika: 1
+|Id: 639 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 15.9kg |Korisnika: 1
+|Id: 640 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 23.57kg |Korisnika: 1
+|Id: 641 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 12.32kg |Korisnika: 1
+|Id: 642 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 8.18kg |Korisnika: 1
+|Id: 643 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 11.48kg |Korisnika: 1
+|Id: 644 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 21.32kg |Korisnika: 1
+|Id: 645 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 16.67kg |Korisnika: 1
+|Id: 646 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: mali |Ukupno smeca: 17.47kg |Korisnika: 1
+|Id: 647 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 128.62kg |Korisnika: 3
+|Id: 648 |Vrsta spremnika: mješano |Ulica: 9 |Vrsta korisnika: srednji |Ukupno smeca: 211.58kg |Korisnika: 3
+|Id: 649 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 28.929998kg |Korisnika: 10
+|Id: 650 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 40.92kg |Korisnika: 10
+|Id: 651 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 16.89kg |Korisnika: 5
+|Id: 652 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 19.82kg |Korisnika: 1
+|Id: 653 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 13.84kg |Korisnika: 1
+|Id: 654 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 13.24kg |Korisnika: 1
+|Id: 655 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 18.21kg |Korisnika: 1
+|Id: 656 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 14.25kg |Korisnika: 1
+|Id: 657 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 10.67kg |Korisnika: 1
+|Id: 658 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 15.69kg |Korisnika: 1
+|Id: 659 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 17.54kg |Korisnika: 1
+|Id: 660 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 4.59kg |Korisnika: 1
+|Id: 661 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 8.06kg |Korisnika: 1
+|Id: 662 |Vrsta spremnika: staklo |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 13.16kg |Korisnika: 1
+|Id: 663 |Vrsta spremnika: papir |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 13.92kg |Korisnika: 5
+|Id: 664 |Vrsta spremnika: papir |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 12.16kg |Korisnika: 5
+|Id: 665 |Vrsta spremnika: papir |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 17.51kg |Korisnika: 5
+|Id: 666 |Vrsta spremnika: papir |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 14.02kg |Korisnika: 5
+|Id: 667 |Vrsta spremnika: papir |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 11.309999kg |Korisnika: 5
+|Id: 668 |Vrsta spremnika: papir |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 21.4kg |Korisnika: 2
+|Id: 669 |Vrsta spremnika: papir |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 27.72kg |Korisnika: 2
+|Id: 670 |Vrsta spremnika: papir |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 16.83kg |Korisnika: 2
+|Id: 671 |Vrsta spremnika: papir |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 17.54kg |Korisnika: 2
+|Id: 672 |Vrsta spremnika: papir |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 26.07kg |Korisnika: 2
+|Id: 673 |Vrsta spremnika: papir |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 8.8kg |Korisnika: 1
+|Id: 674 |Vrsta spremnika: metal |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 15.709999kg |Korisnika: 10
+|Id: 675 |Vrsta spremnika: metal |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 15.06kg |Korisnika: 10
+|Id: 676 |Vrsta spremnika: metal |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 5.77kg |Korisnika: 5
+|Id: 677 |Vrsta spremnika: metal |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 14.450001kg |Korisnika: 5
+|Id: 678 |Vrsta spremnika: metal |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 9.62kg |Korisnika: 5
+|Id: 679 |Vrsta spremnika: metal |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 2.65kg |Korisnika: 1
+|Id: 680 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 4.34kg |Korisnika: 1
+|Id: 681 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 2.65kg |Korisnika: 1
+|Id: 682 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 7.64kg |Korisnika: 1
+|Id: 683 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 5.13kg |Korisnika: 1
+|Id: 684 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 9.13kg |Korisnika: 1
+|Id: 685 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 7.6kg |Korisnika: 1
+|Id: 686 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 1.62kg |Korisnika: 1
+|Id: 687 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 9.09kg |Korisnika: 1
+|Id: 688 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 1.67kg |Korisnika: 1
+|Id: 689 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 8.5kg |Korisnika: 1
+|Id: 690 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 6.3kg |Korisnika: 1
+|Id: 691 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 6.35kg |Korisnika: 1
+|Id: 692 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 4.42kg |Korisnika: 1
+|Id: 693 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 1.69kg |Korisnika: 1
+|Id: 694 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 7.8kg |Korisnika: 1
+|Id: 695 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 6.42kg |Korisnika: 1
+|Id: 696 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 6.37kg |Korisnika: 1
+|Id: 697 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 8.24kg |Korisnika: 1
+|Id: 698 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 5.42kg |Korisnika: 1
+|Id: 699 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 9.25kg |Korisnika: 1
+|Id: 700 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 5.66kg |Korisnika: 1
+|Id: 701 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 6.24kg |Korisnika: 1
+|Id: 702 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 4.62kg |Korisnika: 1
+|Id: 703 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 6.38kg |Korisnika: 1
+|Id: 704 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 8.53kg |Korisnika: 1
+|Id: 705 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 39.13kg |Korisnika: 1
+|Id: 706 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 15.3kg |Korisnika: 1
+|Id: 707 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 28.56kg |Korisnika: 1
+|Id: 708 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 19.54kg |Korisnika: 1
+|Id: 709 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 17.32kg |Korisnika: 1
+|Id: 710 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 22.49kg |Korisnika: 1
+|Id: 711 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 44.07kg |Korisnika: 1
+|Id: 712 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 26.08kg |Korisnika: 1
+|Id: 713 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 25.17kg |Korisnika: 1
+|Id: 714 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 22.83kg |Korisnika: 1
+|Id: 715 |Vrsta spremnika: bio |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 44.74kg |Korisnika: 1
+|Id: 716 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 5.64kg |Korisnika: 1
+|Id: 717 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 22.82kg |Korisnika: 1
+|Id: 718 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 5.27kg |Korisnika: 1
+|Id: 719 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 10.85kg |Korisnika: 1
+|Id: 720 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 10.34kg |Korisnika: 1
+|Id: 721 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 27.64kg |Korisnika: 1
+|Id: 722 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 25.4kg |Korisnika: 1
+|Id: 723 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 28.46kg |Korisnika: 1
+|Id: 724 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 19.16kg |Korisnika: 1
+|Id: 725 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 11.24kg |Korisnika: 1
+|Id: 726 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 15.96kg |Korisnika: 1
+|Id: 727 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 5.04kg |Korisnika: 1
+|Id: 728 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 4.43kg |Korisnika: 1
+|Id: 729 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 11.29kg |Korisnika: 1
+|Id: 730 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 21.33kg |Korisnika: 1
+|Id: 731 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 20.61kg |Korisnika: 1
+|Id: 732 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 7.31kg |Korisnika: 1
+|Id: 733 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 26.63kg |Korisnika: 1
+|Id: 734 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 15.22kg |Korisnika: 1
+|Id: 735 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 5.86kg |Korisnika: 1
+|Id: 736 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 21.03kg |Korisnika: 1
+|Id: 737 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 13.91kg |Korisnika: 1
+|Id: 738 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 22.18kg |Korisnika: 1
+|Id: 739 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 19.23kg |Korisnika: 1
+|Id: 740 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: mali |Ukupno smeca: 15.89kg |Korisnika: 1
+|Id: 741 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 170.23kg |Korisnika: 3
+|Id: 742 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 227.70001kg |Korisnika: 3
+|Id: 743 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 204.95999kg |Korisnika: 3
+|Id: 744 |Vrsta spremnika: mješano |Ulica: 10 |Vrsta korisnika: srednji |Ukupno smeca: 105.05kg |Korisnika: 2
+Smece po ulicama: 
+|Id: 1 |Naziv: Pavlinska |Ukupno stakla: 109.75kg |Ukupno papira: 160.03kg |Ukupno metala: 29.779999kg |Ukupno bio: 346.13kg |Ukupno mjesano: 382.27kg
+|Id: 2 |Naziv: Alojzija Stepinca |Ukupno stakla: 66.7kg |Ukupno papira: 29.71kg |Ukupno metala: 27.060001kg |Ukupno bio: 88.48kg |Ukupno mjesano: 285.96002kg
+|Id: 3 |Naziv: Petra Krešimira IV |Ukupno stakla: 429.14kg |Ukupno papira: 813.55kg |Ukupno metala: 170.27kg |Ukupno bio: 1420.74kg |Ukupno mjesano: 2469.2397kg
+|Id: 4 |Naziv: Zrinskih i Frankopana |Ukupno stakla: 406.93002kg |Ukupno papira: 1086.53kg |Ukupno metala: 218.29001kg |Ukupno bio: 1893.1799kg |Ukupno mjesano: 2076.3kg
+|Id: 5 |Naziv: Krešimira Filiæa |Ukupno stakla: 552.12kg |Ukupno papira: 1401.0599kg |Ukupno metala: 296.94998kg |Ukupno bio: 2390.98kg |Ukupno mjesano: 2962.4995kg
+|Id: 6 |Naziv: Tina Ujeviæa |Ukupno stakla: 126.869995kg |Ukupno papira: 86.17kg |Ukupno metala: 51.879997kg |Ukupno bio: 244.99004kg |Ukupno mjesano: 432.56kg
+|Id: 7 |Naziv: Ruðera Boškoviæa |Ukupno stakla: 348.76996kg |Ukupno papira: 805.8499kg |Ukupno metala: 192.18999kg |Ukupno bio: 1545.7701kg |Ukupno mjesano: 1888.38kg
+|Id: 8 |Naziv: Dravska |Ukupno stakla: 49.0kg |Ukupno papira: 36.23kg |Ukupno metala: 19.130001kg |Ukupno bio: 48.709995kg |Ukupno mjesano: 183.81kg
+|Id: 9 |Naziv: Varaždinska |Ukupno stakla: 163.73kg |Ukupno papira: 103.09999kg |Ukupno metala: 57.89kg |Ukupno bio: 273.26kg |Ukupno mjesano: 782.6699kg
+|Id: 10 |Naziv: Braæe Radiæa |Ukupno stakla: 235.81kg |Ukupno papira: 187.28003kg |Ukupno metala: 63.260002kg |Ukupno bio: 456.29kg |Ukupno mjesano: 1100.6799kg
+_____________________
+|Smece po podrucjima|
+---------------------
+Oznaka podrucja      Naziv Podrucja            Ukupno stakla        Ukupno papir    Ukupno metal    Ukupno bio      Ukupno mjesano 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p2                   Varaždin grad             2089.28kg            4419.13kg       1005.55kg       7978.9805kg     10681.02kg     
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p4                   Centar                    605.59kg             1003.29kg       227.11kg        1855.35kg       3137.4697kg    
+
+p5                   Banfica                   397.76996kg          842.0799kg      211.31999kg     1594.4801kg     2072.19kg      
+
+p6                   Ðurek                     1085.92kg            2573.7598kg     567.12kg        4529.1504kg     5471.36kg      
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p3                   Varaždin okolica          399.53998kg          290.38kg        121.15kg        729.55005kg     1883.3499kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p7                   Hrašcica                  163.73kg             103.09999kg     57.89kg         273.26kg        782.6699kg     
+
+p8                   Jalkovec                  235.81kg             187.28003kg     63.260002kg     456.29kg        1100.6799kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p4                   Centar                    605.59kg             1003.29kg       227.11kg        1855.35kg       3137.4697kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+u1                   Pavlinska                 109.75kg             160.03kg        29.779999kg     346.13kg        382.27kg       
+
+u2                   Alojzija Stepinca         66.7kg               29.71kg         27.060001kg     88.48kg         285.96002kg    
+
+u3                   Petra Krešimira IV        429.14kg             813.55kg        170.27kg        1420.74kg       2469.2397kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p5                   Banfica                   397.76996kg          842.0799kg      211.31999kg     1594.4801kg     2072.19kg      
+
+-----------------------------------------------------------------------------------------------------------------------------------
+u7                   Ruðera Boškoviæa          348.76996kg          805.8499kg      192.18999kg     1545.7701kg     1888.38kg      
+
+u8                   Dravska                   49.0kg               36.23kg         19.130001kg     48.709995kg     183.81kg       
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p6                   Ðurek                     1085.92kg            2573.7598kg     567.12kg        4529.1504kg     5471.36kg      
+
+-----------------------------------------------------------------------------------------------------------------------------------
+u4                   Zrinskih i Frankopana     406.93002kg          1086.53kg       218.29001kg     1893.1799kg     2076.3kg       
+
+u5                   Krešimira Filiæa          552.12kg             1401.0599kg     296.94998kg     2390.98kg       2962.4995kg    
+
+u6                   Tina Ujeviæa              126.869995kg         86.17kg         51.879997kg     244.99004kg     432.56kg       
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p7                   Hrašcica                  163.73kg             103.09999kg     57.89kg         273.26kg        782.6699kg     
+
+-----------------------------------------------------------------------------------------------------------------------------------
+u11                  Varaždinska               163.73kg             103.09999kg     57.89kg         273.26kg        782.6699kg     
+
+-----------------------------------------------------------------------------------------------------------------------------------
+p8                   Jalkovec                  235.81kg             187.28003kg     63.260002kg     456.29kg        1100.6799kg    
+
+-----------------------------------------------------------------------------------------------------------------------------------
+u12                  Braæe Radiæa              235.81kg             187.28003kg     63.260002kg     456.29kg        1100.6799kg    
+
+Korisnici:
+|Id: 1 |Ulica: 1 |Kategorija: mali |Staklo: 5.31kg |Papir: 4.24kg |Metal: 0.95kg |Bio: 6.46kg |Mješano: 20.21kg
+|Id: 2 |Ulica: 1 |Kategorija: mali |Staklo: 2.65kg |Papir: 2.98kg |Metal: 0.62kg |Bio: 6.38kg |Mješano: 24.1kg
+|Id: 3 |Ulica: 1 |Kategorija: mali |Staklo: 2.8kg |Papir: 1.64kg |Metal: 1.34kg |Bio: 6.52kg |Mješano: 29.59kg
+|Id: 4 |Ulica: 1 |Kategorija: mali |Staklo: 6.89kg |Papir: 4.46kg |Metal: 0.36kg |Bio: 9.47kg |Mješano: 7.75kg
+|Id: 5 |Ulica: 1 |Kategorija: mali |Staklo: 2.43kg |Papir: 1.91kg |Metal: 0.65kg |Bio: 4.31kg |Mješano: 6.96kg
+|Id: 6 |Ulica: 1 |Kategorija: mali |Staklo: 5.14kg |Papir: 0.6kg |Metal: 0.3kg |Bio: 5.92kg |Mješano: 3.25kg
+|Id: 7 |Ulica: 1 |Kategorija: mali |Staklo: 6.78kg |Papir: 3.03kg |Metal: 0.58kg |Bio: 3.28kg |Mješano: 19.88kg
+|Id: 8 |Ulica: 1 |Kategorija: srednji |Staklo: 8.57kg |Papir: 7.93kg |Metal: 1.06kg |Bio: 41.05kg |Mješano: 98.14kg
+|Id: 9 |Ulica: 1 |Kategorija: srednji |Staklo: 19.85kg |Papir: 11.26kg |Metal: 2.95kg |Bio: 44.71kg |Mješano: 79.7kg
+|Id: 10 |Ulica: 1 |Kategorija: veliki |Staklo: 49.33kg |Papir: 121.98kg |Metal: 20.97kg |Bio: 218.03kg |Mješano: 92.69kg
+|Id: 11 |Ulica: 2 |Kategorija: mali |Staklo: 5.99kg |Papir: 2.35kg |Metal: 1.72kg |Bio: 7.53kg |Mješano: 27.28kg
+|Id: 12 |Ulica: 2 |Kategorija: mali |Staklo: 6.9kg |Papir: 1.1kg |Metal: 1.77kg |Bio: 1.75kg |Mješano: 8.02kg
+|Id: 13 |Ulica: 2 |Kategorija: mali |Staklo: 6.87kg |Papir: 1.88kg |Metal: 2.25kg |Bio: 7.04kg |Mješano: 22.31kg
+|Id: 14 |Ulica: 2 |Kategorija: mali |Staklo: 1.1kg |Papir: 1.14kg |Metal: 1.27kg |Bio: 5.17kg |Mješano: 10.4kg
+|Id: 15 |Ulica: 2 |Kategorija: mali |Staklo: 0.73kg |Papir: 3.5kg |Metal: 0.49kg |Bio: 7.21kg |Mješano: 12.41kg
+|Id: 16 |Ulica: 2 |Kategorija: mali |Staklo: 5.84kg |Papir: 2.02kg |Metal: 1.94kg |Bio: 8.73kg |Mješano: 28.17kg
+|Id: 17 |Ulica: 2 |Kategorija: mali |Staklo: 6.82kg |Papir: 3.85kg |Metal: 2.64kg |Bio: 5.8kg |Mješano: 19.54kg
+|Id: 18 |Ulica: 2 |Kategorija: mali |Staklo: 0.98kg |Papir: 1.31kg |Metal: 1.14kg |Bio: 2.96kg |Mješano: 8.49kg
+|Id: 19 |Ulica: 2 |Kategorija: mali |Staklo: 6.08kg |Papir: 0.87kg |Metal: 0.33kg |Bio: 4.73kg |Mješano: 21.69kg
+|Id: 20 |Ulica: 2 |Kategorija: mali |Staklo: 2.29kg |Papir: 3.97kg |Metal: 2.86kg |Bio: 7.41kg |Mješano: 21.63kg
+|Id: 21 |Ulica: 2 |Kategorija: mali |Staklo: 2.03kg |Papir: 0.72kg |Metal: 2.41kg |Bio: 4.56kg |Mješano: 28.52kg
+|Id: 22 |Ulica: 2 |Kategorija: mali |Staklo: 5.54kg |Papir: 0.56kg |Metal: 1.97kg |Bio: 4.55kg |Mješano: 19.51kg
+|Id: 23 |Ulica: 2 |Kategorija: mali |Staklo: 6.08kg |Papir: 0.61kg |Metal: 2.42kg |Bio: 9.37kg |Mješano: 29.82kg
+|Id: 24 |Ulica: 2 |Kategorija: mali |Staklo: 2.69kg |Papir: 4.47kg |Metal: 1.59kg |Bio: 2.53kg |Mješano: 6.88kg
+|Id: 25 |Ulica: 2 |Kategorija: mali |Staklo: 6.76kg |Papir: 1.36kg |Metal: 2.26kg |Bio: 9.14kg |Mješano: 21.29kg
+|Id: 26 |Ulica: 3 |Kategorija: mali |Staklo: 2.51kg |Papir: 4.12kg |Metal: 2.07kg |Bio: 4.97kg |Mješano: 11.66kg
+|Id: 27 |Ulica: 3 |Kategorija: mali |Staklo: 3.61kg |Papir: 0.93kg |Metal: 2.6kg |Bio: 5.24kg |Mješano: 16.55kg
+|Id: 28 |Ulica: 3 |Kategorija: mali |Staklo: 5.19kg |Papir: 4.96kg |Metal: 1.83kg |Bio: 9.72kg |Mješano: 18.27kg
+|Id: 29 |Ulica: 3 |Kategorija: mali |Staklo: 2.92kg |Papir: 2.19kg |Metal: 0.43kg |Bio: 8.09kg |Mješano: 4.93kg
+|Id: 30 |Ulica: 3 |Kategorija: mali |Staklo: 0.72kg |Papir: 0.63kg |Metal: 0.6kg |Bio: 5.35kg |Mješano: 3.23kg
+|Id: 31 |Ulica: 3 |Kategorija: mali |Staklo: 6.82kg |Papir: 2.67kg |Metal: 2.97kg |Bio: 4.15kg |Mješano: 23.72kg
+|Id: 32 |Ulica: 3 |Kategorija: mali |Staklo: 5.23kg |Papir: 2.76kg |Metal: 2.03kg |Bio: 3.3kg |Mješano: 12.11kg
+|Id: 33 |Ulica: 3 |Kategorija: mali |Staklo: 2.65kg |Papir: 3.84kg |Metal: 2.59kg |Bio: 7.54kg |Mješano: 4.41kg
+|Id: 34 |Ulica: 3 |Kategorija: mali |Staklo: 1.89kg |Papir: 0.55kg |Metal: 0.83kg |Bio: 4.18kg |Mješano: 25.14kg
+|Id: 35 |Ulica: 3 |Kategorija: mali |Staklo: 1.25kg |Papir: 4.67kg |Metal: 2.6kg |Bio: 8.52kg |Mješano: 3.1kg
+|Id: 36 |Ulica: 3 |Kategorija: mali |Staklo: 5.36kg |Papir: 1.89kg |Metal: 2.23kg |Bio: 5.78kg |Mješano: 11.17kg
+|Id: 37 |Ulica: 3 |Kategorija: mali |Staklo: 6.49kg |Papir: 1.91kg |Metal: 1.05kg |Bio: 9.45kg |Mješano: 26.61kg
+|Id: 38 |Ulica: 3 |Kategorija: mali |Staklo: 5.55kg |Papir: 3.24kg |Metal: 1.78kg |Bio: 9.18kg |Mješano: 7.01kg
+|Id: 39 |Ulica: 3 |Kategorija: mali |Staklo: 0.98kg |Papir: 4.9kg |Metal: 2.05kg |Bio: 3.88kg |Mješano: 16.41kg
+|Id: 40 |Ulica: 3 |Kategorija: mali |Staklo: 2.01kg |Papir: 2.78kg |Metal: 1.63kg |Bio: 5.69kg |Mješano: 8.41kg
+|Id: 41 |Ulica: 3 |Kategorija: mali |Staklo: 3.01kg |Papir: 2.2kg |Metal: 1.59kg |Bio: 5.97kg |Mješano: 22.01kg
+|Id: 42 |Ulica: 3 |Kategorija: mali |Staklo: 2.06kg |Papir: 1.95kg |Metal: 1.04kg |Bio: 1.1kg |Mješano: 28.83kg
+|Id: 43 |Ulica: 3 |Kategorija: mali |Staklo: 5.12kg |Papir: 3.93kg |Metal: 2.31kg |Bio: 7.66kg |Mješano: 19.4kg
+|Id: 44 |Ulica: 3 |Kategorija: mali |Staklo: 3.73kg |Papir: 1.56kg |Metal: 1.84kg |Bio: 4.5kg |Mješano: 5.57kg
+|Id: 45 |Ulica: 3 |Kategorija: srednji |Staklo: 18.58kg |Papir: 7.02kg |Metal: 1.67kg |Bio: 33.24kg |Mješano: 20.31kg
+|Id: 46 |Ulica: 3 |Kategorija: srednji |Staklo: 13.5kg |Papir: 6.18kg |Metal: 1.23kg |Bio: 45.71kg |Mješano: 80.38kg
+|Id: 47 |Ulica: 3 |Kategorija: srednji |Staklo: 8.76kg |Papir: 5.65kg |Metal: 2.72kg |Bio: 24.89kg |Mješano: 75.3kg
+|Id: 48 |Ulica: 3 |Kategorija: srednji |Staklo: 10.54kg |Papir: 11.17kg |Metal: 2.41kg |Bio: 16.8kg |Mješano: 73.74kg
+|Id: 49 |Ulica: 3 |Kategorija: srednji |Staklo: 9.55kg |Papir: 11.89kg |Metal: 4.39kg |Bio: 45.78kg |Mješano: 87.06kg
+|Id: 50 |Ulica: 3 |Kategorija: srednji |Staklo: 13.28kg |Papir: 3.04kg |Metal: 3.04kg |Bio: 11.64kg |Mješano: 44.96kg
+|Id: 51 |Ulica: 3 |Kategorija: srednji |Staklo: 14.37kg |Papir: 9.48kg |Metal: 3.45kg |Bio: 48.92kg |Mješano: 21.6kg
+|Id: 52 |Ulica: 3 |Kategorija: srednji |Staklo: 13.82kg |Papir: 7.96kg |Metal: 1.11kg |Bio: 45.12kg |Mješano: 75.12kg
+|Id: 53 |Ulica: 3 |Kategorija: srednji |Staklo: 14.83kg |Papir: 10.56kg |Metal: 2.2kg |Bio: 42.71kg |Mješano: 97.6kg
+|Id: 54 |Ulica: 3 |Kategorija: srednji |Staklo: 15.86kg |Papir: 6.83kg |Metal: 3.53kg |Bio: 26.53kg |Mješano: 45.19kg
+|Id: 55 |Ulica: 3 |Kategorija: srednji |Staklo: 16.65kg |Papir: 12.3kg |Metal: 1.76kg |Bio: 26.43kg |Mješano: 29.8kg
+|Id: 56 |Ulica: 3 |Kategorija: veliki |Staklo: 47.46kg |Papir: 119.9kg |Metal: 13.78kg |Bio: 238.28kg |Mješano: 228.32kg
+|Id: 57 |Ulica: 3 |Kategorija: veliki |Staklo: 25.89kg |Papir: 106.85kg |Metal: 20.12kg |Bio: 78.87kg |Mješano: 127.59kg
+|Id: 58 |Ulica: 3 |Kategorija: veliki |Staklo: 33.82kg |Papir: 56.96kg |Metal: 15.37kg |Bio: 194.69kg |Mješano: 257.47kg
+|Id: 59 |Ulica: 3 |Kategorija: veliki |Staklo: 28.27kg |Papir: 130.93kg |Metal: 21.44kg |Bio: 83.95kg |Mješano: 287.53kg
+|Id: 60 |Ulica: 3 |Kategorija: veliki |Staklo: 23.98kg |Papir: 101.09kg |Metal: 9.92kg |Bio: 112.48kg |Mješano: 220.39kg
+|Id: 61 |Ulica: 3 |Kategorija: veliki |Staklo: 26.68kg |Papir: 99.49kg |Metal: 14.26kg |Bio: 109.13kg |Mješano: 244.46kg
+|Id: 62 |Ulica: 3 |Kategorija: veliki |Staklo: 26.2kg |Papir: 54.57kg |Metal: 13.8kg |Bio: 121.3kg |Mješano: 183.88kg
+|Id: 63 |Ulica: 4 |Kategorija: mali |Staklo: 1.89kg |Papir: 2.53kg |Metal: 1.1kg |Bio: 1.69kg |Mješano: 23.48kg
+|Id: 64 |Ulica: 4 |Kategorija: mali |Staklo: 1.52kg |Papir: 0.71kg |Metal: 2.21kg |Bio: 1.77kg |Mješano: 25.08kg
+|Id: 65 |Ulica: 4 |Kategorija: mali |Staklo: 6.32kg |Papir: 3.68kg |Metal: 1.74kg |Bio: 9.47kg |Mješano: 5.31kg
+|Id: 66 |Ulica: 4 |Kategorija: mali |Staklo: 5.34kg |Papir: 2.89kg |Metal: 2.26kg |Bio: 1.66kg |Mješano: 7.74kg
+|Id: 67 |Ulica: 4 |Kategorija: mali |Staklo: 1.81kg |Papir: 4.85kg |Metal: 2.69kg |Bio: 8.87kg |Mješano: 12.46kg
+|Id: 68 |Ulica: 4 |Kategorija: mali |Staklo: 6.56kg |Papir: 4.94kg |Metal: 0.32kg |Bio: 6.18kg |Mješano: 4.1kg
+|Id: 69 |Ulica: 4 |Kategorija: mali |Staklo: 4.51kg |Papir: 3.15kg |Metal: 1.04kg |Bio: 3.15kg |Mješano: 16.86kg
+|Id: 70 |Ulica: 4 |Kategorija: mali |Staklo: 2.98kg |Papir: 4.75kg |Metal: 1.97kg |Bio: 2.96kg |Mješano: 12.52kg
+|Id: 71 |Ulica: 4 |Kategorija: mali |Staklo: 6.43kg |Papir: 2.21kg |Metal: 0.35kg |Bio: 7.75kg |Mješano: 10.4kg
+|Id: 72 |Ulica: 4 |Kategorija: mali |Staklo: 4.79kg |Papir: 3.51kg |Metal: 2.86kg |Bio: 3.59kg |Mješano: 26.76kg
+|Id: 73 |Ulica: 4 |Kategorija: mali |Staklo: 1.1kg |Papir: 2.11kg |Metal: 0.91kg |Bio: 9.3kg |Mješano: 6.78kg
+|Id: 74 |Ulica: 4 |Kategorija: srednji |Staklo: 17.59kg |Papir: 10.24kg |Metal: 3.71kg |Bio: 39.11kg |Mješano: 63.46kg
+|Id: 75 |Ulica: 4 |Kategorija: srednji |Staklo: 8.86kg |Papir: 8.65kg |Metal: 3.5kg |Bio: 14.86kg |Mješano: 22.86kg
+|Id: 76 |Ulica: 4 |Kategorija: srednji |Staklo: 7.62kg |Papir: 8.73kg |Metal: 2.1kg |Bio: 11.57kg |Mješano: 76.85kg
+|Id: 77 |Ulica: 4 |Kategorija: srednji |Staklo: 18.69kg |Papir: 8.21kg |Metal: 1.44kg |Bio: 42.77kg |Mješano: 66.73kg
+|Id: 78 |Ulica: 4 |Kategorija: srednji |Staklo: 13.67kg |Papir: 13.01kg |Metal: 3.69kg |Bio: 24.18kg |Mješano: 56.01kg
+|Id: 79 |Ulica: 4 |Kategorija: srednji |Staklo: 11.29kg |Papir: 7.13kg |Metal: 3.92kg |Bio: 20.78kg |Mješano: 64.7kg
+|Id: 80 |Ulica: 4 |Kategorija: srednji |Staklo: 15.92kg |Papir: 14.39kg |Metal: 1.82kg |Bio: 10.86kg |Mješano: 31.96kg
+|Id: 81 |Ulica: 4 |Kategorija: srednji |Staklo: 15.29kg |Papir: 14.04kg |Metal: 1.85kg |Bio: 37.51kg |Mješano: 42.25kg
+|Id: 82 |Ulica: 4 |Kategorija: veliki |Staklo: 47.08kg |Papir: 94.26kg |Metal: 9.74kg |Bio: 110.44kg |Mješano: 130.98kg
+|Id: 83 |Ulica: 4 |Kategorija: veliki |Staklo: 23.33kg |Papir: 105.48kg |Metal: 25.87kg |Bio: 243.87kg |Mješano: 121.69kg
+|Id: 84 |Ulica: 4 |Kategorija: veliki |Staklo: 26.61kg |Papir: 141.26kg |Metal: 11.9kg |Bio: 146.52kg |Mješano: 110.43kg
+|Id: 85 |Ulica: 4 |Kategorija: veliki |Staklo: 16.73kg |Papir: 131.07kg |Metal: 24.65kg |Bio: 192.24kg |Mješano: 151.67kg
+|Id: 86 |Ulica: 4 |Kategorija: veliki |Staklo: 30.01kg |Papir: 70.7kg |Metal: 19.08kg |Bio: 151.75kg |Mješano: 264.21kg
+|Id: 87 |Ulica: 4 |Kategorija: veliki |Staklo: 21.8kg |Papir: 101.65kg |Metal: 21.64kg |Bio: 177.27kg |Mješano: 273.58kg
+|Id: 88 |Ulica: 4 |Kategorija: veliki |Staklo: 35.91kg |Papir: 58.68kg |Metal: 16.86kg |Bio: 196.97kg |Mješano: 90.34kg
+|Id: 89 |Ulica: 4 |Kategorija: veliki |Staklo: 35.86kg |Papir: 117.4kg |Metal: 29.5kg |Bio: 199.91kg |Mješano: 121.9kg
+|Id: 90 |Ulica: 4 |Kategorija: veliki |Staklo: 17.42kg |Papir: 146.3kg |Metal: 19.57kg |Bio: 216.18kg |Mješano: 235.19kg
+|Id: 91 |Ulica: 5 |Kategorija: mali |Staklo: 6.12kg |Papir: 4.1kg |Metal: 2.88kg |Bio: 7.49kg |Mješano: 17.79kg
+|Id: 92 |Ulica: 5 |Kategorija: mali |Staklo: 2.85kg |Papir: 3.51kg |Metal: 0.47kg |Bio: 8.08kg |Mješano: 12.43kg
+|Id: 93 |Ulica: 5 |Kategorija: mali |Staklo: 2.58kg |Papir: 2.84kg |Metal: 2.47kg |Bio: 9.61kg |Mješano: 10.71kg
+|Id: 94 |Ulica: 5 |Kategorija: mali |Staklo: 5.07kg |Papir: 2.14kg |Metal: 0.63kg |Bio: 9.83kg |Mješano: 16.64kg
+|Id: 95 |Ulica: 5 |Kategorija: mali |Staklo: 0.71kg |Papir: 4.56kg |Metal: 1.95kg |Bio: 2.5kg |Mješano: 8.61kg
+|Id: 96 |Ulica: 5 |Kategorija: mali |Staklo: 2.9kg |Papir: 3.18kg |Metal: 2.18kg |Bio: 2.21kg |Mješano: 3.88kg
+|Id: 97 |Ulica: 5 |Kategorija: mali |Staklo: 2.19kg |Papir: 1.67kg |Metal: 0.53kg |Bio: 5.18kg |Mješano: 25.57kg
+|Id: 98 |Ulica: 5 |Kategorija: mali |Staklo: 3.26kg |Papir: 1.5kg |Metal: 0.8kg |Bio: 7.8kg |Mješano: 10.92kg
+|Id: 99 |Ulica: 5 |Kategorija: mali |Staklo: 3.77kg |Papir: 3.09kg |Metal: 1.34kg |Bio: 2.52kg |Mješano: 11.38kg
+|Id: 100 |Ulica: 5 |Kategorija: mali |Staklo: 3.04kg |Papir: 4.56kg |Metal: 0.93kg |Bio: 8.4kg |Mješano: 17.54kg
+|Id: 101 |Ulica: 5 |Kategorija: mali |Staklo: 4.44kg |Papir: 2.1kg |Metal: 2.7kg |Bio: 3.79kg |Mješano: 10.46kg
+|Id: 102 |Ulica: 5 |Kategorija: mali |Staklo: 5.98kg |Papir: 2.93kg |Metal: 2.11kg |Bio: 5.08kg |Mješano: 5.94kg
+|Id: 103 |Ulica: 5 |Kategorija: mali |Staklo: 1.59kg |Papir: 4.71kg |Metal: 1.53kg |Bio: 8.88kg |Mješano: 4.23kg
+|Id: 104 |Ulica: 5 |Kategorija: srednji |Staklo: 17.63kg |Papir: 7.41kg |Metal: 2.58kg |Bio: 24.3kg |Mješano: 50.26kg
+|Id: 105 |Ulica: 5 |Kategorija: srednji |Staklo: 16.45kg |Papir: 9.32kg |Metal: 3.52kg |Bio: 10.16kg |Mješano: 43.73kg
+|Id: 106 |Ulica: 5 |Kategorija: srednji |Staklo: 4.55kg |Papir: 11.99kg |Metal: 4.15kg |Bio: 44.19kg |Mješano: 41.7kg
+|Id: 107 |Ulica: 5 |Kategorija: srednji |Staklo: 13.52kg |Papir: 11.66kg |Metal: 4.01kg |Bio: 26.78kg |Mješano: 35.18kg
+|Id: 108 |Ulica: 5 |Kategorija: srednji |Staklo: 8.65kg |Papir: 4.78kg |Metal: 1.98kg |Bio: 24.87kg |Mješano: 30.02kg
+|Id: 109 |Ulica: 5 |Kategorija: srednji |Staklo: 18.43kg |Papir: 4.78kg |Metal: 3.57kg |Bio: 23.5kg |Mješano: 67.04kg
+|Id: 110 |Ulica: 5 |Kategorija: veliki |Staklo: 44.31kg |Papir: 118.37kg |Metal: 26.74kg |Bio: 217.47kg |Mješano: 144.82kg
+|Id: 111 |Ulica: 5 |Kategorija: veliki |Staklo: 34.7kg |Papir: 110.12kg |Metal: 13.92kg |Bio: 160.88kg |Mješano: 276.86kg
+|Id: 112 |Ulica: 5 |Kategorija: veliki |Staklo: 29.54kg |Papir: 93.2kg |Metal: 26.94kg |Bio: 105.29kg |Mješano: 262.22kg
+|Id: 113 |Ulica: 5 |Kategorija: veliki |Staklo: 31.94kg |Papir: 50.22kg |Metal: 25.37kg |Bio: 120.73kg |Mješano: 227.98kg
+|Id: 114 |Ulica: 5 |Kategorija: veliki |Staklo: 44.4kg |Papir: 81.46kg |Metal: 18.9kg |Bio: 204.71kg |Mješano: 132.39kg
+|Id: 115 |Ulica: 5 |Kategorija: veliki |Staklo: 45.67kg |Papir: 105.78kg |Metal: 15.15kg |Bio: 202.26kg |Mješano: 296.46kg
+|Id: 116 |Ulica: 5 |Kategorija: veliki |Staklo: 15.56kg |Papir: 132.1kg |Metal: 24.9kg |Bio: 209.95kg |Mješano: 251.08kg
+|Id: 117 |Ulica: 5 |Kategorija: veliki |Staklo: 27.73kg |Papir: 134.97kg |Metal: 12.28kg |Bio: 115.2kg |Mješano: 147.15kg
+|Id: 118 |Ulica: 5 |Kategorija: veliki |Staklo: 21.08kg |Papir: 71.48kg |Metal: 27.81kg |Bio: 75.25kg |Mješano: 163.75kg
+|Id: 119 |Ulica: 5 |Kategorija: veliki |Staklo: 24.4kg |Papir: 126.28kg |Metal: 14.07kg |Bio: 214.89kg |Mješano: 114.89kg
+|Id: 120 |Ulica: 5 |Kategorija: veliki |Staklo: 37.69kg |Papir: 127.66kg |Metal: 20.5kg |Bio: 243.49kg |Mješano: 94.14kg
+|Id: 121 |Ulica: 5 |Kategorija: veliki |Staklo: 22.34kg |Papir: 110.4kg |Metal: 12.47kg |Bio: 83.15kg |Mješano: 228.49kg
+|Id: 122 |Ulica: 5 |Kategorija: veliki |Staklo: 49.03kg |Papir: 48.19kg |Metal: 17.57kg |Bio: 202.54kg |Mješano: 198.24kg
+|Id: 123 |Ulica: 6 |Kategorija: mali |Staklo: 3.7kg |Papir: 0.55kg |Metal: 0.79kg |Bio: 2.31kg |Mješano: 22.25kg
+|Id: 124 |Ulica: 6 |Kategorija: mali |Staklo: 6.07kg |Papir: 2.21kg |Metal: 0.98kg |Bio: 3.01kg |Mješano: 8.9kg
+|Id: 125 |Ulica: 6 |Kategorija: mali |Staklo: 1.92kg |Papir: 1.14kg |Metal: 1.85kg |Bio: 8.3kg |Mješano: 17.71kg
+|Id: 126 |Ulica: 6 |Kategorija: mali |Staklo: 2.69kg |Papir: 3.93kg |Metal: 1.75kg |Bio: 3.08kg |Mješano: 16.97kg
+|Id: 127 |Ulica: 6 |Kategorija: mali |Staklo: 6.82kg |Papir: 2.96kg |Metal: 1.55kg |Bio: 4.31kg |Mješano: 14.16kg
+|Id: 128 |Ulica: 6 |Kategorija: mali |Staklo: 1.62kg |Papir: 3.3kg |Metal: 0.89kg |Bio: 3.24kg |Mješano: 13.15kg
+|Id: 129 |Ulica: 6 |Kategorija: mali |Staklo: 5.53kg |Papir: 4.61kg |Metal: 1.3kg |Bio: 5.76kg |Mješano: 26.63kg
+|Id: 130 |Ulica: 6 |Kategorija: mali |Staklo: 1.36kg |Papir: 3.44kg |Metal: 1.88kg |Bio: 5.48kg |Mješano: 12.45kg
+|Id: 131 |Ulica: 6 |Kategorija: mali |Staklo: 3.33kg |Papir: 2.4kg |Metal: 2.1kg |Bio: 8.6kg |Mješano: 3.42kg
+|Id: 132 |Ulica: 6 |Kategorija: mali |Staklo: 4.2kg |Papir: 1.24kg |Metal: 1.97kg |Bio: 7.69kg |Mješano: 15.33kg
+|Id: 133 |Ulica: 6 |Kategorija: mali |Staklo: 6.55kg |Papir: 4.64kg |Metal: 1.35kg |Bio: 7.04kg |Mješano: 13.1kg
+|Id: 134 |Ulica: 6 |Kategorija: mali |Staklo: 1.54kg |Papir: 0.83kg |Metal: 2.84kg |Bio: 2.12kg |Mješano: 11.27kg
+|Id: 135 |Ulica: 6 |Kategorija: mali |Staklo: 4.04kg |Papir: 4.18kg |Metal: 2.81kg |Bio: 5.48kg |Mješano: 3.46kg
+|Id: 136 |Ulica: 6 |Kategorija: mali |Staklo: 1.77kg |Papir: 1.98kg |Metal: 2.5kg |Bio: 6.24kg |Mješano: 7.6kg
+|Id: 137 |Ulica: 6 |Kategorija: mali |Staklo: 2.97kg |Papir: 2.19kg |Metal: 0.41kg |Bio: 9.77kg |Mješano: 23.86kg
+|Id: 138 |Ulica: 6 |Kategorija: mali |Staklo: 3.26kg |Papir: 0.63kg |Metal: 2.35kg |Bio: 5.71kg |Mješano: 7.02kg
+|Id: 139 |Ulica: 6 |Kategorija: mali |Staklo: 3.14kg |Papir: 3.36kg |Metal: 2.11kg |Bio: 9.09kg |Mješano: 19.53kg
+|Id: 140 |Ulica: 6 |Kategorija: mali |Staklo: 2.44kg |Papir: 1.59kg |Metal: 2.03kg |Bio: 4.55kg |Mješano: 10.68kg
+|Id: 141 |Ulica: 6 |Kategorija: mali |Staklo: 6.97kg |Papir: 1.91kg |Metal: 1.09kg |Bio: 6.15kg |Mješano: 6.68kg
+|Id: 142 |Ulica: 6 |Kategorija: mali |Staklo: 5.13kg |Papir: 2.47kg |Metal: 1.68kg |Bio: 6.33kg |Mješano: 7.66kg
+|Id: 143 |Ulica: 6 |Kategorija: mali |Staklo: 1.27kg |Papir: 2.04kg |Metal: 2.67kg |Bio: 2.82kg |Mješano: 16.42kg
+|Id: 144 |Ulica: 6 |Kategorija: mali |Staklo: 4.78kg |Papir: 2.89kg |Metal: 2.3kg |Bio: 7.32kg |Mješano: 9.84kg
+|Id: 145 |Ulica: 6 |Kategorija: mali |Staklo: 4.43kg |Papir: 3.38kg |Metal: 2.83kg |Bio: 2.11kg |Mješano: 13.07kg
+|Id: 146 |Ulica: 6 |Kategorija: mali |Staklo: 1.46kg |Papir: 0.76kg |Metal: 0.61kg |Bio: 2.59kg |Mješano: 7.3kg
+|Id: 147 |Ulica: 6 |Kategorija: srednji |Staklo: 10.6kg |Papir: 7.62kg |Metal: 3.6kg |Bio: 33.43kg |Mješano: 76.93kg
+|Id: 148 |Ulica: 6 |Kategorija: srednji |Staklo: 15.37kg |Papir: 14.31kg |Metal: 1.75kg |Bio: 47.97kg |Mješano: 24.93kg
+|Id: 149 |Ulica: 6 |Kategorija: srednji |Staklo: 13.91kg |Papir: 5.61kg |Metal: 3.89kg |Bio: 34.49kg |Mješano: 22.24kg
+|Id: 150 |Ulica: 7 |Kategorija: mali |Staklo: 2.96kg |Papir: 1.19kg |Metal: 1.6kg |Bio: 1.83kg |Mješano: 10.25kg
+|Id: 151 |Ulica: 7 |Kategorija: mali |Staklo: 6.62kg |Papir: 3.44kg |Metal: 2.33kg |Bio: 6.65kg |Mješano: 8.08kg
+|Id: 152 |Ulica: 7 |Kategorija: mali |Staklo: 1.83kg |Papir: 4.8kg |Metal: 0.74kg |Bio: 1.36kg |Mješano: 21.62kg
+|Id: 153 |Ulica: 7 |Kategorija: mali |Staklo: 2.02kg |Papir: 3.51kg |Metal: 2.01kg |Bio: 7.4kg |Mješano: 24.15kg
+|Id: 154 |Ulica: 7 |Kategorija: mali |Staklo: 1.58kg |Papir: 2.13kg |Metal: 2.89kg |Bio: 2.34kg |Mješano: 24.15kg
+|Id: 155 |Ulica: 7 |Kategorija: mali |Staklo: 4.38kg |Papir: 4.99kg |Metal: 2.55kg |Bio: 9.3kg |Mješano: 21.13kg
+|Id: 156 |Ulica: 7 |Kategorija: mali |Staklo: 5.04kg |Papir: 2.31kg |Metal: 1.69kg |Bio: 4.63kg |Mješano: 13.38kg
+|Id: 157 |Ulica: 7 |Kategorija: mali |Staklo: 4.33kg |Papir: 3.62kg |Metal: 0.9kg |Bio: 5.26kg |Mješano: 27.87kg
+|Id: 158 |Ulica: 7 |Kategorija: mali |Staklo: 1.38kg |Papir: 1.82kg |Metal: 2.43kg |Bio: 8.48kg |Mješano: 25.08kg
+|Id: 159 |Ulica: 7 |Kategorija: mali |Staklo: 1.23kg |Papir: 3.65kg |Metal: 2.38kg |Bio: 7.66kg |Mješano: 17.74kg
+|Id: 160 |Ulica: 7 |Kategorija: mali |Staklo: 4.82kg |Papir: 2.87kg |Metal: 1.55kg |Bio: 6.34kg |Mješano: 14.98kg
+|Id: 161 |Ulica: 7 |Kategorija: mali |Staklo: 2.35kg |Papir: 1.33kg |Metal: 1.93kg |Bio: 8.79kg |Mješano: 5.3kg
+|Id: 162 |Ulica: 7 |Kategorija: mali |Staklo: 2.52kg |Papir: 4.35kg |Metal: 1.08kg |Bio: 8.33kg |Mješano: 8.97kg
+|Id: 163 |Ulica: 7 |Kategorija: mali |Staklo: 2.54kg |Papir: 2.66kg |Metal: 1.5kg |Bio: 8.39kg |Mješano: 22.99kg
+|Id: 164 |Ulica: 7 |Kategorija: srednji |Staklo: 5.07kg |Papir: 14.52kg |Metal: 3.35kg |Bio: 29.6kg |Mješano: 87.33kg
+|Id: 165 |Ulica: 7 |Kategorija: srednji |Staklo: 15.65kg |Papir: 3.78kg |Metal: 2.77kg |Bio: 40.98kg |Mješano: 53.86kg
+|Id: 166 |Ulica: 7 |Kategorija: srednji |Staklo: 16.6kg |Papir: 5.81kg |Metal: 3.74kg |Bio: 39.74kg |Mješano: 24.14kg
+|Id: 167 |Ulica: 7 |Kategorija: srednji |Staklo: 15.02kg |Papir: 12.96kg |Metal: 1.41kg |Bio: 23.47kg |Mješano: 80.49kg
+|Id: 168 |Ulica: 7 |Kategorija: srednji |Staklo: 18.02kg |Papir: 8.45kg |Metal: 4.35kg |Bio: 48.92kg |Mješano: 50.6kg
+|Id: 169 |Ulica: 7 |Kategorija: srednji |Staklo: 8.89kg |Papir: 7.15kg |Metal: 1.88kg |Bio: 38.68kg |Mješano: 86.79kg
+|Id: 170 |Ulica: 7 |Kategorija: veliki |Staklo: 30.15kg |Papir: 115.93kg |Metal: 21.98kg |Bio: 182.1kg |Mješano: 188.29kg
+|Id: 171 |Ulica: 7 |Kategorija: veliki |Staklo: 15.61kg |Papir: 64.52kg |Metal: 21.71kg |Bio: 199.79kg |Mješano: 265.04kg
+|Id: 172 |Ulica: 7 |Kategorija: veliki |Staklo: 44.99kg |Papir: 73.92kg |Metal: 15.6kg |Bio: 124.76kg |Mješano: 94.97kg
+|Id: 173 |Ulica: 7 |Kategorija: veliki |Staklo: 34.33kg |Papir: 67.03kg |Metal: 16.95kg |Bio: 213.33kg |Mješano: 130.15kg
+|Id: 174 |Ulica: 7 |Kategorija: veliki |Staklo: 29.75kg |Papir: 147.52kg |Metal: 15.87kg |Bio: 144.42kg |Mješano: 91.2kg
+|Id: 175 |Ulica: 7 |Kategorija: veliki |Staklo: 17.77kg |Papir: 83.37kg |Metal: 10.08kg |Bio: 201.07kg |Mješano: 132.13kg
+|Id: 176 |Ulica: 7 |Kategorija: veliki |Staklo: 21.93kg |Papir: 86.28kg |Metal: 22.75kg |Bio: 90.89kg |Mješano: 233.8kg
+|Id: 177 |Ulica: 7 |Kategorija: veliki |Staklo: 31.39kg |Papir: 71.94kg |Metal: 24.17kg |Bio: 81.26kg |Mješano: 123.9kg
+|Id: 178 |Ulica: 8 |Kategorija: mali |Staklo: 1.77kg |Papir: 4.87kg |Metal: 2.4kg |Bio: 5.74kg |Mješano: 18.99kg
+|Id: 179 |Ulica: 8 |Kategorija: mali |Staklo: 3.99kg |Papir: 1.68kg |Metal: 1.8kg |Bio: 6.72kg |Mješano: 9.67kg
+|Id: 180 |Ulica: 8 |Kategorija: mali |Staklo: 2.29kg |Papir: 2.46kg |Metal: 2.81kg |Bio: 1.25kg |Mješano: 19.98kg
+|Id: 181 |Ulica: 8 |Kategorija: mali |Staklo: 5.41kg |Papir: 4.66kg |Metal: 0.73kg |Bio: 6.86kg |Mješano: 21.81kg
+|Id: 182 |Ulica: 8 |Kategorija: mali |Staklo: 3.79kg |Papir: 1.35kg |Metal: 2.34kg |Bio: 1.39kg |Mješano: 12.81kg
+|Id: 183 |Ulica: 8 |Kategorija: mali |Staklo: 6.78kg |Papir: 4.05kg |Metal: 1.59kg |Bio: 2.2kg |Mješano: 9.65kg
+|Id: 184 |Ulica: 8 |Kategorija: mali |Staklo: 3.5kg |Papir: 4.38kg |Metal: 1.14kg |Bio: 5.49kg |Mješano: 21.65kg
+|Id: 185 |Ulica: 8 |Kategorija: mali |Staklo: 2.63kg |Papir: 0.78kg |Metal: 1.68kg |Bio: 3.81kg |Mješano: 10.9kg
+|Id: 186 |Ulica: 8 |Kategorija: mali |Staklo: 6.71kg |Papir: 3.12kg |Metal: 1.12kg |Bio: 6.24kg |Mješano: 15.17kg
+|Id: 187 |Ulica: 8 |Kategorija: mali |Staklo: 1.09kg |Papir: 0.96kg |Metal: 0.86kg |Bio: 2.71kg |Mješano: 18.89kg
+|Id: 188 |Ulica: 8 |Kategorija: mali |Staklo: 4.98kg |Papir: 4.91kg |Metal: 1.02kg |Bio: 3.32kg |Mješano: 5.64kg
+|Id: 189 |Ulica: 8 |Kategorija: mali |Staklo: 6.06kg |Papir: 3.01kg |Metal: 1.64kg |Bio: 2.98kg |Mješano: 18.65kg
+|Id: 190 |Ulica: 9 |Kategorija: mali |Staklo: 6.69kg |Papir: 0.75kg |Metal: 2.44kg |Bio: 6.31kg |Mješano: 17.47kg
+|Id: 191 |Ulica: 9 |Kategorija: mali |Staklo: 6.85kg |Papir: 3.46kg |Metal: 0.78kg |Bio: 5.56kg |Mješano: 16.67kg
+|Id: 192 |Ulica: 9 |Kategorija: mali |Staklo: 6.14kg |Papir: 3.59kg |Metal: 2.45kg |Bio: 9.74kg |Mješano: 21.32kg
+|Id: 193 |Ulica: 9 |Kategorija: mali |Staklo: 2.27kg |Papir: 2.64kg |Metal: 2.48kg |Bio: 5.45kg |Mješano: 11.48kg
+|Id: 194 |Ulica: 9 |Kategorija: mali |Staklo: 3.36kg |Papir: 2.4kg |Metal: 1.52kg |Bio: 2.57kg |Mješano: 8.18kg
+|Id: 195 |Ulica: 9 |Kategorija: mali |Staklo: 2.5kg |Papir: 0.51kg |Metal: 2.08kg |Bio: 9.27kg |Mješano: 12.32kg
+|Id: 196 |Ulica: 9 |Kategorija: mali |Staklo: 3.9kg |Papir: 3.27kg |Metal: 0.46kg |Bio: 5.15kg |Mješano: 23.57kg
+|Id: 197 |Ulica: 9 |Kategorija: mali |Staklo: 4.32kg |Papir: 0.73kg |Metal: 1.17kg |Bio: 4.75kg |Mješano: 15.9kg
+|Id: 198 |Ulica: 9 |Kategorija: mali |Staklo: 2.14kg |Papir: 2.16kg |Metal: 2.91kg |Bio: 6.53kg |Mješano: 16.69kg
+|Id: 199 |Ulica: 9 |Kategorija: mali |Staklo: 1.1kg |Papir: 1.31kg |Metal: 0.38kg |Bio: 3.44kg |Mješano: 27.65kg
+|Id: 200 |Ulica: 9 |Kategorija: mali |Staklo: 3.68kg |Papir: 1.59kg |Metal: 0.68kg |Bio: 8.2kg |Mješano: 19.8kg
+|Id: 201 |Ulica: 9 |Kategorija: mali |Staklo: 6.27kg |Papir: 4.37kg |Metal: 1.05kg |Bio: 1.71kg |Mješano: 25.88kg
+|Id: 202 |Ulica: 9 |Kategorija: mali |Staklo: 6.65kg |Papir: 1.31kg |Metal: 2.07kg |Bio: 2.17kg |Mješano: 26.83kg
+|Id: 203 |Ulica: 9 |Kategorija: mali |Staklo: 5.13kg |Papir: 3.22kg |Metal: 0.66kg |Bio: 6.42kg |Mješano: 15.11kg
+|Id: 204 |Ulica: 9 |Kategorija: mali |Staklo: 6.44kg |Papir: 2.69kg |Metal: 2.47kg |Bio: 5.24kg |Mješano: 13.57kg
+|Id: 205 |Ulica: 9 |Kategorija: mali |Staklo: 1.27kg |Papir: 1.67kg |Metal: 1.2kg |Bio: 7.66kg |Mješano: 23.83kg
+|Id: 206 |Ulica: 9 |Kategorija: mali |Staklo: 1.59kg |Papir: 1.34kg |Metal: 0.38kg |Bio: 8.17kg |Mješano: 8.26kg
+|Id: 207 |Ulica: 9 |Kategorija: mali |Staklo: 4.99kg |Papir: 2.31kg |Metal: 0.56kg |Bio: 8.93kg |Mješano: 20.87kg
+|Id: 208 |Ulica: 9 |Kategorija: mali |Staklo: 1.42kg |Papir: 1.19kg |Metal: 2.85kg |Bio: 6.34kg |Mješano: 27.24kg
+|Id: 209 |Ulica: 9 |Kategorija: mali |Staklo: 1.23kg |Papir: 1.89kg |Metal: 2.17kg |Bio: 4.27kg |Mješano: 22.95kg
+|Id: 210 |Ulica: 9 |Kategorija: mali |Staklo: 3.71kg |Papir: 1.27kg |Metal: 0.52kg |Bio: 1.06kg |Mješano: 22.64kg
+|Id: 211 |Ulica: 9 |Kategorija: mali |Staklo: 4.47kg |Papir: 3.47kg |Metal: 1.89kg |Bio: 5.55kg |Mješano: 3.74kg
+|Id: 212 |Ulica: 9 |Kategorija: mali |Staklo: 6.7kg |Papir: 4.28kg |Metal: 2.52kg |Bio: 1.66kg |Mješano: 22.48kg
+|Id: 213 |Ulica: 9 |Kategorija: mali |Staklo: 5.94kg |Papir: 2.68kg |Metal: 0.92kg |Bio: 3.3kg |Mješano: 18.02kg
+|Id: 214 |Ulica: 9 |Kategorija: srednji |Staklo: 10.84kg |Papir: 6.22kg |Metal: 4.35kg |Bio: 27.03kg |Mješano: 97.28kg
+|Id: 215 |Ulica: 9 |Kategorija: srednji |Staklo: 9.16kg |Papir: 6.69kg |Metal: 1.33kg |Bio: 13.51kg |Mješano: 53.8kg
+|Id: 216 |Ulica: 9 |Kategorija: srednji |Staklo: 17.1kg |Papir: 8.08kg |Metal: 2.99kg |Bio: 24.97kg |Mješano: 60.5kg
+|Id: 217 |Ulica: 9 |Kategorija: srednji |Staklo: 6.64kg |Papir: 9.85kg |Metal: 4.13kg |Bio: 35.54kg |Mješano: 33.98kg
+|Id: 218 |Ulica: 9 |Kategorija: srednji |Staklo: 13.43kg |Papir: 5.88kg |Metal: 3.6kg |Bio: 30.73kg |Mješano: 40.23kg
+|Id: 219 |Ulica: 9 |Kategorija: srednji |Staklo: 7.8kg |Papir: 12.28kg |Metal: 4.88kg |Bio: 12.03kg |Mješano: 54.41kg
+|Id: 220 |Ulica: 10 |Kategorija: mali |Staklo: 6.81kg |Papir: 2.9kg |Metal: 1.36kg |Bio: 8.53kg |Mješano: 15.89kg
+|Id: 221 |Ulica: 10 |Kategorija: mali |Staklo: 1.29kg |Papir: 2.35kg |Metal: 0.65kg |Bio: 6.38kg |Mješano: 19.23kg
+|Id: 222 |Ulica: 10 |Kategorija: mali |Staklo: 2.65kg |Papir: 0.58kg |Metal: 0.62kg |Bio: 4.62kg |Mješano: 22.18kg
+|Id: 223 |Ulica: 10 |Kategorija: mali |Staklo: 3.31kg |Papir: 1.63kg |Metal: 1.73kg |Bio: 6.24kg |Mješano: 13.91kg
+|Id: 224 |Ulica: 10 |Kategorija: mali |Staklo: 2.83kg |Papir: 3.85kg |Metal: 1.41kg |Bio: 5.66kg |Mješano: 21.03kg
+|Id: 225 |Ulica: 10 |Kategorija: mali |Staklo: 5.6kg |Papir: 3.1kg |Metal: 1.51kg |Bio: 9.25kg |Mješano: 5.86kg
+|Id: 226 |Ulica: 10 |Kategorija: mali |Staklo: 0.78kg |Papir: 2.17kg |Metal: 1.01kg |Bio: 5.42kg |Mješano: 15.22kg
+|Id: 227 |Ulica: 10 |Kategorija: mali |Staklo: 6.03kg |Papir: 1.33kg |Metal: 1.78kg |Bio: 8.24kg |Mješano: 26.63kg
+|Id: 228 |Ulica: 10 |Kategorija: mali |Staklo: 3.75kg |Papir: 3.25kg |Metal: 2.4kg |Bio: 6.37kg |Mješano: 7.31kg
+|Id: 229 |Ulica: 10 |Kategorija: mali |Staklo: 5.16kg |Papir: 4.17kg |Metal: 1.17kg |Bio: 6.42kg |Mješano: 20.61kg
+|Id: 230 |Ulica: 10 |Kategorija: mali |Staklo: 4.02kg |Papir: 4.44kg |Metal: 2.72kg |Bio: 7.8kg |Mješano: 21.33kg
+|Id: 231 |Ulica: 10 |Kategorija: mali |Staklo: 1.34kg |Papir: 4.65kg |Metal: 0.56kg |Bio: 1.69kg |Mješano: 11.29kg
+|Id: 232 |Ulica: 10 |Kategorija: mali |Staklo: 2.09kg |Papir: 3.08kg |Metal: 1.91kg |Bio: 4.42kg |Mješano: 4.43kg
+|Id: 233 |Ulica: 10 |Kategorija: mali |Staklo: 5.19kg |Papir: 1.18kg |Metal: 0.59kg |Bio: 6.35kg |Mješano: 5.04kg
+|Id: 234 |Ulica: 10 |Kategorija: mali |Staklo: 6.96kg |Papir: 4.16kg |Metal: 1.41kg |Bio: 6.3kg |Mješano: 15.96kg
+|Id: 235 |Ulica: 10 |Kategorija: mali |Staklo: 4.58kg |Papir: 4.44kg |Metal: 1.56kg |Bio: 8.5kg |Mješano: 11.24kg
+|Id: 236 |Ulica: 10 |Kategorija: mali |Staklo: 1.08kg |Papir: 0.58kg |Metal: 0.31kg |Bio: 1.67kg |Mješano: 19.16kg
+|Id: 237 |Ulica: 10 |Kategorija: mali |Staklo: 4.16kg |Papir: 3.56kg |Metal: 2.66kg |Bio: 9.09kg |Mješano: 28.46kg
+|Id: 238 |Ulica: 10 |Kategorija: mali |Staklo: 0.9kg |Papir: 1.35kg |Metal: 2.42kg |Bio: 1.62kg |Mješano: 25.4kg
+|Id: 239 |Ulica: 10 |Kategorija: mali |Staklo: 1.89kg |Papir: 2.23kg |Metal: 0.63kg |Bio: 7.6kg |Mješano: 27.64kg
+|Id: 240 |Ulica: 10 |Kategorija: mali |Staklo: 3.37kg |Papir: 2.53kg |Metal: 2.52kg |Bio: 9.13kg |Mješano: 10.34kg
+|Id: 241 |Ulica: 10 |Kategorija: mali |Staklo: 5.37kg |Papir: 3.66kg |Metal: 0.53kg |Bio: 5.13kg |Mješano: 10.85kg
+|Id: 242 |Ulica: 10 |Kategorija: mali |Staklo: 4.26kg |Papir: 0.68kg |Metal: 1.06kg |Bio: 7.64kg |Mješano: 5.27kg
+|Id: 243 |Ulica: 10 |Kategorija: mali |Staklo: 1.25kg |Papir: 3.09kg |Metal: 1.12kg |Bio: 2.65kg |Mješano: 22.82kg
+|Id: 244 |Ulica: 10 |Kategorija: mali |Staklo: 2.07kg |Papir: 3.96kg |Metal: 2.9kg |Bio: 4.34kg |Mješano: 5.64kg
+|Id: 245 |Ulica: 10 |Kategorija: srednji |Staklo: 13.16kg |Papir: 8.8kg |Metal: 2.65kg |Bio: 44.74kg |Mješano: 44.46kg
+|Id: 246 |Ulica: 10 |Kategorija: srednji |Staklo: 8.06kg |Papir: 13.16kg |Metal: 1.24kg |Bio: 22.83kg |Mješano: 60.59kg
+|Id: 247 |Ulica: 10 |Kategorija: srednji |Staklo: 4.59kg |Papir: 12.91kg |Metal: 1.32kg |Bio: 25.17kg |Mješano: 50.32kg
+|Id: 248 |Ulica: 10 |Kategorija: srednji |Staklo: 17.54kg |Papir: 10.29kg |Metal: 2.19kg |Bio: 26.08kg |Mješano: 67.31kg
+|Id: 249 |Ulica: 10 |Kategorija: srednji |Staklo: 15.69kg |Papir: 7.25kg |Metal: 2.16kg |Bio: 44.07kg |Mješano: 87.33kg
+|Id: 250 |Ulica: 10 |Kategorija: srednji |Staklo: 10.67kg |Papir: 10.12kg |Metal: 2.71kg |Bio: 22.49kg |Mješano: 80.07kg
+|Id: 251 |Ulica: 10 |Kategorija: srednji |Staklo: 14.25kg |Papir: 6.71kg |Metal: 1.77kg |Bio: 17.32kg |Mješano: 69.6kg
+|Id: 252 |Ulica: 10 |Kategorija: srednji |Staklo: 18.21kg |Papir: 14.86kg |Metal: 1.74kg |Bio: 19.54kg |Mješano: 78.03kg
+|Id: 253 |Ulica: 10 |Kategorija: srednji |Staklo: 13.24kg |Papir: 12.86kg |Metal: 4.73kg |Bio: 28.56kg |Mješano: 28.72kg
+|Id: 254 |Ulica: 10 |Kategorija: srednji |Staklo: 13.84kg |Papir: 12.41kg |Metal: 2.65kg |Bio: 15.3kg |Mješano: 98.42kg
+|Id: 255 |Ulica: 10 |Kategorija: srednji |Staklo: 19.82kg |Papir: 8.99kg |Metal: 3.56kg |Bio: 39.13kg |Mješano: 43.09kg
+Kraj dana
+Vozilo: staklarko 1 zbrinjava: 0.0kg otpada za kraj radnog dana
+Vozilo: papirko 1   zbrinjava: 0.0kg otpada za kraj radnog dana
+Vozilo: metalko 1   zbrinjava: 0.0kg otpada za kraj radnog dana
+Vozilo: biotko 1    zbrinjava: 0.0kg otpada za kraj radnog dana
+Vozilo: mješanko 1  zbrinjava: 0.0kg otpada za kraj radnog dana
+Vozilo: mješanko 2  zbrinjava: 0.0kg otpada za kraj radnog dana
+Vozilo: mješanko 3  zbrinjava: 0.0kg otpada za kraj radnog dana
+Vozilo staklarko 1 pokupljenih spremnika: 0 kolicina pokupljenog otpada: 0.0kg  broj odlazaka na zbrinjavanje otpada: 0
+Vozilo papirko 1   pokupljenih spremnika: 0 kolicina pokupljenog otpada: 0.0kg  broj odlazaka na zbrinjavanje otpada: 0
+Vozilo metalko 1   pokupljenih spremnika: 0 kolicina pokupljenog otpada: 0.0kg  broj odlazaka na zbrinjavanje otpada: 0
+Vozilo biotko 1    pokupljenih spremnika: 0 kolicina pokupljenog otpada: 0.0kg  broj odlazaka na zbrinjavanje otpada: 0
+Vozilo mješanko 1  pokupljenih spremnika: 0 kolicina pokupljenog otpada: 0.0kg  broj odlazaka na zbrinjavanje otpada: 0
+Vozilo mješanko 2  pokupljenih spremnika: 0 kolicina pokupljenog otpada: 0.0kg  broj odlazaka na zbrinjavanje otpada: 0
+Vozilo mješanko 3  pokupljenih spremnika: 0 kolicina pokupljenog otpada: 0.0kg  broj odlazaka na zbrinjavanje otpada: 0
+Ukupno zbrinuto otpada staklo: 0.0kg papir: 0.0kg metal: 0.0kg bio: 0.0kg mjesano: 0.0kg
